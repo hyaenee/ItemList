@@ -2741,66 +2741,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Zombie"
-	},
-	{
-		"abr": "zombieserum10%",
-		"price": 200,
-		"category": "Serum",
-		"defname": "Zombie10Serum"
-	},
-	{
-		"abr": "zombieserum100%",
-		"price": 2000,
-		"category": "Serum",
-		"defname": "Zombie100Serum"
-	},
-	{
-		"abr": "zombieserum20%",
-		"price": 400,
-		"category": "Serum",
-		"defname": "Zombie20Serum"
-	},
-	{
-		"abr": "zombieserum30%",
-		"price": 600,
-		"category": "Serum",
-		"defname": "Zombie30Serum"
-	},
-	{
-		"abr": "zombieserum40%",
-		"price": 800,
-		"category": "Serum",
-		"defname": "Zombie40Serum"
-	},
-	{
-		"abr": "zombieserum50%",
-		"price": 1000,
-		"category": "Serum",
-		"defname": "Zombie50Serum"
-	},
-	{
-		"abr": "zombieserum60%",
-		"price": 1200,
-		"category": "Serum",
-		"defname": "Zombie60Serum"
-	},
-	{
-		"abr": "zombieserum70%",
-		"price": 1400,
-		"category": "Serum",
-		"defname": "Zombie70Serum"
-	},
-	{
-		"abr": "zombieserum80%",
-		"price": 1600,
-		"category": "Serum",
-		"defname": "Zombie80Serum"
-	},
-	{
-		"abr": "zombieserum90%",
-		"price": 1800,
-		"category": "Serum",
-		"defname": "Zombie90Serum"
 	}
 	],
 	"total": 467
