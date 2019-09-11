@@ -136,19 +136,9 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "inspiration",
-		"price": 150,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "maninblack",
-		"price": 350,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -163,11 +153,6 @@
 	{
 		"abr": "psychicsoothe",
 		"price": 250,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "ambrosiasprout",
-		"price": 150,
 		"karmatype": "Good"
 	},
 	{
@@ -242,7 +227,7 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -262,7 +247,7 @@
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
+		"price": 4000,
 		"karmatype": "Bad"
 	},
 	{
@@ -287,7 +272,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -296,7 +281,7 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "gambleskill",
+		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
 	},
@@ -304,16 +289,6 @@
 		"abr": "trait",
 		"price": 3500,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "removetrait",
-		"price": 5500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "genderswap",
-		"price": 600,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "prisoner",
@@ -329,7 +304,22 @@
 		"abr": "berescued",
 		"price": 900,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "randominspire",
+		"price": 450,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "torytalkervote",
+		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 66
+	"total": 64
 }
