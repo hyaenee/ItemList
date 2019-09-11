@@ -1885,24 +1885,6 @@
 		"defname": "PowerArm"
 	},
 	{
-		"abr": "powerarmormk.i"thunder"",
-		"price": 11917,
-		"category": "Apparel",
-		"defname": "Apparel_MK1Thunder"
-	},
-	{
-		"abr": "powerclaw",
-		"price": 6250,
-		"category": "Bionics",
-		"defname": "PowerClaw"
-	},
-	{
-		"abr": "powerhelmetmk.i"thunder"",
-		"price": 6242,
-		"category": "Apparel",
-		"defname": "Apparel_MK1ThunderHead"
-	},
-	{
 		"abr": "powerswitch",
 		"price": 102,
 		"category": "Misc",
