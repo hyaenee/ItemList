@@ -261,6 +261,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "reviveanypawn",
+		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "pawn",
 		"price": 1500,
 		"karmatype": "Good"
@@ -273,6 +278,16 @@
 	{
 		"abr": "gambleskill",
 		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "trait",
+		"price": 3500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "removetrait",
+		"price": 5500,
 		"karmatype": "Good"
 	},
 	{
@@ -321,5 +336,5 @@
 		"karmatype": "Bad"
 	}
 	],
-	"total": 64
+	"total": 67
 }
