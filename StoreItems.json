@@ -35,7 +35,7 @@
 		"price": 5000,
 		"category": "Advanced bionics",
 		"defname": "AdvancedBionicHand"
-	}
+	},
 	{
 		"abr": "advancedbionicjaw",
 		"price": 5000,
@@ -2783,8 +2783,7 @@
 		"price": 1800,
 		"category": "Serum",
 		"defname": "Zombie90Serum"
-	}
+	},
 	],
 	"total": 467
 }
-
