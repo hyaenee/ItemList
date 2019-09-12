@@ -1885,6 +1885,12 @@
 		"defname": "PowerArm"
 	},
 	{
+		"abr": "powerclaw",
+		"price": 6250,
+		"category": "Bionics",
+		"defname": "PowerClaw"
+	},
+	{
 		"abr": "powerswitch",
 		"price": 102,
 		"category": "Misc",
@@ -2783,7 +2789,7 @@
 		"price": 1800,
 		"category": "Serum",
 		"defname": "Zombie90Serum"
-	},
+	}
 	],
 	"total": 467
 }
