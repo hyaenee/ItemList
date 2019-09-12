@@ -1,4 +1,4 @@
-{
+﻿{
 	"items" : [
 	{
 		"abr": "affenfleisch",
@@ -1727,18 +1727,6 @@
 		"price": 12500,
 		"category": "Bionische Gliedmaßen",
 		"defname": "PowerArm"
-	},
-	{
-		"abr": "powerarmormk.i"thunder"",
-		"price": 11917,
-		"category": "Kleidung",
-		"defname": "Apparel_MK1Thunder"
-	},
-	{
-		"abr": "powerhelmetmk.i"thunder"",
-		"price": 6242,
-		"category": "Kleidung",
-		"defname": "Apparel_MK1ThunderHead"
 	},
 	{
 		"abr": "power-kralle",
