@@ -161,11 +161,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "rarethrumbos",
-		"price": 500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "shipchunkdrop",
 		"price": 300,
 		"karmatype": "Good"
@@ -261,11 +256,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "reviveanypawn",
-		"price": 1200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "pawn",
 		"price": 1500,
 		"karmatype": "Good"
@@ -317,7 +307,7 @@
 	},
 	{
 		"abr": "icestorm",
-		"price": 6000,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
@@ -336,5 +326,5 @@
 		"karmatype": "Bad"
 	}
 	],
-	"total": 67
+	"total": 65
 }
