@@ -609,7 +609,7 @@
 	{
 		"abr": "coldfusionreactorheart",
 		"price": 4000,
-		"category": "Items",
+		"category": "Special",
 		"defname": "ColdFusionReactorHeath"
 	},
 	{
@@ -897,7 +897,7 @@
 	{
 		"abr": "enricher",
 		"price": 4000,
-		"category": "Items",
+		"category": "Special",
 		"defname": "Enricher"
 	},
 	{
@@ -1091,42 +1091,6 @@
 		"price": 1692,
 		"category": "Misc",
 		"defname": "GroundPenetratingScanner"
-	},
-	{
-		"abr": "guestbed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "guestbedroll",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "guestdoublebedroll",
-		"price": 290,
-		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": 667,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "guestroyalbed",
-		"price": 1467,
-		"category": "Furniture",
-		"defname": "RoyalBedGuest"
 	},
 	{
 		"abr": "handtailorbench",
@@ -1597,18 +1561,6 @@
 		"defname": "Milk"
 	},
 	{
-		"abr": "minifiedarcreactor",
-		"price": 10000,
-		"category": "Items",
-		"defname": "MiniArcReactor"
-	},
-	{
-		"abr": "minifiedcoldfusionreactor",
-		"price": 6667,
-		"category": "Items",
-		"defname": "MiniColdFusionReactor"
-	},
-	{
 		"abr": "minigun",
 		"price": 1933,
 		"category": "Ranged weapons",
@@ -1761,7 +1713,7 @@
 	{
 		"abr": "palladiumcore",
 		"price": 4667,
-		"category": "Items",
+		"category": "Special",
 		"defname": "PalladiumCore"
 	},
 	{
@@ -1977,7 +1929,7 @@
 	{
 		"abr": "quantumconverter",
 		"price": 16667,
-		"category": "Items",
+		"category": "Special",
 		"defname": "QuantumConverter"
 	},
 	{
@@ -2349,7 +2301,7 @@
 	{
 		"abr": "supermagnetnewgeneration",
 		"price": 15000,
-		"category": "Items",
+		"category": "Special",
 		"defname": "SuperMagnetNewGeneration"
 	},
 	{
@@ -2583,13 +2535,13 @@
 	{
 		"abr": "vacuumstabilizer",
 		"price": 7000,
-		"category": "Items",
+		"category": "Special",
 		"defname": "VacuumStabilizer"
 	},
 	{
 		"abr": "vacuumtube",
 		"price": 250,
-		"category": "Items",
+		"category": "Special",
 		"defname": "VacuumTube"
 	},
 	{
@@ -2743,6 +2695,30 @@
 		"defname": "Zombie100Serum"
 	},
 	{
+		"abr": "cherubmechinjector",
+		"price": 3333,
+		"category": "Items",
+		"defname": "CherubMechInjectorSW"
+	},
+	{
+		"abr": "maliciousaipersonacore",
+		"price": 3000,
+		"category": "Items",
+		"defname": "MalAIPersonaCoreSW"
+	},
+	{
+		"abr": "mendingkit",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "MendingKit"
+	},
+	{
+		"abr": "mendingworkbench",
+		"price": 583,
+		"category": "Production",
+		"defname": "TableMending"
+	},
+	{
 		"abr": "zombieserum20%",
 		"price": 400,
 		"category": "Serum",
@@ -2766,30 +2742,6 @@
 		"category": "Serum",
 		"defname": "Zombie50Serum"
 	},
-	{
-		"abr": "zombieserum60%",
-		"price": 1200,
-		"category": "Serum",
-		"defname": "Zombie60Serum"
-	},
-	{
-		"abr": "zombieserum70%",
-		"price": 1400,
-		"category": "Serum",
-		"defname": "Zombie70Serum"
-	},
-	{
-		"abr": "zombieserum80%",
-		"price": 1600,
-		"category": "Serum",
-		"defname": "Zombie80Serum"
-	},
-	{
-		"abr": "zombieserum90%",
-		"price": 1800,
-		"category": "Serum",
-		"defname": "Zombie90Serum"
-	}
 	],
 	"total": 467
 }
