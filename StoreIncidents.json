@@ -247,12 +247,7 @@
 	},
 	{
 		"abr": "randomdisease",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "disease",
-		"price": 1000,
+		"price": 1200,
 		"karmatype": "Bad"
 	},
 	{
@@ -302,7 +297,7 @@
 	},
 	{
 		"abr": "bouldermasshit",
-		"price": 500,
+		"price": 200,
 		"karmatype": "Bad"
 	},
 	{
@@ -317,7 +312,7 @@
 	},
 	{
 		"abr": "heavyair",
-		"price": 2000,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -329,7 +324,67 @@
 		"abr": "beetlerush",
 		"price": 4000,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "reversetraderequest",
+		"price": 700,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "woundedcombatants",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "pirateextortion",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "roadworks",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "diplomaticmarriage",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "mysticalshaman",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "annualexpo",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "peacetalks",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "piratecamp",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "bumpercrops",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hunterslodge",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "baseattack",
+		"price": 1000,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 66
+	"total": 77
 }
