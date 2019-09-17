@@ -67,10 +67,34 @@
 		"defname": "Apparel_AdvancedHelmet"
 	},
 	{
+		"abr": "advancednuclearpowerplant",
+		"price": 10067,
+		"category": "Power",
+		"defname": "sd_adv_powergen_nuclear_power_plant"
+	},
+	{
 		"abr": "advancedpowerarm",
 		"price": 16667,
 		"category": "Advanced bionics",
 		"defname": "AdvancedPowerArm"
+	},
+	{
+		"abr": "advancedsolargenerator",
+		"price": 1358,
+		"category": "Power",
+		"defname": "sd_adv_powergen_adv_solar_generator"
+	},
+	{
+		"abr": "advancedwatermillgenerator",
+		"price": 2142,
+		"category": "Power",
+		"defname": "sd_adv_powergen_WatermillGenerator"
+	},
+	{
+		"abr": "advancedwindturbine",
+		"price": 1258,
+		"category": "Power",
+		"defname": "sd_adv_powergen_adv_wind_turbine"
 	},
 	{
 		"abr": "agavefruit",
@@ -385,6 +409,12 @@
 		"defname": "Leather_Bird"
 	},
 	{
+		"abr": "bluebladefilet",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Blueblade"
+	},
+	{
 		"abr": "bluefur",
 		"price": 4,
 		"category": "Leathers",
@@ -529,6 +559,12 @@
 		"defname": "ChemfuelPoweredGenerator"
 	},
 	{
+		"abr": "cherubmechinjector",
+		"price": 3333,
+		"category": "Items",
+		"defname": "CherubMechInjectorSW"
+	},
+	{
 		"abr": "chesstable",
 		"price": 281,
 		"category": "Furniture",
@@ -611,6 +647,72 @@
 		"price": 53,
 		"category": "Manufactured",
 		"defname": "ComponentIndustrial"
+	},
+	{
+		"abr": "composite",
+		"price": 13,
+		"category": "Synthamide",
+		"defname": "FiberComposite"
+	},
+	{
+		"abr": "compositeblack",
+		"price": 13,
+		"category": "Synthamide",
+		"defname": "FiberCompositeBlack"
+	},
+	{
+		"abr": "compositeblue",
+		"price": 13,
+		"category": "Synthamide",
+		"defname": "FiberCompositeBlue"
+	},
+	{
+		"abr": "compositegreen",
+		"price": 13,
+		"category": "Synthamide",
+		"defname": "FiberCompositeGreen"
+	},
+	{
+		"abr": "compositeolive",
+		"price": 13,
+		"category": "Synthamide",
+		"defname": "FiberCompositeOlive"
+	},
+	{
+		"abr": "compositeorange",
+		"price": 13,
+		"category": "Synthamide",
+		"defname": "FiberCompositeOrange"
+	},
+	{
+		"abr": "compositered",
+		"price": 13,
+		"category": "Synthamide",
+		"defname": "FiberCompositeRed"
+	},
+	{
+		"abr": "compositesand",
+		"price": 13,
+		"category": "Synthamide",
+		"defname": "FiberCompositeSand"
+	},
+	{
+		"abr": "compositeviolet",
+		"price": 13,
+		"category": "Synthamide",
+		"defname": "FiberCompositeViolet"
+	},
+	{
+		"abr": "compositewhite",
+		"price": 13,
+		"category": "Synthamide",
+		"defname": "FiberCompositeWhite"
+	},
+	{
+		"abr": "compositeyellow",
+		"price": 13,
+		"category": "Synthamide",
+		"defname": "FiberCompositeYellow"
 	},
 	{
 		"abr": "cooler",
@@ -803,6 +905,12 @@
 		"price": 492,
 		"category": "Production",
 		"defname": "ElectricSmithy"
+	},
+	{
+		"abr": "electricstonecutter'stable",
+		"price": 567,
+		"category": "Production",
+		"defname": "TableStonecutterElectric"
 	},
 	{
 		"abr": "electricstove",
@@ -1069,6 +1177,48 @@
 		"defname": "GroundPenetratingScanner"
 	},
 	{
+		"abr": "growingzonepuller",
+		"price": 475,
+		"category": "Buildings",
+		"defname": "MovingRailGreenPuller"
+	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": 290,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": 667,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": 1467,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	},
+	{
 		"abr": "handtailorbench",
 		"price": 262,
 		"category": "Production",
@@ -1267,6 +1417,12 @@
 		"defname": "MeleeWeapon_Ikwa"
 	},
 	{
+		"abr": "improvisedshipturret(boxed)",
+		"price": 1667,
+		"category": "Weapons",
+		"defname": "ShipTurretTemplate"
+	},
+	{
 		"abr": "incendiarylauncher",
 		"price": 508,
 		"category": "Ranged weapons",
@@ -1459,6 +1615,12 @@
 		"defname": "TableMachining"
 	},
 	{
+		"abr": "maliciousaipersonacore",
+		"price": 3000,
+		"category": "Items",
+		"defname": "MalAIPersonaCoreSW"
+	},
+	{
 		"abr": "marbleblocks",
 		"price": 2,
 		"category": "Stone blocks",
@@ -1511,6 +1673,18 @@
 		"price": 4,
 		"category": "Textiles",
 		"defname": "WoolMegasloth"
+	},
+	{
+		"abr": "mendingkit",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "MendingKit"
+	},
+	{
+		"abr": "mendingworkbench",
+		"price": 583,
+		"category": "Production",
+		"defname": "TableMending"
 	},
 	{
 		"abr": "milk",
@@ -1577,6 +1751,12 @@
 		"price": 5833,
 		"category": "Synthetic organs",
 		"defname": "MuscleStimulator"
+	},
+	{
+		"abr": "napalm",
+		"price": 5,
+		"category": "Oil",
+		"defname": "Napalm"
 	},
 	{
 		"abr": "neurotrainermechserum",
@@ -1651,6 +1831,12 @@
 		"defname": "Cooler_Over2W"
 	},
 	{
+		"abr": "oyster",
+		"price": 7,
+		"category": "Foods",
+		"defname": "Oyster"
+	},
+	{
 		"abr": "packagedsurvivalmeal",
 		"price": 40,
 		"category": "Meals",
@@ -1705,6 +1891,12 @@
 		"defname": "Leather_Patch"
 	},
 	{
+		"abr": "pearl",
+		"price": 417,
+		"category": "Items",
+		"defname": "Pearl"
+	},
+	{
 		"abr": "pegleg",
 		"price": 167,
 		"category": "Basic prostheses",
@@ -1733,6 +1925,12 @@
 		"price": 182,
 		"category": "Ranged weapons",
 		"defname": "Pila"
+	},
+	{
+		"abr": "pipelinevalve",
+		"price": 50,
+		"category": "Oil",
+		"defname": "pipelineValve"
 	},
 	{
 		"abr": "plainleather",
@@ -1861,6 +2059,12 @@
 		"defname": "PsychoidLeaves"
 	},
 	{
+		"abr": "puller",
+		"price": 475,
+		"category": "Buildings",
+		"defname": "MovingRailPuller"
+	},
+	{
 		"abr": "pumpshotgun",
 		"price": 425,
 		"category": "Ranged weapons",
@@ -1871,6 +2075,12 @@
 		"price": 558,
 		"category": "Ranged weapons",
 		"defname": "Gun_PumpShotgun_Bayonet"
+	},
+	{
+		"abr": "pusher",
+		"price": 293,
+		"category": "Buildings",
+		"defname": "MovingRailPusher"
 	},
 	{
 		"abr": "quadrefrigerator",
@@ -1981,10 +2191,28 @@
 		"defname": "ScytherBlade"
 	},
 	{
+		"abr": "sduigglestentacles",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Sduiggles"
+	},
+	{
+		"abr": "seasnakefilet",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Seasnake"
+	},
+	{
 		"abr": "shelf",
 		"price": 104,
 		"category": "Furniture",
 		"defname": "Shelf"
+	},
+	{
+		"abr": "shelledmashgon",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mashgon"
 	},
 	{
 		"abr": "shieldbelt",
@@ -2275,6 +2503,12 @@
 		"defname": "Apparel_Garrison"
 	},
 	{
+		"abr": "synthamide",
+		"price": 9,
+		"category": "Textiles",
+		"defname": "Synthamide"
+	},
+	{
 		"abr": "syntheticheart",
 		"price": 3333,
 		"category": "Synthetic organs",
@@ -2311,6 +2545,72 @@
 		"defname": "Synthread"
 	},
 	{
+		"abr": "synthylene",
+		"price": 3,
+		"category": "Synthylene",
+		"defname": "Synthylene"
+	},
+	{
+		"abr": "synthyleneblack",
+		"price": 3,
+		"category": "Synthylene",
+		"defname": "SynthyleneBlack"
+	},
+	{
+		"abr": "synthyleneblue",
+		"price": 3,
+		"category": "Synthylene",
+		"defname": "SynthyleneBlue"
+	},
+	{
+		"abr": "synthylenegreen",
+		"price": 3,
+		"category": "Synthylene",
+		"defname": "SynthyleneGreen"
+	},
+	{
+		"abr": "synthyleneolive",
+		"price": 3,
+		"category": "Synthylene",
+		"defname": "SynthyleneOlive"
+	},
+	{
+		"abr": "synthyleneorange",
+		"price": 3,
+		"category": "Synthylene",
+		"defname": "SynthyleneOrange"
+	},
+	{
+		"abr": "synthylenered",
+		"price": 3,
+		"category": "Synthylene",
+		"defname": "SynthyleneRed"
+	},
+	{
+		"abr": "synthylenesand",
+		"price": 3,
+		"category": "Synthylene",
+		"defname": "SynthyleneSand"
+	},
+	{
+		"abr": "synthyleneviolet",
+		"price": 3,
+		"category": "Synthylene",
+		"defname": "SynthyleneViolet"
+	},
+	{
+		"abr": "synthylenewhite",
+		"price": 3,
+		"category": "Synthylene",
+		"defname": "SynthyleneWhite"
+	},
+	{
+		"abr": "synthyleneyellow",
+		"price": 3,
+		"category": "Synthylene",
+		"defname": "SynthyleneYellow"
+	},
+	{
 		"abr": "table(1x1)",
 		"price": 54,
 		"category": "Furniture",
@@ -2345,6 +2645,18 @@
 		"price": 5833,
 		"category": "Synthetic organs",
 		"defname": "TacticalCorneaImplant"
+	},
+	{
+		"abr": "tailteethleather",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "Leather_Tailteeth"
+	},
+	{
+		"abr": "tailteethsteak",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Tailteeth"
 	},
 	{
 		"abr": "techprofsubpersonacore",
@@ -2459,6 +2771,18 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Turkey"
+	},
+	{
+		"abr": "uncuredplasteel",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "UncuredPlasteel"
+	},
+	{
+		"abr": "uncuredsynthamidecomposite",
+		"price": 3,
+		"category": "Synthamide",
+		"defname": "UncuredComposite"
 	},
 	{
 		"abr": "uranium",
@@ -2591,127 +2915,7 @@
 		"price": 2333,
 		"category": "Items",
 		"defname": "MechSerumYouth"
-	},
-	{
-		"abr": "cherubmechinjector",
-		"price": 3333,
-		"category": "Items",
-		"defname": "CherubMechInjectorSW"
-	},
-	{
-		"abr": "maliciousaipersonacore",
-		"price": 3000,
-		"category": "Items",
-		"defname": "MalAIPersonaCoreSW"
-	},
-	{
-		"abr": "mendingkit",
-		"price": 17,
-		"category": "Manufactured",
-		"defname": "MendingKit"
-	},
-	{
-		"abr": "mendingworkbench",
-		"price": 583,
-		"category": "Production",
-		"defname": "TableMending"
-	},
-	{
-		"abr": "advancednuclearpowerplant",
-		"price": 10067,
-		"category": "Power",
-		"defname": "sd_adv_powergen_nuclear_power_plant"
-	},
-	{
-		"abr": "advancedsolargenerator",
-		"price": 1358,
-		"category": "Power",
-		"defname": "sd_adv_powergen_adv_solar_generator"
-	},
-	{
-		"abr": "advancedwatermillgenerator",
-		"price": 2142,
-		"category": "Power",
-		"defname": "sd_adv_powergen_WatermillGenerator"
-	},
-	{
-		"abr": "advancedwindturbine",
-		"price": 1258,
-		"category": "Power",
-		"defname": "sd_adv_powergen_adv_wind_turbine"
-	},
-	{
-		"abr": "bluebladefilet",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Blueblade"
-	},
-	{
-		"abr": "electricstonecutter'stable",
-		"price": 567,
-		"category": "Production",
-		"defname": "TableStonecutterElectric"
-	},
-	{
-		"abr": "growingzonepuller",
-		"price": 475,
-		"category": "Buildings",
-		"defname": "MovingRailGreenPuller"
-	},
-	{
-		"abr": "guestbed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "guestbedroll",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "guestdoublebedroll",
-		"price": 290,
-		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": 667,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "guestroyalbed",
-		"price": 1467,
-		"category": "Furniture",
-		"defname": "RoyalBedGuest"
-	},
-	{
-		"abr": "improvisedshipturret(boxed)",
-		"price": 1667,
-		"category": "Weapons",
-		"defname": "ShipTurretTemplate"
-	},
-	{
-		"abr": "oyster",
-		"price": 7,
-		"category": "Foods",
-		"defname": "Oyster"
-	},
-	{
-		"abr": "pearl",
-		"price": 417,
-		"category": "Items",
-		"defname": "Pearl"
 	}
 	],
-	"total": 490
+	"total": 486
 }
