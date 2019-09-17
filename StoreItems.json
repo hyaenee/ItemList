@@ -2647,72 +2647,6 @@
 		"defname": "Meat_Blueblade"
 	},
 	{
-		"abr": "composite",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberComposite"
-	},
-	{
-		"abr": "compositeblack",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeBlack"
-	},
-	{
-		"abr": "compositeblue",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeBlue"
-	},
-	{
-		"abr": "compositegreen",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeGreen"
-	},
-	{
-		"abr": "compositeolive",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeOlive"
-	},
-	{
-		"abr": "compositeorange",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeOrange"
-	},
-	{
-		"abr": "compositered",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeRed"
-	},
-	{
-		"abr": "compositesand",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeSand"
-	},
-	{
-		"abr": "compositeviolet",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeViolet"
-	},
-	{
-		"abr": "compositewhite",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeWhite"
-	},
-	{
-		"abr": "compositeyellow",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeYellow"
-	},
-	{
 		"abr": "electricstonecutter'stable",
 		"price": 567,
 		"category": "Production",
@@ -2767,12 +2701,6 @@
 		"defname": "ShipTurretTemplate"
 	},
 	{
-		"abr": "napalm",
-		"price": 5,
-		"category": "Oil",
-		"defname": "Napalm"
-	},
-	{
 		"abr": "oyster",
 		"price": 7,
 		"category": "Foods",
@@ -2783,12 +2711,6 @@
 		"price": 417,
 		"category": "Items",
 		"defname": "Pearl"
-	},
-	{
-		"abr": "pipelinevalve",
-		"price": 50,
-		"category": "Oil",
-		"defname": "pipelineValve"
 	}
 	],
 	"total": 490
