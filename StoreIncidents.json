@@ -286,46 +286,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "supernova",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "superheatwave",
-		"price": 1800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "bouldermasshit",
-		"price": 200,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "leanatmosphere",
-		"price": 3000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "icestorm",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "heavyair",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidportal",
-		"price": 3200,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "beetlerush",
-		"price": 4000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "reversetraderequest",
 		"price": 700,
 		"karmatype": "Good"
@@ -386,5 +346,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 77
+	"total": 69
 }

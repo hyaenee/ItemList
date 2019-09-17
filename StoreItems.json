@@ -295,12 +295,6 @@
 		"defname": "RawBerries"
 	},
 	{
-		"abr": "bigarrow",
-		"price": 8,
-		"category": "Medieval shells",
-		"defname": "BigArrows"
-	},
-	{
 		"abr": "billiardstable",
 		"price": 600,
 		"category": "Furniture",
@@ -607,12 +601,6 @@
 		"defname": "CochlearImplant"
 	},
 	{
-		"abr": "coldfusionreactorheart",
-		"price": 4000,
-		"category": "Special",
-		"defname": "ColdFusionReactorHeath"
-	},
-	{
 		"abr": "commsconsole",
 		"price": 608,
 		"category": "Misc",
@@ -887,18 +875,6 @@
 		"price": 135,
 		"category": "Furniture",
 		"defname": "Anon2EndTableLight"
-	},
-	{
-		"abr": "energeticharpoon",
-		"price": 3333,
-		"category": "Ranged weapons",
-		"defname": "Gun_Energeticharpoon"
-	},
-	{
-		"abr": "enricher",
-		"price": 4000,
-		"category": "Special",
-		"defname": "Enricher"
 	},
 	{
 		"abr": "exoskeletonsuit",
@@ -1321,12 +1297,6 @@
 		"defname": "Meat_Megaspider"
 	},
 	{
-		"abr": "insectmeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_CaveBeetleKing"
-	},
-	{
 		"abr": "jacket",
 		"price": 275,
 		"category": "Apparel",
@@ -1525,18 +1495,6 @@
 		"defname": "MedicineIndustrial"
 	},
 	{
-		"abr": "medievalballista",
-		"price": 783,
-		"category": "Security",
-		"defname": "Ballista"
-	},
-	{
-		"abr": "medievalcatapult",
-		"price": 775,
-		"category": "Security",
-		"defname": "Catapult"
-	},
-	{
 		"abr": "megascreentelevision",
 		"price": 2475,
 		"category": "Recreation",
@@ -1709,12 +1667,6 @@
 		"price": 7500,
 		"category": "Synthetic organs",
 		"defname": "Painstopper"
-	},
-	{
-		"abr": "palladiumcore",
-		"price": 4667,
-		"category": "Special",
-		"defname": "PalladiumCore"
 	},
 	{
 		"abr": "panthermeat",
@@ -1925,12 +1877,6 @@
 		"price": 307,
 		"category": "Furniture",
 		"defname": "RimFridge_QuadRefrigerator"
-	},
-	{
-		"abr": "quantumconverter",
-		"price": 16667,
-		"category": "Special",
-		"defname": "QuantumConverter"
 	},
 	{
 		"abr": "raccoonmeat",
@@ -2275,12 +2221,6 @@
 		"defname": "Stomach"
 	},
 	{
-		"abr": "stonebigball",
-		"price": 8,
-		"category": "Medieval shells",
-		"defname": "BigBalls"
-	},
-	{
 		"abr": "stonecutter'stable",
 		"price": 358,
 		"category": "Production",
@@ -2297,12 +2237,6 @@
 		"price": 129,
 		"category": "Furniture",
 		"defname": "SunLamp"
-	},
-	{
-		"abr": "supermagnetnewgeneration",
-		"price": 15000,
-		"category": "Special",
-		"defname": "SuperMagnetNewGeneration"
 	},
 	{
 		"abr": "surrogateheart",
@@ -2533,18 +2467,6 @@
 		"defname": "Uranium"
 	},
 	{
-		"abr": "vacuumstabilizer",
-		"price": 7000,
-		"category": "Special",
-		"defname": "VacuumStabilizer"
-	},
-	{
-		"abr": "vacuumtube",
-		"price": 250,
-		"category": "Special",
-		"defname": "VacuumTube"
-	},
-	{
 		"abr": "vanometricpowercell",
 		"price": 2000,
 		"category": "Special",
@@ -2711,7 +2633,31 @@
 		"price": 583,
 		"category": "Production",
 		"defname": "TableMending"
-	}
+	},
+	{
+		"abr": "advancednuclearpowerplant",
+		"price": 10067,
+		"category": "Power",
+		"defname": "sd_adv_powergen_nuclear_power_plant"
+	},
+	{
+		"abr": "advancedsolargenerator",
+		"price": 1358,
+		"category": "Power",
+		"defname": "sd_adv_powergen_adv_solar_generator"
+	},
+	{
+		"abr": "advancedwatermillgenerator",
+		"price": 2142,
+		"category": "Power",
+		"defname": "sd_adv_powergen_WatermillGenerator"
+	},
+	{
+		"abr": "advancedwindturbine",
+		"price": 1258,
+		"category": "Power",
+		"defname": "sd_adv_powergen_adv_wind_turbine"
+	},
 	],
-	"total": 462
+	"total": 461
 }
