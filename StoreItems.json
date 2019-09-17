@@ -2789,7 +2789,7 @@
 		"price": 50,
 		"category": "Oil",
 		"defname": "pipelineValve"
-	},
+	}
 	],
 	"total": 486
 }
