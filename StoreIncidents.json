@@ -16,11 +16,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "clearweather",
-		"price": 250,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "drythunderstorm",
 		"price": 450,
 		"karmatype": "Bad"
