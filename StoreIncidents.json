@@ -16,6 +16,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "clearweather",
+		"price": 250,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "drythunderstorm",
 		"price": 450,
 		"karmatype": "Bad"
@@ -317,7 +322,7 @@
 	},
 	{
 		"abr": "beetlerush",
-		"price": 4000,
+		"price": 1750,
 		"karmatype": "Bad"
 	},
 	{
