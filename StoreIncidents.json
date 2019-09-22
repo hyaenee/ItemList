@@ -251,8 +251,13 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "reviveanypawn",
+		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "pawn",
-		"price": 1500,
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
@@ -282,13 +287,8 @@
 	},
 	{
 		"abr": "prisoner",
-		"price": 1000,
+		"price": 600,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "supernova",
-		"price": 2500,
-		"karmatype": "Bad"
 	},
 	{
 		"abr": "superheatwave",
