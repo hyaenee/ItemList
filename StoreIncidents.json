@@ -67,7 +67,7 @@
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 2600,
+		"price": 3600,
 		"karmatype": "Doom"
 	},
 	{
@@ -181,11 +181,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "yorkshireterriers",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "party",
 		"price": 400,
 		"karmatype": "Good"
@@ -197,12 +192,12 @@
 	},
 	{
 		"abr": "shippartpoison",
-		"price": 1900,
+		"price": 2600,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpsychic",
-		"price": 2400,
+		"price": 2800,
 		"karmatype": "Bad"
 	},
 	{
@@ -222,17 +217,17 @@
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1500,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 4500,
 		"karmatype": "Bad"
 	},
 	{
@@ -252,7 +247,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 2400,
 		"karmatype": "Good"
 	},
 	{
@@ -267,17 +262,17 @@
 	},
 	{
 		"abr": "gambleskill",
-		"price": 1500,
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "trait",
-		"price": 500,
+		"price": 3500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 500,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -307,7 +302,7 @@
 	},
 	{
 		"abr": "icestorm",
-		"price": 2000,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
@@ -317,7 +312,7 @@
 	},
 	{
 		"abr": "mechanoidportal",
-		"price": 3200,
+		"price": 4000,
 		"karmatype": "Bad"
 	},
 	{
@@ -344,11 +339,6 @@
 		"abr": "roadworks",
 		"price": 1000,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "diplomaticmarriage",
-		"price": 1000,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "mysticalshaman",
@@ -382,9 +372,9 @@
 	},
 	{
 		"abr": "baseattack",
-		"price": 1000,
+		"price": 3000,
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 77
+	"total": 75
 }
