@@ -1609,42 +1609,6 @@
 		"defname": "MovingRailGreenPuller"
 	},
 	{
-		"abr": "guestbed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "guestbedroll",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "guestdoublebedroll",
-		"price": 290,
-		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": 667,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "guestroyalbed",
-		"price": 1467,
-		"category": "Furniture",
-		"defname": "RoyalBedGuest"
-	},
-	{
 		"abr": "handtailorbench",
 		"price": 262,
 		"category": "Production",
@@ -4321,6 +4285,30 @@
 		"defname": "Meat_YorkshireTerrier"
 	},
 	{
+		"abr": "energyturret",
+		"price": 2392,
+		"category": "Misc",
+		"defname": "EnergyTurretGun"
+	},
+	{
+		"abr": "laserturret",
+		"price": 992,
+		"category": "Misc",
+		"defname": "LazerTurretGun"
+	},
+	{
+		"abr": "lightsniperturret",
+		"price": 875,
+		"category": "Misc",
+		"defname": "SniperTurretGun"
+	},
+	{
+		"abr": "standardturret",
+		"price": 742,
+		"category": "Security",
+		"defname": "StandardTurretGun"
+	},
+	{
 		"abr": "youthserum",
 		"price": 2333,
 		"category": "Items",
@@ -4333,5 +4321,5 @@
 		"defname": "ZygolophodonTusk"
 	}
 	],
-	"total": 722
+	"total": 721
 }

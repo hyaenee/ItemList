@@ -251,11 +251,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "pawn",
-		"price": 800,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "animal",
 		"price": 1500,
 		"karmatype": "Good"
@@ -376,5 +371,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 75
+	"total": 74
 }
