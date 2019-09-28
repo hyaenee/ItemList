@@ -73,6 +73,12 @@
 		"defname": "Apparel_PsychicFoilHelmet"
 	},
 	{
+		"abr": "arcademachine",
+		"price": 650,
+		"category": "Entspannung",
+		"defname": "Joy_Arcade"
+	},
+	{
 		"abr": "archotecharm",
 		"price": 4667,
 		"category": "Künstlich",
@@ -137,6 +143,12 @@
 		"price": 408,
 		"category": "Künstlich",
 		"defname": "SimpleProstheticLeg"
+	},
+	{
+		"abr": "bench",
+		"price": 86,
+		"category": "Möbel",
+		"defname": "Seat_Bench"
 	},
 	{
 		"abr": "berserkerlanze",
@@ -343,10 +355,28 @@
 		"defname": "Anon2CouchRight"
 	},
 	{
+		"abr": "countertop",
+		"price": 53,
+		"category": "Möbel",
+		"defname": "Table_Counter"
+	},
+	{
 		"abr": "cowboyhut",
 		"price": 94,
 		"category": "Kopfbekleidung",
 		"defname": "Apparel_CowboyHat"
+	},
+	{
+		"abr": "cryptosleepsuspender",
+		"price": 733,
+		"category": "Möbel",
+		"defname": "Bed_CryptoBed"
+	},
+	{
+		"abr": "dartsboard",
+		"price": 174,
+		"category": "Möbel",
+		"defname": "Joy_DartsBoard"
 	},
 	{
 		"abr": "doomsday-raketenwerfer",
@@ -517,6 +547,24 @@
 		"defname": "Apparel_PowerArmorHelmet"
 	},
 	{
+		"abr": "ergonomicbed",
+		"price": 450,
+		"category": "Möbel",
+		"defname": "Bed_Ergonomic"
+	},
+	{
+		"abr": "ergonomicchair",
+		"price": 858,
+		"category": "Möbel",
+		"defname": "Seat_ModernChair"
+	},
+	{
+		"abr": "ergonomicdoublebed",
+		"price": 867,
+		"category": "Möbel",
+		"defname": "Bed_DoubleErgonomic"
+	},
+	{
 		"abr": "faultierfleisch",
 		"price": 3,
 		"category": "Fleisch",
@@ -545,6 +593,12 @@
 		"price": 525,
 		"category": "Entspannung",
 		"defname": "TubeTelevision"
+	},
+	{
+		"abr": "filecabinet",
+		"price": 93,
+		"category": "Möbel",
+		"defname": "Misc_FileCabinet"
 	},
 	{
 		"abr": "flake",
@@ -799,6 +853,12 @@
 		"defname": "MeleeWeapon_Ikwa"
 	},
 	{
+		"abr": "industrialradio",
+		"price": 433,
+		"category": "Entspannung",
+		"defname": "Radio_Industrial"
+	},
+	{
 		"abr": "insektengelee",
 		"price": 13,
 		"category": "Tierische Produkte",
@@ -809,6 +869,12 @@
 		"price": 1,
 		"category": "Fleisch",
 		"defname": "Meat_Megaspider"
+	},
+	{
+		"abr": "intravenousdripstand",
+		"price": 296,
+		"category": "Verschiedenes",
+		"defname": "Facility_IVDrip"
 	},
 	{
 		"abr": "jacke",
@@ -1009,6 +1075,12 @@
 		"defname": "MeleeWeapon_LongSword"
 	},
 	{
+		"abr": "largebin",
+		"price": 305,
+		"category": "Möbel",
+		"defname": "Bin_Large"
+	},
+	{
 		"abr": "leber",
 		"price": 833,
 		"category": "Natürlich",
@@ -1061,6 +1133,12 @@
 		"price": 83,
 		"category": "Spezial",
 		"defname": "GlowPod"
+	},
+	{
+		"abr": "longwaveradio",
+		"price": 1033,
+		"category": "Entspannung",
+		"defname": "Radio_Spacer"
 	},
 	{
 		"abr": "löschschaumgranate",
@@ -1175,6 +1253,18 @@
 		"price": 123,
 		"category": "Möbel",
 		"defname": "RimFridge_SingleRefrigerator"
+	},
+	{
+		"abr": "moderncomputer",
+		"price": 1100,
+		"category": "Entspannung",
+		"defname": "Joy_ModernComputer"
+	},
+	{
+		"abr": "modernlamp",
+		"price": 129,
+		"category": "Möbel",
+		"defname": "Light_ModernLamp"
 	},
 	{
 		"abr": "modernerhelm",
@@ -1303,10 +1393,28 @@
 		"defname": "Kidney"
 	},
 	{
+		"abr": "oldcomputer",
+		"price": 517,
+		"category": "Entspannung",
+		"defname": "Joy_InudstrialComputer"
+	},
+	{
+		"abr": "operatingtable",
+		"price": 508,
+		"category": "Möbel",
+		"defname": "Bed_OperatingTable"
+	},
+	{
 		"abr": "orbitalesfunkfeuer",
 		"price": 185,
 		"category": "Verschiedenes",
 		"defname": "OrbitalTradeBeacon"
+	},
+	{
+		"abr": "outdoorlamp",
+		"price": 128,
+		"category": "Möbel",
+		"defname": "Light_Streetlamp"
 	},
 	{
 		"abr": "panther",
@@ -1337,6 +1445,12 @@
 		"price": 30,
 		"category": "Drogen",
 		"defname": "Penoxycyline"
+	},
+	{
+		"abr": "piano",
+		"price": 908,
+		"category": "Möbel",
+		"defname": "Joy_Piano"
 	},
 	{
 		"abr": "pila-wurfspeere",
@@ -1427,6 +1541,12 @@
 		"price": 3,
 		"category": "Fleisch",
 		"defname": "Meat_Cougar"
+	},
+	{
+		"abr": "punchingbag",
+		"price": 375,
+		"category": "Möbel",
+		"defname": "Joy_PunchingBag"
 	},
 	{
 		"abr": "quadratischerblumentopf",
@@ -1565,6 +1685,72 @@
 		"price": 417,
 		"category": "Animal",
 		"defname": "Deer"
+	},
+	{
+		"abr": "roulettetable",
+		"price": 708,
+		"category": "Möbel",
+		"defname": "Joy_RouletteTable"
+	},
+	{
+		"abr": "royalarmchair",
+		"price": 1583,
+		"category": "Möbel",
+		"defname": "Seat_RoyalArmchair"
+	},
+	{
+		"abr": "royalchair",
+		"price": 908,
+		"category": "Möbel",
+		"defname": "Seat_RoyalChair"
+	},
+	{
+		"abr": "royaldresser",
+		"price": 1175,
+		"category": "Möbel",
+		"defname": "Table_RoyalDresser"
+	},
+	{
+		"abr": "royalendtable",
+		"price": 742,
+		"category": "Möbel",
+		"defname": "Table_RoyalEndTable"
+	},
+	{
+		"abr": "royalposterbed",
+		"price": 2008,
+		"category": "Möbel",
+		"defname": "Bed_Kingsize"
+	},
+	{
+		"abr": "royaltable(1x1)",
+		"price": 280,
+		"category": "Möbel",
+		"defname": "Table_Royal1x1c"
+	},
+	{
+		"abr": "royaltable(1x2)",
+		"price": 542,
+		"category": "Möbel",
+		"defname": "Table_Royal1x2c"
+	},
+	{
+		"abr": "royaltable(2x2)",
+		"price": 1092,
+		"category": "Möbel",
+		"defname": "Table_Royal2x2c"
+	},
+	{
+		"abr": "royaltable(2x4)",
+		"price": 1475,
+		"category": "Möbel",
+		"defname": "Table_Royal2x4c"
+	},
+	{
+		"abr": "royaltable(3x3)",
+		"price": 1617,
+		"category": "Möbel",
+		"defname": "Table_Royal3x3c"
 	},
 	{
 		"abr": "sandsteinblöcke",
@@ -1735,10 +1921,28 @@
 		"defname": "Armchair"
 	},
 	{
+		"abr": "shelf(1x1)",
+		"price": 52,
+		"category": "Möbel",
+		"defname": "Shelf_1x1c"
+	},
+	{
 		"abr": "silber",
 		"price": 2,
 		"category": "Rohstoffe",
 		"defname": "Silver"
+	},
+	{
+		"abr": "simplebed",
+		"price": 137,
+		"category": "Möbel",
+		"defname": "Bed_Simple"
+	},
+	{
+		"abr": "sittingcushion",
+		"price": 86,
+		"category": "Möbel",
+		"defname": "Seat_Cushion"
 	},
 	{
 		"abr": "skulptur(gewaltig)",
@@ -1759,6 +1963,18 @@
 		"defname": "SculptureSmall"
 	},
 	{
+		"abr": "slabbed",
+		"price": 111,
+		"category": "Möbel",
+		"defname": "Bed_StoneSlab"
+	},
+	{
+		"abr": "smallbin",
+		"price": 136,
+		"category": "Möbel",
+		"defname": "Bin_Small"
+	},
+	{
 		"abr": "speer",
 		"price": 322,
 		"category": "Nahkampfwaffen",
@@ -1775,6 +1991,12 @@
 		"price": 442,
 		"category": "Granaten",
 		"defname": "Weapon_GrenadeFrag"
+	},
+	{
+		"abr": "squarechair",
+		"price": 198,
+		"category": "Möbel",
+		"defname": "Seat_SquareChair"
 	},
 	{
 		"abr": "stahl",
@@ -1919,6 +2141,12 @@
 		"price": 7,
 		"category": "Textilien",
 		"defname": "Synthread"
+	},
+	{
+		"abr": "table(1x1)",
+		"price": 70,
+		"category": "Möbel",
+		"defname": "Table_1x1c"
 	},
 	{
 		"abr": "techprof-persona",
@@ -2131,6 +2359,12 @@
 		"defname": "VitalsMonitor"
 	},
 	{
+		"abr": "vitalscentre",
+		"price": 1125,
+		"category": "Verschiedenes",
+		"defname": "Facility_VitalsCentre"
+	},
+	{
 		"abr": "vogelfleisch",
 		"price": 3,
 		"category": "Fleisch",
@@ -2203,6 +2437,12 @@
 		"defname": "RimFridge_SingleWallRefrigerator"
 	},
 	{
+		"abr": "wardrobe",
+		"price": 285,
+		"category": "Möbel",
+		"defname": "Table_Wardrobe"
+	},
+	{
 		"abr": "warg",
 		"price": 750,
 		"category": "Animal",
@@ -2237,6 +2477,12 @@
 		"price": 3,
 		"category": "Fleisch",
 		"defname": "Meat_Capybara"
+	},
+	{
+		"abr": "weaponrack",
+		"price": 137,
+		"category": "Möbel",
+		"defname": "Shelf_WeaponRack"
 	},
 	{
 		"abr": "werkzeugschrank",
@@ -2317,5 +2563,5 @@
 		"defname": "TornadoGenerator"
 	}
 	],
-	"total": 386
+	"total": 427
 }
