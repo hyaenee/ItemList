@@ -25,6 +25,18 @@
 		"defname": "AIPersonaCore"
 	},
 	{
+		"abr": "air-conindoorunit",
+		"price": 82,
+		"category": "Hygiene",
+		"defname": "AirconIndoorUnit"
+	},
+	{
+		"abr": "air-conoutdoorunit",
+		"price": 458,
+		"category": "Hygiene",
+		"defname": "AirConOutdoorUnit"
+	},
+	{
 		"abr": "alpaca",
 		"price": 583,
 		"category": "Animal",
@@ -127,10 +139,28 @@
 		"defname": "Gun_AssaultRifle"
 	},
 	{
+		"abr": "autoclave",
+		"price": 1108,
+		"category": "Oil",
+		"defname": "Autoclave"
+	},
+	{
 		"abr": "autopistol",
 		"price": 232,
 		"category": "Ranged weapons",
 		"defname": "Gun_Autopistol"
+	},
+	{
+		"abr": "basin",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "BasinStuff"
+	},
+	{
+		"abr": "bathtub",
+		"price": 124,
+		"category": "Hygiene",
+		"defname": "BathtubStuff"
 	},
 	{
 		"abr": "battery",
@@ -235,6 +265,18 @@
 		"defname": "BionicStomach"
 	},
 	{
+		"abr": "biosolids",
+		"price": 0,
+		"category": "Waste",
+		"defname": "Biosolids"
+	},
+	{
+		"abr": "biosolidscomposter",
+		"price": 146,
+		"category": "Hygiene",
+		"defname": "BiosolidsComposter"
+	},
+	{
 		"abr": "birdmeat",
 		"price": 3,
 		"category": "Meat",
@@ -245,6 +287,18 @@
 		"price": 3,
 		"category": "Leathers",
 		"defname": "Leather_Bird"
+	},
+	{
+		"abr": "birthcontrol",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "BirthControl"
+	},
+	{
+		"abr": "blackboard",
+		"price": 358,
+		"category": "Production",
+		"defname": "Blackboard"
 	},
 	{
 		"abr": "bluefur",
@@ -367,6 +421,18 @@
 		"defname": "Meat_Cat"
 	},
 	{
+		"abr": "ceilingfan1x1",
+		"price": 184,
+		"category": "Hygiene",
+		"defname": "CeilingFanS"
+	},
+	{
+		"abr": "ceilingfan2x2",
+		"price": 184,
+		"category": "Hygiene",
+		"defname": "CeilingFan"
+	},
+	{
 		"abr": "chainshotgun",
 		"price": 675,
 		"category": "Ranged weapons",
@@ -389,6 +455,24 @@
 		"price": 4,
 		"category": "Manufactured",
 		"defname": "Chemfuel"
+	},
+	{
+		"abr": "chemfuelpowerplant",
+		"price": 1558,
+		"category": "Oil",
+		"defname": "FuelPowerplant"
+	},
+	{
+		"abr": "chemfuelpump",
+		"price": 49,
+		"category": "Oil",
+		"defname": "ChemfuelHopper"
+	},
+	{
+		"abr": "chemfuelsiphon",
+		"price": 49,
+		"category": "Oil",
+		"defname": "ChemfuelSiphon"
 	},
 	{
 		"abr": "chesstable",
@@ -485,6 +569,72 @@
 		"price": 53,
 		"category": "Manufactured",
 		"defname": "ComponentIndustrial"
+	},
+	{
+		"abr": "composite",
+		"price": 13,
+		"category": "Synthamide",
+		"defname": "FiberComposite"
+	},
+	{
+		"abr": "compositeblack",
+		"price": 13,
+		"category": "Synthamide",
+		"defname": "FiberCompositeBlack"
+	},
+	{
+		"abr": "compositeblue",
+		"price": 13,
+		"category": "Synthamide",
+		"defname": "FiberCompositeBlue"
+	},
+	{
+		"abr": "compositegreen",
+		"price": 13,
+		"category": "Synthamide",
+		"defname": "FiberCompositeGreen"
+	},
+	{
+		"abr": "compositeolive",
+		"price": 13,
+		"category": "Synthamide",
+		"defname": "FiberCompositeOlive"
+	},
+	{
+		"abr": "compositeorange",
+		"price": 13,
+		"category": "Synthamide",
+		"defname": "FiberCompositeOrange"
+	},
+	{
+		"abr": "compositered",
+		"price": 13,
+		"category": "Synthamide",
+		"defname": "FiberCompositeRed"
+	},
+	{
+		"abr": "compositesand",
+		"price": 13,
+		"category": "Synthamide",
+		"defname": "FiberCompositeSand"
+	},
+	{
+		"abr": "compositeviolet",
+		"price": 13,
+		"category": "Synthamide",
+		"defname": "FiberCompositeViolet"
+	},
+	{
+		"abr": "compositewhite",
+		"price": 13,
+		"category": "Synthamide",
+		"defname": "FiberCompositeWhite"
+	},
+	{
+		"abr": "compositeyellow",
+		"price": 13,
+		"category": "Synthamide",
+		"defname": "FiberCompositeYellow"
 	},
 	{
 		"abr": "corn",
@@ -673,6 +823,18 @@
 		"defname": "Apparel_Duster"
 	},
 	{
+		"abr": "electricboiler",
+		"price": 425,
+		"category": "Hygiene",
+		"defname": "ElectricBoiler"
+	},
+	{
+		"abr": "electricpump",
+		"price": 316,
+		"category": "Hygiene",
+		"defname": "ElectricPump"
+	},
+	{
 		"abr": "electricsmelter",
 		"price": 667,
 		"category": "Production",
@@ -805,6 +967,12 @@
 		"defname": "FermentingBarrel"
 	},
 	{
+		"abr": "fertilitybooster",
+		"price": 25,
+		"category": "Drugs",
+		"defname": "FertilityBooster"
+	},
+	{
 		"abr": "filecabinet",
 		"price": 74,
 		"category": "Furniture",
@@ -821,6 +989,12 @@
 		"price": 33,
 		"category": "Meals",
 		"defname": "MealFine"
+	},
+	{
+		"abr": "firesprinkler",
+		"price": 104,
+		"category": "Hygiene",
+		"defname": "FireSprinkler"
 	},
 	{
 		"abr": "firefoampopper",
@@ -865,6 +1039,12 @@
 		"defname": "FlatscreenTelevision"
 	},
 	{
+		"abr": "fountain",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "Fountain"
+	},
+	{
 		"abr": "foxfur",
 		"price": 6,
 		"category": "Leathers",
@@ -899,6 +1079,12 @@
 		"price": 153,
 		"category": "Furniture",
 		"defname": "GameOfUrBoard"
+	},
+	{
+		"abr": "gasboiler",
+		"price": 425,
+		"category": "Hygiene",
+		"defname": "GasBoiler"
 	},
 	{
 		"abr": "gazelle",
@@ -1057,6 +1243,18 @@
 		"defname": "HospitalBed"
 	},
 	{
+		"abr": "hottub",
+		"price": 800,
+		"category": "Hygiene",
+		"defname": "HotTub"
+	},
+	{
+		"abr": "hotwatertank",
+		"price": 245,
+		"category": "Hygiene",
+		"defname": "HotWaterTank"
+	},
+	{
 		"abr": "human",
 		"price": 2917,
 		"category": "Animal",
@@ -1091,6 +1289,12 @@
 		"price": 15,
 		"category": "Textiles",
 		"defname": "Hyperweave"
+	},
+	{
+		"abr": "hyperweaverefiner",
+		"price": 2075,
+		"category": "Oil",
+		"defname": "HyperweaveRefiner"
 	},
 	{
 		"abr": "ibex",
@@ -1201,6 +1405,12 @@
 		"defname": "Facility_IVDrip"
 	},
 	{
+		"abr": "irrigationsprinkler",
+		"price": 102,
+		"category": "Hygiene",
+		"defname": "IrrigationSprinkler"
+	},
+	{
 		"abr": "jacket",
 		"price": 275,
 		"category": "Apparel",
@@ -1231,6 +1441,12 @@
 		"defname": "Kidney"
 	},
 	{
+		"abr": "kitchensink",
+		"price": 167,
+		"category": "Hygiene",
+		"defname": "KitchenSink"
+	},
+	{
 		"abr": "knife",
 		"price": 111,
 		"category": "Melee weapons",
@@ -1255,10 +1471,22 @@
 		"defname": "Bin_Large"
 	},
 	{
+		"abr": "largeradiator",
+		"price": 252,
+		"category": "Hygiene",
+		"defname": "RadiatorLarge"
+	},
+	{
 		"abr": "largesculpture",
 		"price": 517,
 		"category": "Art",
 		"defname": "SculptureLarge"
+	},
+	{
+		"abr": "latrine",
+		"price": 55,
+		"category": "Hygiene",
+		"defname": "PitLatrine"
 	},
 	{
 		"abr": "lavishmeal",
@@ -1279,6 +1507,12 @@
 		"defname": "BlocksLimestone"
 	},
 	{
+		"abr": "litterbox",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "LitterBox"
+	},
+	{
 		"abr": "liver",
 		"price": 833,
 		"category": "Natural",
@@ -1295,6 +1529,12 @@
 		"price": 708,
 		"category": "Ranged weapons",
 		"defname": "Gun_LMG"
+	},
+	{
+		"abr": "logboiler",
+		"price": 642,
+		"category": "Hygiene",
+		"defname": "LogBoiler"
 	},
 	{
 		"abr": "longsword",
@@ -1489,6 +1729,24 @@
 		"defname": "MultiAnalyzer"
 	},
 	{
+		"abr": "napalm",
+		"price": 5,
+		"category": "Oil",
+		"defname": "Napalm"
+	},
+	{
+		"abr": "napalmrefiner",
+		"price": 758,
+		"category": "Oil",
+		"defname": "NapalmRefiner"
+	},
+	{
+		"abr": "napalmshell",
+		"price": 92,
+		"category": "Mortar shells",
+		"defname": "Shell_Napalm"
+	},
+	{
 		"abr": "neurotrainermechserum",
 		"price": 1250,
 		"category": "Items",
@@ -1499,6 +1757,12 @@
 		"price": 10,
 		"category": "Manufactured",
 		"defname": "Neutroamine"
+	},
+	{
+		"abr": "neutroaminerefiner",
+		"price": 1583,
+		"category": "Oil",
+		"defname": "NeutroamineRefiner"
 	},
 	{
 		"abr": "nutrientpastemeal",
@@ -1651,6 +1915,12 @@
 		"defname": "Pila"
 	},
 	{
+		"abr": "pipelinevalve",
+		"price": 50,
+		"category": "Oil",
+		"defname": "pipelineValve"
+	},
+	{
 		"abr": "plainleather",
 		"price": 3,
 		"category": "Leathers",
@@ -1673,6 +1943,12 @@
 		"price": 792,
 		"category": "Apparel",
 		"defname": "Apparel_PlateArmor"
+	},
+	{
+		"abr": "plumbingvalve",
+		"price": 50,
+		"category": "Hygiene",
+		"defname": "plumbingValve"
 	},
 	{
 		"abr": "pokertable",
@@ -1703,6 +1979,18 @@
 		"price": 2000,
 		"category": "Artificial",
 		"defname": "PowerClaw"
+	},
+	{
+		"abr": "powershower",
+		"price": 170,
+		"category": "Hygiene",
+		"defname": "ShowerAdvStuff"
+	},
+	{
+		"abr": "pregnancytest",
+		"price": 12,
+		"category": "Drugs",
+		"defname": "PregnancyTest"
 	},
 	{
 		"abr": "prostheticarm",
@@ -1801,6 +2089,18 @@
 		"defname": "Meat_Raccoon"
 	},
 	{
+		"abr": "radiator",
+		"price": 83,
+		"category": "Hygiene",
+		"defname": "Radiator"
+	},
+	{
+		"abr": "radiator",
+		"price": 85,
+		"category": "Hygiene",
+		"defname": "RadiatorStuffed"
+	},
+	{
 		"abr": "rat",
 		"price": 58,
 		"category": "Animal",
@@ -1829,6 +2129,18 @@
 		"price": 333,
 		"category": "Animal",
 		"defname": "Fox_Red"
+	},
+	{
+		"abr": "refineryunloadingbay",
+		"price": 49,
+		"category": "Oil",
+		"defname": "RefineryLoadingBay"
+	},
+	{
+		"abr": "resourceconsole",
+		"price": 642,
+		"category": "Oil",
+		"defname": "ResourceConsole"
 	},
 	{
 		"abr": "resurrectormechserum",
@@ -1957,6 +2269,12 @@
 		"defname": "BlocksSandstone"
 	},
 	{
+		"abr": "schooltable",
+		"price": 281,
+		"category": "Production",
+		"defname": "SchoolTable"
+	},
+	{
 		"abr": "sculptor'stable",
 		"price": 425,
 		"category": "Production",
@@ -1987,6 +2305,12 @@
 		"defname": "Bow_Short"
 	},
 	{
+		"abr": "shower",
+		"price": 90,
+		"category": "Hygiene",
+		"defname": "ShowerStuff"
+	},
+	{
 		"abr": "silver",
 		"price": 2,
 		"category": "Raw resources",
@@ -2015,6 +2339,12 @@
 		"price": 350,
 		"category": "Production",
 		"defname": "SimpleResearchBench"
+	},
+	{
+		"abr": "simpleshower",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "ShowerSimple"
 	},
 	{
 		"abr": "singlerefrigerator",
@@ -2051,6 +2381,12 @@
 		"price": 275,
 		"category": "Art",
 		"defname": "SculptureSmall"
+	},
+	{
+		"abr": "smarttoilet",
+		"price": 182,
+		"category": "Hygiene",
+		"defname": "ToiletAdvStuff"
 	},
 	{
 		"abr": "smokeleafjoint",
@@ -2215,10 +2551,100 @@
 		"defname": "SunLamp"
 	},
 	{
+		"abr": "synthamide",
+		"price": 9,
+		"category": "Textiles",
+		"defname": "Synthamide"
+	},
+	{
+		"abr": "synthamiderefiner",
+		"price": 1167,
+		"category": "Oil",
+		"defname": "SynthamideRefiner"
+	},
+	{
 		"abr": "synthread",
 		"price": 7,
 		"category": "Textiles",
 		"defname": "Synthread"
+	},
+	{
+		"abr": "synthreadrefiner",
+		"price": 808,
+		"category": "Oil",
+		"defname": "SynthreadRefiner"
+	},
+	{
+		"abr": "synthylene",
+		"price": 3,
+		"category": "Synthylene",
+		"defname": "Synthylene"
+	},
+	{
+		"abr": "synthyleneblack",
+		"price": 3,
+		"category": "Synthylene",
+		"defname": "SynthyleneBlack"
+	},
+	{
+		"abr": "synthyleneblue",
+		"price": 3,
+		"category": "Synthylene",
+		"defname": "SynthyleneBlue"
+	},
+	{
+		"abr": "synthylenegreen",
+		"price": 3,
+		"category": "Synthylene",
+		"defname": "SynthyleneGreen"
+	},
+	{
+		"abr": "synthyleneolive",
+		"price": 3,
+		"category": "Synthylene",
+		"defname": "SynthyleneOlive"
+	},
+	{
+		"abr": "synthyleneorange",
+		"price": 3,
+		"category": "Synthylene",
+		"defname": "SynthyleneOrange"
+	},
+	{
+		"abr": "synthylenered",
+		"price": 3,
+		"category": "Synthylene",
+		"defname": "SynthyleneRed"
+	},
+	{
+		"abr": "synthylenerefiner",
+		"price": 758,
+		"category": "Oil",
+		"defname": "SynthyleneRefiner"
+	},
+	{
+		"abr": "synthylenesand",
+		"price": 3,
+		"category": "Synthylene",
+		"defname": "SynthyleneSand"
+	},
+	{
+		"abr": "synthyleneviolet",
+		"price": 3,
+		"category": "Synthylene",
+		"defname": "SynthyleneViolet"
+	},
+	{
+		"abr": "synthylenewhite",
+		"price": 3,
+		"category": "Synthylene",
+		"defname": "SynthyleneWhite"
+	},
+	{
+		"abr": "synthyleneyellow",
+		"price": 3,
+		"category": "Synthylene",
+		"defname": "SynthyleneYellow"
 	},
 	{
 		"abr": "table(1x1)",
@@ -2269,6 +2695,12 @@
 		"defname": "Telescope"
 	},
 	{
+		"abr": "thermostat",
+		"price": 86,
+		"category": "Hygiene",
+		"defname": "Thermostat"
+	},
+	{
 		"abr": "thrumbo",
 		"price": 6667,
 		"category": "Animal",
@@ -2297,6 +2729,12 @@
 		"price": 583,
 		"category": "Animal",
 		"defname": "Wolf_Timber"
+	},
+	{
+		"abr": "toilet",
+		"price": 72,
+		"category": "Hygiene",
+		"defname": "ToiletStuff"
 	},
 	{
 		"abr": "toolcabinet",
@@ -2383,6 +2821,18 @@
 		"defname": "Meat_Turkey"
 	},
 	{
+		"abr": "uncuredplasteel",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "UncuredPlasteel"
+	},
+	{
+		"abr": "uncuredsynthamidecomposite",
+		"price": 3,
+		"category": "Synthamide",
+		"defname": "UncuredComposite"
+	},
+	{
 		"abr": "uranium",
 		"price": 10,
 		"category": "Raw resources",
@@ -2417,6 +2867,12 @@
 		"price": 58,
 		"category": "Drugs",
 		"defname": "WakeUp"
+	},
+	{
+		"abr": "walk-infreezerunit",
+		"price": 153,
+		"category": "Hygiene",
+		"defname": "FreezerUnit"
 	},
 	{
 		"abr": "walldualrefrigerator",
@@ -2509,6 +2965,24 @@
 		"defname": "Meat_Warg"
 	},
 	{
+		"abr": "washingmachine",
+		"price": 433,
+		"category": "Hygiene",
+		"defname": "WashingMachine"
+	},
+	{
+		"abr": "waterbutt",
+		"price": 89,
+		"category": "Furniture",
+		"defname": "WaterButt"
+	},
+	{
+		"abr": "watertub",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "WashBucket"
+	},
+	{
 		"abr": "weaponrack",
 		"price": 137,
 		"category": "Furniture",
@@ -2563,5 +3037,5 @@
 		"defname": "Meat_YorkshireTerrier"
 	}
 	],
-	"total": 427
+	"total": 506
 }
