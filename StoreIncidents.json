@@ -2,7 +2,7 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -137,7 +137,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 150,
+		"price": 350,
 		"karmatype": "Neutral"
 	},
 	{
@@ -232,7 +232,7 @@
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
@@ -287,7 +287,7 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1500,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
