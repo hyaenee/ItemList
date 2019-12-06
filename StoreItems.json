@@ -103,12 +103,6 @@
 		"defname": "RC2_RawApples"
 	},
 	{
-		"abr": "arcademachine",
-		"price": 650,
-		"category": "Recreation",
-		"defname": "Joy_Arcade"
-	},
-	{
 		"abr": "archotecharm",
 		"price": 4667,
 		"category": "Artificial",
@@ -239,12 +233,6 @@
 		"price": 2,
 		"category": "Raw vegetables",
 		"defname": "RC2_RawBeets"
-	},
-	{
-		"abr": "bench",
-		"price": 86,
-		"category": "Furniture",
-		"defname": "Seat_Bench"
 	},
 	{
 		"abr": "berries",
@@ -829,12 +817,6 @@
 		"defname": "Anon2CounterAFull"
 	},
 	{
-		"abr": "countertop",
-		"price": 53,
-		"category": "Furniture",
-		"defname": "Table_Counter"
-	},
-	{
 		"abr": "cow",
 		"price": 500,
 		"category": "Animal",
@@ -853,12 +835,6 @@
 		"defname": "RC2_MealCrustyPeanuts"
 	},
 	{
-		"abr": "cryptosleepsuspender",
-		"price": 733,
-		"category": "Furniture",
-		"defname": "Bed_CryptoBed"
-	},
-	{
 		"abr": "cucumbers",
 		"price": 2,
 		"category": "Raw vegetables",
@@ -869,12 +845,6 @@
 		"price": 195,
 		"category": "Furniture",
 		"defname": "Anon2CushionedChair"
-	},
-	{
-		"abr": "dartsboard",
-		"price": 174,
-		"category": "Furniture",
-		"defname": "Joy_DartsBoard"
 	},
 	{
 		"abr": "deepdrill",
@@ -1171,24 +1141,6 @@
 		"defname": "Anon2EndTableLight"
 	},
 	{
-		"abr": "ergonomicbed",
-		"price": 450,
-		"category": "Furniture",
-		"defname": "Bed_Ergonomic"
-	},
-	{
-		"abr": "ergonomicchair",
-		"price": 858,
-		"category": "Furniture",
-		"defname": "Seat_ModernChair"
-	},
-	{
-		"abr": "ergonomicdoublebed",
-		"price": 867,
-		"category": "Furniture",
-		"defname": "Bed_DoubleErgonomic"
-	},
-	{
 		"abr": "fennecfox",
 		"price": 333,
 		"category": "Animal",
@@ -1217,12 +1169,6 @@
 		"price": 74,
 		"category": "Furniture",
 		"defname": "Anon2FileCabinet"
-	},
-	{
-		"abr": "filecabinet",
-		"price": 93,
-		"category": "Furniture",
-		"defname": "Misc_FileCabinet"
 	},
 	{
 		"abr": "finemeal",
@@ -1385,6 +1331,12 @@
 		"price": 83,
 		"category": "Medicine",
 		"defname": "MedicineUltratech"
+	},
+	{
+		"abr": "gloves",
+		"price": 86,
+		"category": "Apparel",
+		"defname": "Apparel_Simple_Gloves"
 	},
 	{
 		"abr": "glowpod",
@@ -1747,12 +1699,6 @@
 		"defname": "Shell_Incendiary"
 	},
 	{
-		"abr": "industrialradio",
-		"price": 433,
-		"category": "Recreation",
-		"defname": "Radio_Industrial"
-	},
-	{
 		"abr": "infinitechemreactor",
 		"price": 2500,
 		"category": "Special",
@@ -1769,12 +1715,6 @@
 		"price": 1,
 		"category": "Raw meat",
 		"defname": "Meat_Megaspider"
-	},
-	{
-		"abr": "intravenousdripstand",
-		"price": 296,
-		"category": "Misc",
-		"defname": "Facility_IVDrip"
 	},
 	{
 		"abr": "irrigationsprinkler",
@@ -1861,12 +1801,6 @@
 		"defname": "Meat_LabradorRetriever"
 	},
 	{
-		"abr": "largebin",
-		"price": 305,
-		"category": "Furniture",
-		"defname": "Bin_Large"
-	},
-	{
 		"abr": "largeradiator",
 		"price": 252,
 		"category": "Hygiene",
@@ -1937,12 +1871,6 @@
 		"price": 442,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_LongSword"
-	},
-	{
-		"abr": "longwaveradio",
-		"price": 1033,
-		"category": "Recreation",
-		"defname": "Radio_Spacer"
 	},
 	{
 		"abr": "luciferium",
@@ -2081,18 +2009,6 @@
 		"price": 508,
 		"category": "Security",
 		"defname": "Turret_MiniTurret"
-	},
-	{
-		"abr": "moderncomputer",
-		"price": 1100,
-		"category": "Recreation",
-		"defname": "Joy_ModernComputer"
-	},
-	{
-		"abr": "modernlamp",
-		"price": 129,
-		"category": "Furniture",
-		"defname": "Light_ModernLamp"
 	},
 	{
 		"abr": "molotovcocktails",
@@ -2239,22 +2155,10 @@
 		"defname": "RC2_RawOats"
 	},
 	{
-		"abr": "oldcomputer",
-		"price": 517,
-		"category": "Recreation",
-		"defname": "Joy_InudstrialComputer"
-	},
-	{
 		"abr": "onions",
 		"price": 2,
 		"category": "Raw vegetables",
 		"defname": "RC2_RawOnion"
-	},
-	{
-		"abr": "operatingtable",
-		"price": 508,
-		"category": "Furniture",
-		"defname": "Bed_OperatingTable"
 	},
 	{
 		"abr": "orbitalbombardmenttargeter",
@@ -2297,12 +2201,6 @@
 		"price": 38,
 		"category": "Eggs (fert.)",
 		"defname": "EggOstrichFertilized"
-	},
-	{
-		"abr": "outdoorlamp",
-		"price": 128,
-		"category": "Furniture",
-		"defname": "Light_Streetlamp"
 	},
 	{
 		"abr": "oyster",
@@ -2395,12 +2293,6 @@
 		"defname": "Penoxycyline"
 	},
 	{
-		"abr": "piano",
-		"price": 908,
-		"category": "Furniture",
-		"defname": "Joy_Piano"
-	},
-	{
 		"abr": "pickledvegetables",
 		"price": 2,
 		"category": "Processed vegetables",
@@ -2465,6 +2357,12 @@
 		"price": 792,
 		"category": "Apparel",
 		"defname": "Apparel_PlateArmor"
+	},
+	{
+		"abr": "plategloves",
+		"price": 342,
+		"category": "Apparel",
+		"defname": "Apparel_PlateGloves"
 	},
 	{
 		"abr": "plumbingvalve",
@@ -2609,12 +2507,6 @@
 		"price": 3,
 		"category": "Raw fruits",
 		"defname": "RC2_RawPumpkins"
-	},
-	{
-		"abr": "punchingbag",
-		"price": 375,
-		"category": "Furniture",
-		"defname": "Joy_PunchingBag"
 	},
 	{
 		"abr": "quadrefrigerator",
@@ -2767,34 +2659,10 @@
 		"defname": "RC2_RollerMill"
 	},
 	{
-		"abr": "roulettetable",
-		"price": 708,
-		"category": "Furniture",
-		"defname": "Joy_RouletteTable"
-	},
-	{
-		"abr": "royalarmchair",
-		"price": 1583,
-		"category": "Furniture",
-		"defname": "Seat_RoyalArmchair"
-	},
-	{
 		"abr": "royalbed",
 		"price": 1467,
 		"category": "Furniture",
 		"defname": "RoyalBed"
-	},
-	{
-		"abr": "royalchair",
-		"price": 908,
-		"category": "Furniture",
-		"defname": "Seat_RoyalChair"
-	},
-	{
-		"abr": "royaldresser",
-		"price": 1175,
-		"category": "Furniture",
-		"defname": "Table_RoyalDresser"
 	},
 	{
 		"abr": "royalendtable",
@@ -2803,52 +2671,10 @@
 		"defname": "Anon2RoyalEndTable"
 	},
 	{
-		"abr": "royalendtable",
-		"price": 742,
-		"category": "Furniture",
-		"defname": "Table_RoyalEndTable"
-	},
-	{
 		"abr": "royalendtable(lamp)",
 		"price": 392,
 		"category": "Furniture",
 		"defname": "Anon2RoyalEndTableLight"
-	},
-	{
-		"abr": "royalposterbed",
-		"price": 2008,
-		"category": "Furniture",
-		"defname": "Bed_Kingsize"
-	},
-	{
-		"abr": "royaltable(1x1)",
-		"price": 280,
-		"category": "Furniture",
-		"defname": "Table_Royal1x1c"
-	},
-	{
-		"abr": "royaltable(1x2)",
-		"price": 542,
-		"category": "Furniture",
-		"defname": "Table_Royal1x2c"
-	},
-	{
-		"abr": "royaltable(2x2)",
-		"price": 1092,
-		"category": "Furniture",
-		"defname": "Table_Royal2x2c"
-	},
-	{
-		"abr": "royaltable(2x4)",
-		"price": 1475,
-		"category": "Furniture",
-		"defname": "Table_Royal2x4c"
-	},
-	{
-		"abr": "royaltable(3x3)",
-		"price": 1617,
-		"category": "Furniture",
-		"defname": "Table_Royal3x3c"
 	},
 	{
 		"abr": "sandstoneblocks",
@@ -2899,12 +2725,6 @@
 		"defname": "Shelf"
 	},
 	{
-		"abr": "shelf(1x1)",
-		"price": 52,
-		"category": "Furniture",
-		"defname": "Shelf_1x1c"
-	},
-	{
 		"abr": "shelledmashgon",
 		"price": 3,
 		"category": "Raw meat",
@@ -2915,6 +2735,12 @@
 		"price": 650,
 		"category": "Apparel",
 		"defname": "Apparel_ShieldBelt"
+	},
+	{
+		"abr": "shoes",
+		"price": 92,
+		"category": "Apparel",
+		"defname": "Apparel_Simple_Shoes"
 	},
 	{
 		"abr": "shortbow",
@@ -2933,12 +2759,6 @@
 		"price": 2,
 		"category": "Raw resources",
 		"defname": "Silver"
-	},
-	{
-		"abr": "simplebed",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "Bed_Simple"
 	},
 	{
 		"abr": "simplehelmet",
@@ -2971,12 +2791,6 @@
 		"defname": "RimFridge_SingleRefrigerator"
 	},
 	{
-		"abr": "sittingcushion",
-		"price": 86,
-		"category": "Furniture",
-		"defname": "Seat_Cushion"
-	},
-	{
 		"abr": "skeletalhorse",
 		"price": 1250,
 		"category": "Animal",
@@ -2989,22 +2803,10 @@
 		"defname": "WoWEpicForsakenhorse"
 	},
 	{
-		"abr": "slabbed",
-		"price": 111,
-		"category": "Furniture",
-		"defname": "Bed_StoneSlab"
-	},
-	{
 		"abr": "slateblocks",
 		"price": 2,
 		"category": "Stone blocks",
 		"defname": "BlocksSlate"
-	},
-	{
-		"abr": "smallbin",
-		"price": 136,
-		"category": "Furniture",
-		"defname": "Bin_Small"
 	},
 	{
 		"abr": "smallsculpture",
@@ -3055,6 +2857,12 @@
 		"defname": "Snowhare"
 	},
 	{
+		"abr": "socks",
+		"price": 43,
+		"category": "Apparel",
+		"defname": "Apparel_Simple_socks_Frederferd"
+	},
+	{
 		"abr": "sorghum",
 		"price": 2,
 		"category": "Raw grains",
@@ -3083,12 +2891,6 @@
 		"price": 136,
 		"category": "Security",
 		"defname": "TrapSpike"
-	},
-	{
-		"abr": "squarechair",
-		"price": 198,
-		"category": "Furniture",
-		"defname": "Seat_SquareChair"
 	},
 	{
 		"abr": "squarediningchair",
@@ -3325,12 +3127,6 @@
 		"defname": "Anon2TableTiny"
 	},
 	{
-		"abr": "table(1x1)",
-		"price": 70,
-		"category": "Furniture",
-		"defname": "Table_1x1c"
-	},
-	{
 		"abr": "table(1x2)",
 		"price": 98,
 		"category": "Furniture",
@@ -3487,6 +3283,12 @@
 		"defname": "Meat_Tortoise"
 	},
 	{
+		"abr": "tribalboots",
+		"price": 104,
+		"category": "Apparel",
+		"defname": "Apparel_Tribal_Boots_Frederferd"
+	},
+	{
 		"abr": "tribalheaddress",
 		"price": 203,
 		"category": "Headgear",
@@ -3619,12 +3421,6 @@
 		"defname": "Meat_Deer"
 	},
 	{
-		"abr": "vitalscentre",
-		"price": 1125,
-		"category": "Misc",
-		"defname": "Facility_VitalsCentre"
-	},
-	{
 		"abr": "vitalsmonitor",
 		"price": 358,
 		"category": "Misc",
@@ -3679,10 +3475,28 @@
 		"defname": "Lighting_MURWallLightRed"
 	},
 	{
+		"abr": "walllight(azure)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightAzureVII"
+	},
+	{
 		"abr": "walllight(blue)",
 		"price": 16,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightBlueVII"
+	},
+	{
+		"abr": "walllight(chartreuse)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightChartreuseVII"
+	},
+	{
+		"abr": "walllight(cyan)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightCyanVII"
 	},
 	{
 		"abr": "walllight(green)",
@@ -3691,16 +3505,52 @@
 		"defname": "Lighting_MURWallLightGreenVII"
 	},
 	{
+		"abr": "walllight(magenta)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightMagentaVII"
+	},
+	{
 		"abr": "walllight(old)",
 		"price": 16,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLight"
 	},
 	{
+		"abr": "walllight(orange)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightOrangeVII"
+	},
+	{
 		"abr": "walllight(red)",
 		"price": 16,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightRedVII"
+	},
+	{
+		"abr": "walllight(rose)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightRoseVII"
+	},
+	{
+		"abr": "walllight(springgreen)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightSpringGreenVII"
+	},
+	{
+		"abr": "walllight(violet)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightVioletVII"
+	},
+	{
+		"abr": "walllight(yellow)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightYellowVII"
 	},
 	{
 		"abr": "wallsinglerefrigerator",
@@ -3719,12 +3569,6 @@
 		"price": 75,
 		"category": "Headgear",
 		"defname": "Apparel_WarVeil"
-	},
-	{
-		"abr": "wardrobe",
-		"price": 285,
-		"category": "Furniture",
-		"defname": "Table_Wardrobe"
 	},
 	{
 		"abr": "warg",
@@ -3755,12 +3599,6 @@
 		"price": 52,
 		"category": "Hygiene",
 		"defname": "WashBucket"
-	},
-	{
-		"abr": "weaponrack",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "Shelf_WeaponRack"
 	},
 	{
 		"abr": "wheatgrains",
@@ -3823,5 +3661,5 @@
 		"defname": "Meat_YorkshireTerrier"
 	}
 	],
-	"total": 637
+	"total": 610
 }
