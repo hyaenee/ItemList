@@ -7,6 +7,12 @@
 		"defname": "ComponentSpacer"
 	},
 	{
+		"abr": "advancedfishingnet",
+		"price": 283,
+		"category": "Production",
+		"defname": "GTF_FishingNetAdvanced"
+	},
+	{
 		"abr": "advancedhelmet",
 		"price": 442,
 		"category": "Headgear",
@@ -15,14 +21,8 @@
 	{
 		"abr": "agavefruit",
 		"price": 2,
-		"category": "Raw vegetarian",
+		"category": "Vegetarian",
 		"defname": "RawAgave"
-	},
-	{
-		"abr": "agavenectar",
-		"price": 7,
-		"category": "Processed sweets",
-		"defname": "RC2_AgaveNectar"
 	},
 	{
 		"abr": "aipersonacore",
@@ -51,7 +51,7 @@
 	{
 		"abr": "alpacameat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Alpaca"
 	},
 	{
@@ -69,7 +69,7 @@
 	{
 		"abr": "alphabeavermeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Alphabeaver"
 	},
 	{
@@ -95,12 +95,6 @@
 		"price": 2000,
 		"category": "Mortar shells",
 		"defname": "Shell_AntigrainWarhead"
-	},
-	{
-		"abr": "apples",
-		"price": 2,
-		"category": "Raw fruits",
-		"defname": "RC2_RawApples"
 	},
 	{
 		"abr": "archotecharm",
@@ -139,12 +133,6 @@
 		"defname": "Armchair"
 	},
 	{
-		"abr": "asparagus",
-		"price": 2,
-		"category": "Raw vegetables",
-		"defname": "RC2_RawAsparagus"
-	},
-	{
 		"abr": "assaultrifle",
 		"price": 800,
 		"category": "Ranged weapons",
@@ -161,18 +149,6 @@
 		"price": 232,
 		"category": "Ranged weapons",
 		"defname": "Gun_Autopistol"
-	},
-	{
-		"abr": "bananas",
-		"price": 3,
-		"category": "Raw fruits",
-		"defname": "RC2_RawBanana"
-	},
-	{
-		"abr": "barley",
-		"price": 2,
-		"category": "Raw grains",
-		"defname": "RC2_RawBarley"
 	},
 	{
 		"abr": "basin",
@@ -195,7 +171,7 @@
 	{
 		"abr": "bearmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Bear_Grizzly"
 	},
 	{
@@ -219,7 +195,7 @@
 	{
 		"abr": "beef",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Cow"
 	},
 	{
@@ -229,15 +205,9 @@
 		"defname": "Beer"
 	},
 	{
-		"abr": "beets",
-		"price": 2,
-		"category": "Raw vegetables",
-		"defname": "RC2_RawBeets"
-	},
-	{
 		"abr": "berries",
 		"price": 2,
-		"category": "Raw vegetarian",
+		"category": "Vegetarian",
 		"defname": "RawBerries"
 	},
 	{
@@ -303,7 +273,7 @@
 	{
 		"abr": "birdmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Cassowary"
 	},
 	{
@@ -313,28 +283,10 @@
 		"defname": "Leather_Bird"
 	},
 	{
-		"abr": "birthcontrol",
-		"price": 17,
-		"category": "Drugs",
-		"defname": "BirthControl"
-	},
-	{
-		"abr": "blackboard",
-		"price": 358,
-		"category": "Production",
-		"defname": "Blackboard"
-	},
-	{
-		"abr": "blueblade",
-		"price": 133,
-		"category": "Animal",
-		"defname": "Blueblade"
-	},
-	{
-		"abr": "bluebladefilet",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Blueblade"
+		"abr": "bluechristmastree",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "ChristmasTreeD"
 	},
 	{
 		"abr": "bluefur",
@@ -357,7 +309,7 @@
 	{
 		"abr": "boomalopemeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Boomalope"
 	},
 	{
@@ -369,7 +321,7 @@
 	{
 		"abr": "boomratmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Boomrat"
 	},
 	{
@@ -379,22 +331,10 @@
 		"defname": "Apparel_BowlerHat"
 	},
 	{
-		"abr": "breadfruit",
-		"price": 2,
-		"category": "Raw fruits",
-		"defname": "RC2_RawBreadfruit"
-	},
-	{
 		"abr": "brewery",
 		"price": 350,
 		"category": "Production",
 		"defname": "Brewery"
-	},
-	{
-		"abr": "brinedvegetables",
-		"price": 2,
-		"category": "Foods",
-		"defname": "RC2_PickleBrine"
 	},
 	{
 		"abr": "butchertable",
@@ -409,18 +349,6 @@
 		"defname": "Apparel_CollarShirt"
 	},
 	{
-		"abr": "cabbages",
-		"price": 1,
-		"category": "Raw vegetables",
-		"defname": "RC2_RawCabbages"
-	},
-	{
-		"abr": "cactusfruit",
-		"price": 3,
-		"category": "Raw fruits",
-		"defname": "RC2_RawCactusFruit"
-	},
-	{
 		"abr": "camelhair",
 		"price": 4,
 		"category": "Textiles",
@@ -433,12 +361,6 @@
 		"defname": "Leather_Camel"
 	},
 	{
-		"abr": "candy",
-		"price": 1,
-		"category": "Snacks",
-		"defname": "RC2_MealCandy"
-	},
-	{
 		"abr": "capybara",
 		"price": 250,
 		"category": "Animal",
@@ -447,7 +369,7 @@
 	{
 		"abr": "capybarameat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Capybara"
 	},
 	{
@@ -459,14 +381,8 @@
 	{
 		"abr": "cariboumeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Caribou"
-	},
-	{
-		"abr": "carrots",
-		"price": 2,
-		"category": "Raw vegetables",
-		"defname": "RC2_RawCarrots"
 	},
 	{
 		"abr": "cassowary",
@@ -489,7 +405,7 @@
 	{
 		"abr": "catmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Cat"
 	},
 	{
@@ -547,12 +463,6 @@
 		"defname": "ChemfuelSiphon"
 	},
 	{
-		"abr": "cherries",
-		"price": 3,
-		"category": "Raw fruits",
-		"defname": "RC2_RawCherries"
-	},
-	{
 		"abr": "chesstable",
 		"price": 281,
 		"category": "Furniture",
@@ -579,20 +489,8 @@
 	{
 		"abr": "chickenmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Chicken"
-	},
-	{
-		"abr": "chickpeas",
-		"price": 2,
-		"category": "Raw vegetables",
-		"defname": "RC2_RawChickpeas"
-	},
-	{
-		"abr": "chilipeppers",
-		"price": 3,
-		"category": "Raw vegetables",
-		"defname": "RC2_RawPeppers"
 	},
 	{
 		"abr": "chinchilla",
@@ -609,7 +507,7 @@
 	{
 		"abr": "chinchillameat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Chinchilla"
 	},
 	{
@@ -617,12 +515,6 @@
 		"price": 5,
 		"category": "Foods",
 		"defname": "Chocolate"
-	},
-	{
-		"abr": "citrusfruits",
-		"price": 2,
-		"category": "Raw fruits",
-		"defname": "RC2_RawOrange"
 	},
 	{
 		"abr": "cloth",
@@ -651,7 +543,7 @@
 	{
 		"abr": "cobraflesh",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Cobra"
 	},
 	{
@@ -661,28 +553,10 @@
 		"defname": "CochlearImplant"
 	},
 	{
-		"abr": "cocoabeans",
-		"price": 2,
-		"category": "Plant matter",
-		"defname": "RC2_RawCocoaBeans"
-	},
-	{
-		"abr": "coconuts",
-		"price": 3,
-		"category": "Raw fruits",
-		"defname": "RC2_RawCoconut"
-	},
-	{
-		"abr": "coffee",
-		"price": 5,
-		"category": "Drinks",
-		"defname": "RC2_Coffee"
-	},
-	{
-		"abr": "coffeebeans",
-		"price": 2,
-		"category": "Plant matter",
-		"defname": "RC2_RawCoffeeBeans"
+		"abr": "complexfishingnet",
+		"price": 106,
+		"category": "Production",
+		"defname": "GTF_FishingNetComplex"
 	},
 	{
 		"abr": "component",
@@ -691,75 +565,15 @@
 		"defname": "ComponentIndustrial"
 	},
 	{
-		"abr": "composite",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberComposite"
-	},
-	{
-		"abr": "compositeblack",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeBlack"
-	},
-	{
-		"abr": "compositeblue",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeBlue"
-	},
-	{
-		"abr": "compositegreen",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeGreen"
-	},
-	{
-		"abr": "compositeolive",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeOlive"
-	},
-	{
-		"abr": "compositeorange",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeOrange"
-	},
-	{
-		"abr": "compositered",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeRed"
-	},
-	{
-		"abr": "compositesand",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeSand"
-	},
-	{
-		"abr": "compositeviolet",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeViolet"
-	},
-	{
-		"abr": "compositewhite",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeWhite"
-	},
-	{
-		"abr": "compositeyellow",
-		"price": 13,
-		"category": "Synthamide",
-		"defname": "FiberCompositeYellow"
+		"abr": "composition",
+		"price": 500,
+		"category": "Art",
+		"defname": "RAZ_Composition"
 	},
 	{
 		"abr": "corn",
 		"price": 2,
-		"category": "Raw vegetarian",
+		"category": "Vegetarian",
 		"defname": "RawCorn"
 	},
 	{
@@ -801,7 +615,7 @@
 	{
 		"abr": "cougarmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Cougar"
 	},
 	{
@@ -827,18 +641,6 @@
 		"price": 94,
 		"category": "Headgear",
 		"defname": "Apparel_CowboyHat"
-	},
-	{
-		"abr": "crustypeanuts",
-		"price": 25,
-		"category": "Snacks",
-		"defname": "RC2_MealCrustyPeanuts"
-	},
-	{
-		"abr": "cucumbers",
-		"price": 2,
-		"category": "Raw vegetables",
-		"defname": "RC2_RawCucumbers"
 	},
 	{
 		"abr": "cushionedchair",
@@ -885,13 +687,13 @@
 	{
 		"abr": "direwolfmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_WoWDirewolf"
 	},
 	{
 		"abr": "direwolfmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_WoWFrostwolf"
 	},
 	{
@@ -945,7 +747,7 @@
 	{
 		"abr": "dragonhawkmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_WoWDragonhawk"
 	},
 	{
@@ -961,18 +763,6 @@
 		"defname": "Anon2Dresser"
 	},
 	{
-		"abr": "driedfruit",
-		"price": 3,
-		"category": "Processed fruits",
-		"defname": "RC2_DriedFruit"
-	},
-	{
-		"abr": "driedmeat",
-		"price": 4,
-		"category": "Processed meat",
-		"defname": "RC2_DriedMeat"
-	},
-	{
 		"abr": "dromedary",
 		"price": 500,
 		"category": "Animal",
@@ -981,7 +771,7 @@
 	{
 		"abr": "dromedarymeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Dromedary"
 	},
 	{
@@ -997,22 +787,16 @@
 		"defname": "RimFridge_Refrigerator"
 	},
 	{
-		"abr": "durians",
-		"price": 3,
-		"category": "Raw fruits",
-		"defname": "RC2_RawDurians"
-	},
-	{
 		"abr": "duster",
 		"price": 327,
 		"category": "Apparel",
 		"defname": "Apparel_Duster"
 	},
 	{
-		"abr": "eggplants",
-		"price": 2,
-		"category": "Raw vegetables",
-		"defname": "RC2_RawEggplants"
+		"abr": "eggnog",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "Eggnog"
 	},
 	{
 		"abr": "electricboiler",
@@ -1059,7 +843,7 @@
 	{
 		"abr": "elekkmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_WoWElekk"
 	},
 	{
@@ -1077,7 +861,7 @@
 	{
 		"abr": "elephantmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Elephant"
 	},
 	{
@@ -1095,7 +879,7 @@
 	{
 		"abr": "elkmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Elk"
 	},
 	{
@@ -1153,18 +937,6 @@
 		"defname": "FermentingBarrel"
 	},
 	{
-		"abr": "fertilitybooster",
-		"price": 25,
-		"category": "Drugs",
-		"defname": "FertilityBooster"
-	},
-	{
-		"abr": "figs",
-		"price": 3,
-		"category": "Raw fruits",
-		"defname": "RC2_RawFigs"
-	},
-	{
 		"abr": "filecabinet",
 		"price": 74,
 		"category": "Furniture",
@@ -1193,6 +965,12 @@
 		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_Firefoam"
+	},
+	{
+		"abr": "fish",
+		"price": 3,
+		"category": "Meat",
+		"defname": "GTF_FishShallow"
 	},
 	{
 		"abr": "flakjacket",
@@ -1225,12 +1003,6 @@
 		"defname": "FlatscreenTelevision"
 	},
 	{
-		"abr": "flour",
-		"price": 5,
-		"category": "Processed grains",
-		"defname": "RC2_Flour"
-	},
-	{
 		"abr": "forsakenhorseleather",
 		"price": 5,
 		"category": "Leathers",
@@ -1251,7 +1023,7 @@
 	{
 		"abr": "foxmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Fox_Fennec"
 	},
 	{
@@ -1271,18 +1043,6 @@
 		"price": 4167,
 		"category": "Animal",
 		"defname": "WoWFrostwolf"
-	},
-	{
-		"abr": "fruitdryingrack",
-		"price": 85,
-		"category": "Production",
-		"defname": "RC2_FruitDryingRack"
-	},
-	{
-		"abr": "fruitjuice",
-		"price": 2,
-		"category": "Drinks",
-		"defname": "RC2_MealJuice"
 	},
 	{
 		"abr": "fueledsmithy",
@@ -1317,7 +1077,7 @@
 	{
 		"abr": "gazellemeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Gazelle"
 	},
 	{
@@ -1357,6 +1117,12 @@
 		"defname": "Gold"
 	},
 	{
+		"abr": "grandpiano",
+		"price": 1483,
+		"category": "Production",
+		"defname": "GrandPianoDef"
+	},
+	{
 		"abr": "grandsculpture",
 		"price": 1125,
 		"category": "Art",
@@ -1369,22 +1135,10 @@
 		"defname": "BlocksGranite"
 	},
 	{
-		"abr": "grapes",
-		"price": 3,
-		"category": "Raw fruits",
-		"defname": "RC2_RawGrapes"
-	},
-	{
 		"abr": "greatbow",
 		"price": 154,
 		"category": "Ranged weapons",
 		"defname": "Bow_Great"
-	},
-	{
-		"abr": "greentea",
-		"price": 4,
-		"category": "Drinks",
-		"defname": "RC2_GreenTea"
 	},
 	{
 		"abr": "grizzlybear",
@@ -1399,12 +1153,6 @@
 		"defname": "HandTailoringBench"
 	},
 	{
-		"abr": "hardtack",
-		"price": 0,
-		"category": "Meals",
-		"defname": "RC2_Hardtack"
-	},
-	{
 		"abr": "hare",
 		"price": 83,
 		"category": "Animal",
@@ -1413,7 +1161,7 @@
 	{
 		"abr": "haremeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Hare"
 	},
 	{
@@ -1443,13 +1191,13 @@
 	{
 		"abr": "hawkstridermeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_WoWHawkstrider"
 	},
 	{
 		"abr": "hawkstridermeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_WoWVoidstrider"
 	},
 	{
@@ -1501,12 +1249,6 @@
 		"defname": "Shell_HighExplosive"
 	},
 	{
-		"abr": "honey",
-		"price": 13,
-		"category": "Raw sweets",
-		"defname": "RC2_Honey"
-	},
-	{
 		"abr": "hoopstonering",
 		"price": 67,
 		"category": "Recreation",
@@ -1533,25 +1275,25 @@
 	{
 		"abr": "horsemeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_WoWForsakenhorse"
 	},
 	{
 		"abr": "horsemeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_WoWEpicForsakenhorse"
 	},
 	{
 		"abr": "horsemeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_WoWHorse"
 	},
 	{
 		"abr": "horsemeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_WoWKodo"
 	},
 	{
@@ -1593,7 +1335,7 @@
 	{
 		"abr": "humanmeat",
 		"price": 1,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Human"
 	},
 	{
@@ -1605,7 +1347,7 @@
 	{
 		"abr": "huskymeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Husky"
 	},
 	{
@@ -1629,8 +1371,14 @@
 	{
 		"abr": "ibexmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Ibex"
+	},
+	{
+		"abr": "icefishingnet",
+		"price": 131,
+		"category": "Production",
+		"defname": "GTF_FishingNetIce"
 	},
 	{
 		"abr": "iedantigrainwarheadtrap",
@@ -1677,7 +1425,7 @@
 	{
 		"abr": "iguanameat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Iguana"
 	},
 	{
@@ -1707,13 +1455,13 @@
 	{
 		"abr": "insectjelly",
 		"price": 13,
-		"category": "Raw animal products",
+		"category": "Animal products",
 		"defname": "InsectJelly"
 	},
 	{
 		"abr": "insectmeat",
 		"price": 1,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Megaspider"
 	},
 	{
@@ -1739,12 +1487,6 @@
 		"price": 1333,
 		"category": "Artificial",
 		"defname": "Joywire"
-	},
-	{
-		"abr": "juniperberries",
-		"price": 2,
-		"category": "Raw fruits",
-		"defname": "RC2_RawJuniperBerries"
 	},
 	{
 		"abr": "kibble",
@@ -1797,7 +1539,7 @@
 	{
 		"abr": "labradorretrievermeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_LabradorRetriever"
 	},
 	{
@@ -1893,7 +1635,7 @@
 	{
 		"abr": "lynxmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Lynx"
 	},
 	{
@@ -1939,12 +1681,6 @@
 		"defname": "Apparel_PowerArmorHelmet"
 	},
 	{
-		"abr": "mashgon",
-		"price": 83,
-		"category": "Animal",
-		"defname": "Mashgon"
-	},
-	{
 		"abr": "medicine",
 		"price": 30,
 		"category": "Medicine",
@@ -1971,7 +1707,7 @@
 	{
 		"abr": "megaslothmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Megasloth"
 	},
 	{
@@ -1987,15 +1723,15 @@
 		"defname": "Megaspider"
 	},
 	{
-		"abr": "melons",
-		"price": 2,
-		"category": "Raw fruits",
-		"defname": "RC2_RawMelons"
+		"abr": "microphone",
+		"price": 218,
+		"category": "Production",
+		"defname": "RazMicrophoneDef"
 	},
 	{
 		"abr": "milk",
 		"price": 5,
-		"category": "Raw animal products",
+		"category": "Animal products",
 		"defname": "Milk"
 	},
 	{
@@ -2025,7 +1761,7 @@
 	{
 		"abr": "monkeymeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Monkey"
 	},
 	{
@@ -2043,7 +1779,7 @@
 	{
 		"abr": "muffalomeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Muffalo"
 	},
 	{
@@ -2073,14 +1809,8 @@
 	{
 		"abr": "murlocmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_WoWMurloc"
-	},
-	{
-		"abr": "napalm",
-		"price": 5,
-		"category": "Oil",
-		"defname": "Napalm"
 	},
 	{
 		"abr": "napalmrefiner",
@@ -2127,19 +1857,19 @@
 	{
 		"abr": "nightsabermeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_WoWNightsaber"
 	},
 	{
 		"abr": "nightsabermeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_WoWFrostsaber"
 	},
 	{
 		"abr": "nightsabermeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_WoWManasaber"
 	},
 	{
@@ -2147,18 +1877,6 @@
 		"price": 17,
 		"category": "Meals",
 		"defname": "MealNutrientPaste"
-	},
-	{
-		"abr": "oats",
-		"price": 2,
-		"category": "Raw grains",
-		"defname": "RC2_RawOats"
-	},
-	{
-		"abr": "onions",
-		"price": 2,
-		"category": "Raw vegetables",
-		"defname": "RC2_RawOnion"
 	},
 	{
 		"abr": "orbitalbombardmenttargeter",
@@ -2203,12 +1921,6 @@
 		"defname": "EggOstrichFertilized"
 	},
 	{
-		"abr": "oyster",
-		"price": 7,
-		"category": "Foods",
-		"defname": "Oyster"
-	},
-	{
 		"abr": "packagedsurvivalmeal",
 		"price": 40,
 		"category": "Meals",
@@ -2229,7 +1941,7 @@
 	{
 		"abr": "panthermeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Panther"
 	},
 	{
@@ -2251,34 +1963,10 @@
 		"defname": "Apparel_Parka"
 	},
 	{
-		"abr": "pastry",
-		"price": 2,
-		"category": "Snacks",
-		"defname": "RC2_MealPastry"
-	},
-	{
 		"abr": "patchleather",
 		"price": 2,
 		"category": "Leathers",
 		"defname": "Leather_Patch"
-	},
-	{
-		"abr": "peaches",
-		"price": 2,
-		"category": "Raw fruits",
-		"defname": "RC2_RawPeaches"
-	},
-	{
-		"abr": "pearl",
-		"price": 417,
-		"category": "Items",
-		"defname": "Pearl"
-	},
-	{
-		"abr": "pecans",
-		"price": 3,
-		"category": "Raw fruits",
-		"defname": "RC2_RawPecans"
 	},
 	{
 		"abr": "pemmican",
@@ -2291,18 +1979,6 @@
 		"price": 30,
 		"category": "Drugs",
 		"defname": "Penoxycyline"
-	},
-	{
-		"abr": "pickledvegetables",
-		"price": 2,
-		"category": "Processed vegetables",
-		"defname": "RC2_PickledVegetables"
-	},
-	{
-		"abr": "picklingbarrel",
-		"price": 85,
-		"category": "Production",
-		"defname": "RC2_PicklingBarrel"
 	},
 	{
 		"abr": "pig",
@@ -2321,12 +1997,6 @@
 		"price": 182,
 		"category": "Ranged weapons",
 		"defname": "Pila"
-	},
-	{
-		"abr": "pineapples",
-		"price": 3,
-		"category": "Raw fruits",
-		"defname": "RC2_RawPineapples"
 	},
 	{
 		"abr": "pipelinevalve",
@@ -2365,16 +2035,16 @@
 		"defname": "Apparel_PlateGloves"
 	},
 	{
+		"abr": "play",
+		"price": 833,
+		"category": "Art",
+		"defname": "RAZ_Play"
+	},
+	{
 		"abr": "plumbingvalve",
 		"price": 50,
 		"category": "Hygiene",
 		"defname": "plumbingValve"
-	},
-	{
-		"abr": "plums",
-		"price": 2,
-		"category": "Raw fruits",
-		"defname": "RC2_RawPlums"
 	},
 	{
 		"abr": "pokertable",
@@ -2389,21 +2059,15 @@
 		"defname": "Bear_Polar"
 	},
 	{
-		"abr": "pomegranates",
-		"price": 3,
-		"category": "Raw fruits",
-		"defname": "RC2_RawPomegranates"
-	},
-	{
 		"abr": "pork",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Pig"
 	},
 	{
 		"abr": "potatoes",
 		"price": 2,
-		"category": "Raw vegetarian",
+		"category": "Vegetarian",
 		"defname": "RawPotatoes"
 	},
 	{
@@ -2417,18 +2081,6 @@
 		"price": 170,
 		"category": "Hygiene",
 		"defname": "ShowerAdvStuff"
-	},
-	{
-		"abr": "pregnancytest",
-		"price": 12,
-		"category": "Drugs",
-		"defname": "PregnancyTest"
-	},
-	{
-		"abr": "preparedfruit",
-		"price": 2,
-		"category": "Foods",
-		"defname": "RC2_PreparedFruit"
 	},
 	{
 		"abr": "prostheticarm",
@@ -2503,28 +2155,10 @@
 		"defname": "Gun_PumpShotgun"
 	},
 	{
-		"abr": "pumpkins",
-		"price": 3,
-		"category": "Raw fruits",
-		"defname": "RC2_RawPumpkins"
-	},
-	{
 		"abr": "quadrefrigerator",
 		"price": 307,
 		"category": "Furniture",
 		"defname": "RimFridge_QuadRefrigerator"
-	},
-	{
-		"abr": "quernstone",
-		"price": 173,
-		"category": "Production",
-		"defname": "RC2_Quernstone"
-	},
-	{
-		"abr": "quinoa",
-		"price": 3,
-		"category": "Raw grains",
-		"defname": "RC2_RawQuinoa"
 	},
 	{
 		"abr": "raccoon",
@@ -2535,7 +2169,7 @@
 	{
 		"abr": "raccoonmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Raccoon"
 	},
 	{
@@ -2571,7 +2205,7 @@
 	{
 		"abr": "raptormeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_WoWRaptor"
 	},
 	{
@@ -2583,13 +2217,13 @@
 	{
 		"abr": "ratmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Rat"
 	},
 	{
 		"abr": "rawfungus",
 		"price": 2,
-		"category": "Raw vegetarian",
+		"category": "Vegetarian",
 		"defname": "RawFungus"
 	},
 	{
@@ -2597,6 +2231,12 @@
 		"price": 110,
 		"category": "Ranged weapons",
 		"defname": "Bow_Recurve"
+	},
+	{
+		"abr": "redchristmastree",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "ChristmasTreeB"
 	},
 	{
 		"abr": "redfox",
@@ -2643,20 +2283,20 @@
 	{
 		"abr": "rhinocerosmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Rhinoceros"
 	},
 	{
 		"abr": "rice",
 		"price": 2,
-		"category": "Raw vegetarian",
+		"category": "Vegetarian",
 		"defname": "RawRice"
 	},
 	{
-		"abr": "rollermill",
-		"price": 350,
-		"category": "Production",
-		"defname": "RC2_RollerMill"
+		"abr": "rim-a-cola",
+		"price": 7,
+		"category": "Foods",
+		"defname": "Rimacola"
 	},
 	{
 		"abr": "royalbed",
@@ -2683,52 +2323,16 @@
 		"defname": "BlocksSandstone"
 	},
 	{
-		"abr": "schooltable",
-		"price": 281,
-		"category": "Production",
-		"defname": "SchoolTable"
-	},
-	{
 		"abr": "sculptor'stable",
 		"price": 425,
 		"category": "Production",
 		"defname": "TableSculpting"
 	},
 	{
-		"abr": "sduiggles",
-		"price": 167,
-		"category": "Animal",
-		"defname": "Sduiggles"
-	},
-	{
-		"abr": "sduigglestentacles",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Sduiggles"
-	},
-	{
-		"abr": "seasnake",
-		"price": 133,
-		"category": "Animal",
-		"defname": "Seasnake"
-	},
-	{
-		"abr": "seasnakefilet",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Seasnake"
-	},
-	{
 		"abr": "shelf",
 		"price": 104,
 		"category": "Furniture",
 		"defname": "Shelf"
-	},
-	{
-		"abr": "shelledmashgon",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Mashgon"
 	},
 	{
 		"abr": "shieldbelt",
@@ -2759,6 +2363,12 @@
 		"price": 2,
 		"category": "Raw resources",
 		"defname": "Silver"
+	},
+	{
+		"abr": "simplefishingnet",
+		"price": 66,
+		"category": "Production",
+		"defname": "GTF_FishingNetBasic"
 	},
 	{
 		"abr": "simplehelmet",
@@ -2839,12 +2449,6 @@
 		"defname": "Apparel_SmokepopBelt"
 	},
 	{
-		"abr": "snappeas",
-		"price": 2,
-		"category": "Raw vegetables",
-		"defname": "RC2_RawSnapPeas"
-	},
-	{
 		"abr": "sniperrifle",
 		"price": 883,
 		"category": "Ranged weapons",
@@ -2861,18 +2465,6 @@
 		"price": 43,
 		"category": "Apparel",
 		"defname": "Apparel_Simple_socks_Frederferd"
-	},
-	{
-		"abr": "sorghum",
-		"price": 2,
-		"category": "Raw grains",
-		"defname": "RC2_RawSorghum"
-	},
-	{
-		"abr": "soybeans",
-		"price": 3,
-		"category": "Raw vegetables",
-		"defname": "RC2_RawSoybean"
 	},
 	{
 		"abr": "spear",
@@ -2913,8 +2505,14 @@
 	{
 		"abr": "squirrelmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Squirrel"
+	},
+	{
+		"abr": "stage",
+		"price": 1417,
+		"category": "Production",
+		"defname": "StageDef"
 	},
 	{
 		"abr": "standinglamp",
@@ -2996,33 +2594,15 @@
 	},
 	{
 		"abr": "sugar",
-		"price": 8,
-		"category": "Processed sweets",
-		"defname": "RC2_Sugar"
-	},
-	{
-		"abr": "sugarbeets",
-		"price": 2,
-		"category": "Raw vegetables",
-		"defname": "RC2_RawSugarBeets"
-	},
-	{
-		"abr": "sugarcane",
-		"price": 1,
-		"category": "Plant matter",
-		"defname": "RC2_RawSugarcane"
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "sugar"
 	},
 	{
 		"abr": "sunlamp",
 		"price": 129,
 		"category": "Furniture",
 		"defname": "SunLamp"
-	},
-	{
-		"abr": "synthamide",
-		"price": 9,
-		"category": "Textiles",
-		"defname": "Synthamide"
 	},
 	{
 		"abr": "synthamiderefiner",
@@ -3043,82 +2623,10 @@
 		"defname": "SynthreadRefiner"
 	},
 	{
-		"abr": "synthylene",
-		"price": 3,
-		"category": "Synthylene",
-		"defname": "Synthylene"
-	},
-	{
-		"abr": "synthyleneblack",
-		"price": 3,
-		"category": "Synthylene",
-		"defname": "SynthyleneBlack"
-	},
-	{
-		"abr": "synthyleneblue",
-		"price": 3,
-		"category": "Synthylene",
-		"defname": "SynthyleneBlue"
-	},
-	{
-		"abr": "synthylenegreen",
-		"price": 3,
-		"category": "Synthylene",
-		"defname": "SynthyleneGreen"
-	},
-	{
-		"abr": "synthyleneolive",
-		"price": 3,
-		"category": "Synthylene",
-		"defname": "SynthyleneOlive"
-	},
-	{
-		"abr": "synthyleneorange",
-		"price": 3,
-		"category": "Synthylene",
-		"defname": "SynthyleneOrange"
-	},
-	{
-		"abr": "synthylenered",
-		"price": 3,
-		"category": "Synthylene",
-		"defname": "SynthyleneRed"
-	},
-	{
 		"abr": "synthylenerefiner",
 		"price": 758,
 		"category": "Oil",
 		"defname": "SynthyleneRefiner"
-	},
-	{
-		"abr": "synthylenesand",
-		"price": 3,
-		"category": "Synthylene",
-		"defname": "SynthyleneSand"
-	},
-	{
-		"abr": "synthyleneviolet",
-		"price": 3,
-		"category": "Synthylene",
-		"defname": "SynthyleneViolet"
-	},
-	{
-		"abr": "synthylenewhite",
-		"price": 3,
-		"category": "Synthylene",
-		"defname": "SynthyleneWhite"
-	},
-	{
-		"abr": "synthyleneyellow",
-		"price": 3,
-		"category": "Synthylene",
-		"defname": "SynthyleneYellow"
-	},
-	{
-		"abr": "syrup",
-		"price": 7,
-		"category": "Raw sweets",
-		"defname": "RC2_Syrup"
 	},
 	{
 		"abr": "table(1x1)",
@@ -3151,30 +2659,6 @@
 		"defname": "Table3x3c"
 	},
 	{
-		"abr": "tailteeth",
-		"price": 833,
-		"category": "Animal",
-		"defname": "Tailteeth"
-	},
-	{
-		"abr": "tailteethleather",
-		"price": 6,
-		"category": "Leathers",
-		"defname": "Leather_Tailteeth"
-	},
-	{
-		"abr": "tailteethsteak",
-		"price": 3,
-		"category": "Raw meat",
-		"defname": "Meat_Tailteeth"
-	},
-	{
-		"abr": "tealeaves",
-		"price": 2,
-		"category": "Plant matter",
-		"defname": "RC2_RawTeaLeaves"
-	},
-	{
 		"abr": "techprofsubpersonacore",
 		"price": 1667,
 		"category": "Items",
@@ -3193,18 +2677,6 @@
 		"defname": "Thermostat"
 	},
 	{
-		"abr": "thickpottage",
-		"price": 25,
-		"category": "Meals",
-		"defname": "RC2_ThickPottage"
-	},
-	{
-		"abr": "thinpottage",
-		"price": 20,
-		"category": "Meals",
-		"defname": "RC2_ThinPottage"
-	},
-	{
 		"abr": "thrumbo",
 		"price": 6667,
 		"category": "Animal",
@@ -3219,7 +2691,7 @@
 	{
 		"abr": "thrumbomeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Thrumbo"
 	},
 	{
@@ -3235,22 +2707,10 @@
 		"defname": "Wolf_Timber"
 	},
 	{
-		"abr": "tofu",
-		"price": 7,
-		"category": "Processed meat",
-		"defname": "RC2_Tofu"
-	},
-	{
 		"abr": "toilet",
 		"price": 72,
 		"category": "Hygiene",
 		"defname": "ToiletStuff"
-	},
-	{
-		"abr": "tomatoes",
-		"price": 2,
-		"category": "Raw vegetables",
-		"defname": "RC2_RawTomato"
 	},
 	{
 		"abr": "toolcabinet",
@@ -3279,7 +2739,7 @@
 	{
 		"abr": "tortoisemeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Tortoise"
 	},
 	{
@@ -3301,22 +2761,10 @@
 		"defname": "Apparel_TribalA"
 	},
 	{
-		"abr": "trimmedmeat",
-		"price": 2,
-		"category": "Foods",
-		"defname": "RC2_TrimmedMeat"
-	},
-	{
 		"abr": "triplerocketlauncher",
 		"price": 1667,
 		"category": "Ranged weapons",
 		"defname": "Gun_TripleRocket"
-	},
-	{
-		"abr": "truffles",
-		"price": 3,
-		"category": "Raw vegetables",
-		"defname": "RC2_RawTruffles"
 	},
 	{
 		"abr": "t-shirt",
@@ -3351,7 +2799,7 @@
 	{
 		"abr": "turkeymeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Turkey"
 	},
 	{
@@ -3381,7 +2829,7 @@
 	{
 		"abr": "unicornmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_WoWUnicorn"
 	},
 	{
@@ -3417,7 +2865,7 @@
 	{
 		"abr": "venison",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Deer"
 	},
 	{
@@ -3579,7 +3027,7 @@
 	{
 		"abr": "wargmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Warg"
 	},
 	{
@@ -3601,10 +3049,10 @@
 		"defname": "WashBucket"
 	},
 	{
-		"abr": "wheatgrains",
-		"price": 1,
-		"category": "Plant matter",
-		"defname": "RC2_RawWheat"
+		"abr": "whitechristmastree",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "ChristmasTreeBase"
 	},
 	{
 		"abr": "wildboar",
@@ -3615,7 +3063,7 @@
 	{
 		"abr": "wolfmeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_Wolf_Timber"
 	},
 	{
@@ -3637,16 +3085,16 @@
 		"defname": "Wort"
 	},
 	{
-		"abr": "yams",
-		"price": 2,
-		"category": "Raw vegetables",
-		"defname": "RC2_RawYams"
-	},
-	{
 		"abr": "yayo",
 		"price": 35,
 		"category": "Drugs",
 		"defname": "Yayo"
+	},
+	{
+		"abr": "yellowchristmastree",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "ChristmasTreeC"
 	},
 	{
 		"abr": "yorkshireterrier",
@@ -3657,9 +3105,9 @@
 	{
 		"abr": "yorkshireterriermeat",
 		"price": 3,
-		"category": "Raw meat",
+		"category": "Meat",
 		"defname": "Meat_YorkshireTerrier"
 	}
 	],
-	"total": 610
+	"total": 518
 }
