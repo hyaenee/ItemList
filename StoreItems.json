@@ -31,18 +31,6 @@
 		"defname": "AIPersonaCore"
 	},
 	{
-		"abr": "air-conindoorunit",
-		"price": 82,
-		"category": "Hygiene",
-		"defname": "AirconIndoorUnit"
-	},
-	{
-		"abr": "air-conoutdoorunit",
-		"price": 458,
-		"category": "Hygiene",
-		"defname": "AirConOutdoorUnit"
-	},
-	{
 		"abr": "alpaca",
 		"price": 583,
 		"category": "Animal",
@@ -151,18 +139,6 @@
 		"defname": "Gun_Autopistol"
 	},
 	{
-		"abr": "basin",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "BasinStuff"
-	},
-	{
-		"abr": "bathtub",
-		"price": 124,
-		"category": "Hygiene",
-		"defname": "BathtubStuff"
-	},
-	{
 		"abr": "battery",
 		"price": 333,
 		"category": "Power",
@@ -259,18 +235,6 @@
 		"defname": "BionicStomach"
 	},
 	{
-		"abr": "biosolids",
-		"price": 0,
-		"category": "Waste",
-		"defname": "Biosolids"
-	},
-	{
-		"abr": "biosolidscomposter",
-		"price": 146,
-		"category": "Hygiene",
-		"defname": "BiosolidsComposter"
-	},
-	{
 		"abr": "birdmeat",
 		"price": 3,
 		"category": "Meat",
@@ -281,12 +245,6 @@
 		"price": 3,
 		"category": "Leathers",
 		"defname": "Leather_Bird"
-	},
-	{
-		"abr": "bluechristmastree",
-		"price": 98,
-		"category": "Furniture",
-		"defname": "ChristmasTreeD"
 	},
 	{
 		"abr": "bluefur",
@@ -407,18 +365,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Cat"
-	},
-	{
-		"abr": "ceilingfan1x1",
-		"price": 184,
-		"category": "Hygiene",
-		"defname": "CeilingFanS"
-	},
-	{
-		"abr": "ceilingfan2x2",
-		"price": 184,
-		"category": "Hygiene",
-		"defname": "CeilingFan"
 	},
 	{
 		"abr": "chainshotgun",
@@ -673,36 +619,6 @@
 		"defname": "DiningChair"
 	},
 	{
-		"abr": "direwolfleather",
-		"price": 7,
-		"category": "Leathers",
-		"defname": "Leather_WoWDirewolf"
-	},
-	{
-		"abr": "direwolf",
-		"price": 4167,
-		"category": "Animal",
-		"defname": "WoWDirewolf"
-	},
-	{
-		"abr": "direwolfmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_WoWDirewolf"
-	},
-	{
-		"abr": "direwolfmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_WoWFrostwolf"
-	},
-	{
-		"abr": "dmurlocegg(fert.)",
-		"price": 125,
-		"category": "Eggs (fert.)",
-		"defname": "EggWoWMurlocFertilized"
-	},
-	{
 		"abr": "dogleather",
 		"price": 3,
 		"category": "Leathers",
@@ -725,30 +641,6 @@
 		"price": 290,
 		"category": "Furniture",
 		"defname": "BedrollDouble"
-	},
-	{
-		"abr": "dragonhawk",
-		"price": 2083,
-		"category": "Animal",
-		"defname": "WoWDragonhawk"
-	},
-	{
-		"abr": "dragonhawkegg(fert.)",
-		"price": 125,
-		"category": "Eggs (fert.)",
-		"defname": "EggWoWDragonhawkFertilized"
-	},
-	{
-		"abr": "dragonhawkleather",
-		"price": 6,
-		"category": "Leathers",
-		"defname": "Leather_WoWDragonhawk"
-	},
-	{
-		"abr": "dragonhawkmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_WoWDragonhawk"
 	},
 	{
 		"abr": "dresser",
@@ -793,24 +685,6 @@
 		"defname": "Apparel_Duster"
 	},
 	{
-		"abr": "eggnog",
-		"price": 17,
-		"category": "Drugs",
-		"defname": "Eggnog"
-	},
-	{
-		"abr": "electricboiler",
-		"price": 425,
-		"category": "Hygiene",
-		"defname": "ElectricBoiler"
-	},
-	{
-		"abr": "electricpump",
-		"price": 316,
-		"category": "Hygiene",
-		"defname": "ElectricPump"
-	},
-	{
 		"abr": "electricsmelter",
 		"price": 667,
 		"category": "Production",
@@ -833,18 +707,6 @@
 		"price": 533,
 		"category": "Production",
 		"defname": "ElectricTailoringBench"
-	},
-	{
-		"abr": "elekk",
-		"price": 1250,
-		"category": "Animal",
-		"defname": "WoWElekk"
-	},
-	{
-		"abr": "elekkmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_WoWElekk"
 	},
 	{
 		"abr": "elephant",
@@ -949,12 +811,6 @@
 		"defname": "MealFine"
 	},
 	{
-		"abr": "firesprinkler",
-		"price": 104,
-		"category": "Hygiene",
-		"defname": "FireSprinkler"
-	},
-	{
 		"abr": "firefoampopper",
 		"price": 300,
 		"category": "Misc",
@@ -1003,18 +859,6 @@
 		"defname": "FlatscreenTelevision"
 	},
 	{
-		"abr": "forsakenhorseleather",
-		"price": 5,
-		"category": "Leathers",
-		"defname": "Leather_WoWForsakenhorse"
-	},
-	{
-		"abr": "fountain",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "Fountain"
-	},
-	{
 		"abr": "foxfur",
 		"price": 6,
 		"category": "Leathers",
@@ -1033,18 +877,6 @@
 		"defname": "Weapon_GrenadeFrag"
 	},
 	{
-		"abr": "frostsaber",
-		"price": 5000,
-		"category": "Animal",
-		"defname": "WoWFrostsaber"
-	},
-	{
-		"abr": "frostwolf",
-		"price": 4167,
-		"category": "Animal",
-		"defname": "WoWFrostwolf"
-	},
-	{
 		"abr": "fueledsmithy",
 		"price": 333,
 		"category": "Production",
@@ -1061,12 +893,6 @@
 		"price": 153,
 		"category": "Furniture",
 		"defname": "GameOfUrBoard"
-	},
-	{
-		"abr": "gasboiler",
-		"price": 425,
-		"category": "Hygiene",
-		"defname": "GasBoiler"
 	},
 	{
 		"abr": "gazelle",
@@ -1165,42 +991,6 @@
 		"defname": "Meat_Hare"
 	},
 	{
-		"abr": "hawkstrider",
-		"price": 2083,
-		"category": "Animal",
-		"defname": "WoWHawkstrider"
-	},
-	{
-		"abr": "hawkstrideregg(fert.)",
-		"price": 125,
-		"category": "Eggs (fert.)",
-		"defname": "EggWoWHawkstriderFertilized"
-	},
-	{
-		"abr": "hawkstrideregg(fert.)",
-		"price": 125,
-		"category": "Eggs (fert.)",
-		"defname": "EggWoWVoidstriderFertilized"
-	},
-	{
-		"abr": "hawkstriderleather",
-		"price": 6,
-		"category": "Leathers",
-		"defname": "Leather_WoWHawkstrider"
-	},
-	{
-		"abr": "hawkstridermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_WoWHawkstrider"
-	},
-	{
-		"abr": "hawkstridermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_WoWVoidstrider"
-	},
-	{
 		"abr": "hay",
 		"price": 1,
 		"category": "Foods",
@@ -1261,42 +1051,6 @@
 		"defname": "RawHops"
 	},
 	{
-		"abr": "horse",
-		"price": 1250,
-		"category": "Animal",
-		"defname": "WoWHorse"
-	},
-	{
-		"abr": "horseleather",
-		"price": 6,
-		"category": "Leathers",
-		"defname": "Leather_WoWHorse"
-	},
-	{
-		"abr": "horsemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_WoWForsakenhorse"
-	},
-	{
-		"abr": "horsemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_WoWEpicForsakenhorse"
-	},
-	{
-		"abr": "horsemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_WoWHorse"
-	},
-	{
-		"abr": "horsemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_WoWKodo"
-	},
-	{
 		"abr": "horseshoespin",
 		"price": 34,
 		"category": "Recreation",
@@ -1307,18 +1061,6 @@
 		"price": 667,
 		"category": "Furniture",
 		"defname": "HospitalBed"
-	},
-	{
-		"abr": "hottub",
-		"price": 800,
-		"category": "Hygiene",
-		"defname": "HotTub"
-	},
-	{
-		"abr": "hotwatertank",
-		"price": 245,
-		"category": "Hygiene",
-		"defname": "HotWaterTank"
 	},
 	{
 		"abr": "human",
@@ -1465,12 +1207,6 @@
 		"defname": "Meat_Megaspider"
 	},
 	{
-		"abr": "irrigationsprinkler",
-		"price": 102,
-		"category": "Hygiene",
-		"defname": "IrrigationSprinkler"
-	},
-	{
 		"abr": "jacket",
 		"price": 275,
 		"category": "Apparel",
@@ -1501,34 +1237,10 @@
 		"defname": "Kidney"
 	},
 	{
-		"abr": "kitchensink",
-		"price": 167,
-		"category": "Hygiene",
-		"defname": "KitchenSink"
-	},
-	{
 		"abr": "knife",
 		"price": 111,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Knife"
-	},
-	{
-		"abr": "kodo",
-		"price": 1250,
-		"category": "Animal",
-		"defname": "WoWKodo"
-	},
-	{
-		"abr": "kodoegg(fert.)",
-		"price": 167,
-		"category": "Eggs (fert.)",
-		"defname": "EggWoWKodoFertilized"
-	},
-	{
-		"abr": "kodoleather",
-		"price": 6,
-		"category": "Leathers",
-		"defname": "Leather_WoWKodo"
 	},
 	{
 		"abr": "labradorretriever",
@@ -1543,22 +1255,10 @@
 		"defname": "Meat_LabradorRetriever"
 	},
 	{
-		"abr": "largeradiator",
-		"price": 252,
-		"category": "Hygiene",
-		"defname": "RadiatorLarge"
-	},
-	{
 		"abr": "largesculpture",
 		"price": 517,
 		"category": "Art",
 		"defname": "SculptureLarge"
-	},
-	{
-		"abr": "latrine",
-		"price": 55,
-		"category": "Hygiene",
-		"defname": "PitLatrine"
 	},
 	{
 		"abr": "lavishmeal",
@@ -1579,12 +1279,6 @@
 		"defname": "BlocksLimestone"
 	},
 	{
-		"abr": "litterbox",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "LitterBox"
-	},
-	{
 		"abr": "liver",
 		"price": 833,
 		"category": "Natural",
@@ -1601,12 +1295,6 @@
 		"price": 708,
 		"category": "Ranged weapons",
 		"defname": "Gun_LMG"
-	},
-	{
-		"abr": "logboiler",
-		"price": 642,
-		"category": "Hygiene",
-		"defname": "LogBoiler"
 	},
 	{
 		"abr": "longsword",
@@ -1655,12 +1343,6 @@
 		"price": 758,
 		"category": "Production",
 		"defname": "TableMachining"
-	},
-	{
-		"abr": "manasaber",
-		"price": 4167,
-		"category": "Animal",
-		"defname": "WoWManasaber"
 	},
 	{
 		"abr": "marbleblocks",
@@ -1795,24 +1477,6 @@
 		"defname": "MultiAnalyzer"
 	},
 	{
-		"abr": "murloc",
-		"price": 833,
-		"category": "Animal",
-		"defname": "WoWMurloc"
-	},
-	{
-		"abr": "murlocleather",
-		"price": 5,
-		"category": "Leathers",
-		"defname": "Leather_WoWMurloc"
-	},
-	{
-		"abr": "murlocmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_WoWMurloc"
-	},
-	{
 		"abr": "napalmrefiner",
 		"price": 758,
 		"category": "Oil",
@@ -1841,36 +1505,6 @@
 		"price": 1583,
 		"category": "Oil",
 		"defname": "NeutroamineRefiner"
-	},
-	{
-		"abr": "nightsaber",
-		"price": 4167,
-		"category": "Animal",
-		"defname": "WoWNightsaber"
-	},
-	{
-		"abr": "nightsaberleather",
-		"price": 7,
-		"category": "Leathers",
-		"defname": "Leather_WoWNightsaber"
-	},
-	{
-		"abr": "nightsabermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_WoWNightsaber"
-	},
-	{
-		"abr": "nightsabermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_WoWFrostsaber"
-	},
-	{
-		"abr": "nightsabermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_WoWManasaber"
 	},
 	{
 		"abr": "nutrientpastemeal",
@@ -2041,12 +1675,6 @@
 		"defname": "RAZ_Play"
 	},
 	{
-		"abr": "plumbingvalve",
-		"price": 50,
-		"category": "Hygiene",
-		"defname": "plumbingValve"
-	},
-	{
 		"abr": "pokertable",
 		"price": 400,
 		"category": "Furniture",
@@ -2075,12 +1703,6 @@
 		"price": 2000,
 		"category": "Artificial",
 		"defname": "PowerClaw"
-	},
-	{
-		"abr": "powershower",
-		"price": 170,
-		"category": "Hygiene",
-		"defname": "ShowerAdvStuff"
 	},
 	{
 		"abr": "prostheticarm",
@@ -2173,42 +1795,6 @@
 		"defname": "Meat_Raccoon"
 	},
 	{
-		"abr": "radiator",
-		"price": 83,
-		"category": "Hygiene",
-		"defname": "Radiator"
-	},
-	{
-		"abr": "radiator",
-		"price": 85,
-		"category": "Hygiene",
-		"defname": "RadiatorStuffed"
-	},
-	{
-		"abr": "raptor",
-		"price": 4167,
-		"category": "Animal",
-		"defname": "WoWRaptor"
-	},
-	{
-		"abr": "raptoregg(fert.)",
-		"price": 167,
-		"category": "Eggs (fert.)",
-		"defname": "EggWoWRaptorFertilized"
-	},
-	{
-		"abr": "raptorleather",
-		"price": 7,
-		"category": "Leathers",
-		"defname": "Leather_WoWRaptor"
-	},
-	{
-		"abr": "raptormeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_WoWRaptor"
-	},
-	{
 		"abr": "rat",
 		"price": 58,
 		"category": "Animal",
@@ -2231,12 +1817,6 @@
 		"price": 110,
 		"category": "Ranged weapons",
 		"defname": "Bow_Recurve"
-	},
-	{
-		"abr": "redchristmastree",
-		"price": 98,
-		"category": "Furniture",
-		"defname": "ChristmasTreeB"
 	},
 	{
 		"abr": "redfox",
@@ -2353,12 +1933,6 @@
 		"defname": "Bow_Short"
 	},
 	{
-		"abr": "shower",
-		"price": 90,
-		"category": "Hygiene",
-		"defname": "ShowerStuff"
-	},
-	{
 		"abr": "silver",
 		"price": 2,
 		"category": "Raw resources",
@@ -2389,28 +1963,10 @@
 		"defname": "SimpleResearchBench"
 	},
 	{
-		"abr": "simpleshower",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "ShowerSimple"
-	},
-	{
 		"abr": "singlerefrigerator",
 		"price": 123,
 		"category": "Furniture",
 		"defname": "RimFridge_SingleRefrigerator"
-	},
-	{
-		"abr": "skeletalhorse",
-		"price": 1250,
-		"category": "Animal",
-		"defname": "WoWForsakenhorse"
-	},
-	{
-		"abr": "skeletalhorse",
-		"price": 3333,
-		"category": "Animal",
-		"defname": "WoWEpicForsakenhorse"
 	},
 	{
 		"abr": "slateblocks",
@@ -2423,12 +1979,6 @@
 		"price": 275,
 		"category": "Art",
 		"defname": "SculptureSmall"
-	},
-	{
-		"abr": "smarttoilet",
-		"price": 182,
-		"category": "Hygiene",
-		"defname": "ToiletAdvStuff"
 	},
 	{
 		"abr": "smokeleafjoint",
@@ -2671,12 +2221,6 @@
 		"defname": "Telescope"
 	},
 	{
-		"abr": "thermostat",
-		"price": 86,
-		"category": "Hygiene",
-		"defname": "Thermostat"
-	},
-	{
 		"abr": "thrumbo",
 		"price": 6667,
 		"category": "Animal",
@@ -2705,12 +2249,6 @@
 		"price": 583,
 		"category": "Animal",
 		"defname": "Wolf_Timber"
-	},
-	{
-		"abr": "toilet",
-		"price": 72,
-		"category": "Hygiene",
-		"defname": "ToiletStuff"
 	},
 	{
 		"abr": "toolcabinet",
@@ -2815,24 +2353,6 @@
 		"defname": "UncuredComposite"
 	},
 	{
-		"abr": "unicorn",
-		"price": 2083,
-		"category": "Animal",
-		"defname": "WoWUnicorn"
-	},
-	{
-		"abr": "unicornleather",
-		"price": 10,
-		"category": "Leathers",
-		"defname": "Leather_WoWUnicorn"
-	},
-	{
-		"abr": "unicornmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_WoWUnicorn"
-	},
-	{
 		"abr": "upgradedbolt-actionrifle",
 		"price": 608,
 		"category": "Ranged weapons",
@@ -2875,22 +2395,10 @@
 		"defname": "VitalsMonitor"
 	},
 	{
-		"abr": "voidstrider",
-		"price": 2083,
-		"category": "Animal",
-		"defname": "WoWVoidstrider"
-	},
-	{
 		"abr": "wake-up",
 		"price": 58,
 		"category": "Drugs",
 		"defname": "WakeUp"
-	},
-	{
-		"abr": "walk-infreezerunit",
-		"price": 153,
-		"category": "Hygiene",
-		"defname": "FreezerUnit"
 	},
 	{
 		"abr": "walldualrefrigerator",
@@ -3031,30 +2539,6 @@
 		"defname": "Meat_Warg"
 	},
 	{
-		"abr": "washingmachine",
-		"price": 433,
-		"category": "Hygiene",
-		"defname": "WashingMachine"
-	},
-	{
-		"abr": "waterbutt",
-		"price": 89,
-		"category": "Furniture",
-		"defname": "WaterButt"
-	},
-	{
-		"abr": "watertub",
-		"price": 52,
-		"category": "Hygiene",
-		"defname": "WashBucket"
-	},
-	{
-		"abr": "whitechristmastree",
-		"price": 98,
-		"category": "Furniture",
-		"defname": "ChristmasTreeBase"
-	},
-	{
 		"abr": "wildboar",
 		"price": 333,
 		"category": "Animal",
@@ -3091,12 +2575,6 @@
 		"defname": "Yayo"
 	},
 	{
-		"abr": "yellowchristmastree",
-		"price": 98,
-		"category": "Furniture",
-		"defname": "ChristmasTreeC"
-	},
-	{
 		"abr": "yorkshireterrier",
 		"price": 167,
 		"category": "Animal",
@@ -3107,7 +2585,205 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_YorkshireTerrier"
+	},
+	{
+		"abr": "air-conindoorunit",
+		"price": 82,
+		"category": "Hygiene",
+		"defname": "AirconIndoorUnit"
+	},
+	{
+		"abr": "air-conoutdoorunit",
+		"price": 458,
+		"category": "Hygiene",
+		"defname": "AirConOutdoorUnit"
+	},
+	{
+		"abr": "basin",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "BasinStuff"
+	},
+	{
+		"abr": "bathtub",
+		"price": 124,
+		"category": "Hygiene",
+		"defname": "BathtubStuff"
+	},
+	{
+		"abr": "biosolids",
+		"price": 0,
+		"category": "Waste",
+		"defname": "Biosolids"
+	},
+	{
+		"abr": "biosolidscomposter",
+		"price": 146,
+		"category": "Hygiene",
+		"defname": "BiosolidsComposter"
+	},
+	{
+		"abr": "ceilingfan1x1",
+		"price": 184,
+		"category": "Hygiene",
+		"defname": "CeilingFanS"
+	},
+	{
+		"abr": "ceilingfan2x2",
+		"price": 184,
+		"category": "Hygiene",
+		"defname": "CeilingFan"
+	},
+	{
+		"abr": "electricboiler",
+		"price": 425,
+		"category": "Hygiene",
+		"defname": "ElectricBoiler"
+	},
+	{
+		"abr": "electricpump",
+		"price": 316,
+		"category": "Hygiene",
+		"defname": "ElectricPump"
+	},
+	{
+		"abr": "firesprinkler",
+		"price": 104,
+		"category": "Hygiene",
+		"defname": "FireSprinkler"
+	},
+	{
+		"abr": "fountain",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "Fountain"
+	},
+	{
+		"abr": "gasboiler",
+		"price": 425,
+		"category": "Hygiene",
+		"defname": "GasBoiler"
+	},
+	{
+		"abr": "hottub",
+		"price": 800,
+		"category": "Hygiene",
+		"defname": "HotTub"
+	},
+	{
+		"abr": "hotwatertank",
+		"price": 245,
+		"category": "Hygiene",
+		"defname": "HotWaterTank"
+	},
+	{
+		"abr": "irrigationsprinkler",
+		"price": 102,
+		"category": "Hygiene",
+		"defname": "IrrigationSprinkler"
+	},
+	{
+		"abr": "kitchensink",
+		"price": 167,
+		"category": "Hygiene",
+		"defname": "KitchenSink"
+	},
+	{
+		"abr": "largeradiator",
+		"price": 252,
+		"category": "Hygiene",
+		"defname": "RadiatorLarge"
+	},
+	{
+		"abr": "latrine",
+		"price": 55,
+		"category": "Hygiene",
+		"defname": "PitLatrine"
+	},
+	{
+		"abr": "litterbox",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "LitterBox"
+	},
+	{
+		"abr": "logboiler",
+		"price": 642,
+		"category": "Hygiene",
+		"defname": "LogBoiler"
+	},
+	{
+		"abr": "plumbingvalve",
+		"price": 50,
+		"category": "Hygiene",
+		"defname": "plumbingValve"
+	},
+	{
+		"abr": "powershower",
+		"price": 170,
+		"category": "Hygiene",
+		"defname": "ShowerAdvStuff"
+	},
+	{
+		"abr": "radiator",
+		"price": 85,
+		"category": "Hygiene",
+		"defname": "RadiatorStuffed"
+	},
+	{
+		"abr": "shower",
+		"price": 90,
+		"category": "Hygiene",
+		"defname": "ShowerStuff"
+	},
+	{
+		"abr": "simpleshower",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "ShowerSimple"
+	},
+	{
+		"abr": "smarttoilet",
+		"price": 182,
+		"category": "Hygiene",
+		"defname": "ToiletAdvStuff"
+	},
+	{
+		"abr": "thermostat",
+		"price": 86,
+		"category": "Hygiene",
+		"defname": "Thermostat"
+	},
+	{
+		"abr": "toilet",
+		"price": 72,
+		"category": "Hygiene",
+		"defname": "ToiletStuff"
+	},
+	{
+		"abr": "walk-infreezerunit",
+		"price": 153,
+		"category": "Hygiene",
+		"defname": "FreezerUnit"
+	},
+	{
+		"abr": "washingmachine",
+		"price": 433,
+		"category": "Hygiene",
+		"defname": "WashingMachine"
+	},
+	{
+		"abr": "waterbutt",
+		"price": 89,
+		"category": "Furniture",
+		"defname": "WaterButt"
+	},
+	{
+		"abr": "watertub",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "WashBucket"
 	}
 	],
-	"total": 518
+	"total": 551
 }
