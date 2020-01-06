@@ -186,7 +186,7 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "shipchunkdrop",
+		"abr": " ",
 		"price": 300,
 		"karmatype": "Good"
 	},
@@ -232,27 +232,22 @@
 	},
 	{
 		"abr": "raid",
-		"price": 2000,
+		"price": 6500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "siegeraid",
-		"price": 2500,
+		"price": 4000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 4000,
 		"karmatype": "Bad"
 	},
 	{
@@ -341,5 +336,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 68
+	"total": 67
 }
