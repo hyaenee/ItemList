@@ -1875,7 +1875,7 @@
 	{
 		"abr": "rim-a-cola",
 		"price": 7,
-		"category": "Foods",
+		"category": "Drugs",
 		"defname": "Rimacola"
 	},
 	{
@@ -2585,7 +2585,13 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_YorkshireTerrier"
+	},
+	{
+		"abr": "napalmbomb",
+		"price": 383,
+		"category": "Oil",
+		"defname": "NapalmBomb"
 	}
 	],
-	"total": 431
+	"total": 432
 }
