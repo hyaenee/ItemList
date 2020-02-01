@@ -2,7 +2,7 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 8000,
+		"price": 7500,
 		"karmatype": "Bad"
 	},
 	{
@@ -77,7 +77,7 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 8500,
+		"price": 10000,
 		"karmatype": "Doom"
 	},
 	{
@@ -132,12 +132,12 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 350,
+		"price": 150,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "maninblack",
-		"price": 3000,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -181,7 +181,7 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": " ",
+		"abr": "shipchunkdrop",
 		"price": 300,
 		"karmatype": "Good"
 	},
@@ -227,22 +227,27 @@
 	},
 	{
 		"abr": "raid",
-		"price": 6500,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
-		"price": 3000,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 4000,
+		"price": 3500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "siegeraid",
+		"price": 4500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 4000,
+		"price": 4500,
 		"karmatype": "Bad"
 	},
 	{
@@ -287,12 +292,12 @@
 	},
 	{
 		"abr": "trait",
-		"price": 1000,
+		"price": 3500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 1000,
+		"price": 5500,
 		"karmatype": "Good"
 	},
 	{
@@ -331,5 +336,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 66
+	"total": 67
 }
