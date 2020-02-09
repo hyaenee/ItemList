@@ -17,8 +17,8 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
+		"price": 950,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "foggyrain",
@@ -52,7 +52,7 @@
 	},
 	{
 		"abr": "heatwave",
-		"price": 750,
+		"price": 1050,
 		"karmatype": "Bad"
 	},
 	{
@@ -67,7 +67,7 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
@@ -97,12 +97,12 @@
 	},
 	{
 		"abr": "blight",
-		"price": 700,
-		"karmatype": "Bad"
+		"price": 950,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "refugeechased",
-		"price": 650,
+		"price": 850,
 		"karmatype": "Neutral"
 	},
 	{
@@ -137,18 +137,18 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 350,
-		"karmatype": "Good"
+		"price": 2500,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "madanimal",
-		"price": 200,
+		"price": 600,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicdrone",
-		"price": 400,
-		"karmatype": "Bad"
+		"price": 750,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "psychicsoothe",
@@ -227,28 +227,28 @@
 	},
 	{
 		"abr": "raid",
-		"price": 3500,
-		"karmatype": "Bad"
+		"price": 4500,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "dropraid",
-		"price": 3500,
-		"karmatype": "Bad"
+		"price": 4500,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 3500,
-		"karmatype": "Bad"
+		"price": 4500,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 4500,
-		"karmatype": "Bad"
+		"price": 5500,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 4500,
-		"karmatype": "Bad"
+		"price": 5000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "infestation",
@@ -267,8 +267,8 @@
 	},
 	{
 		"abr": "randomdisease",
-		"price": 1000,
-		"karmatype": "Bad"
+		"price": 2000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "disease",
@@ -297,7 +297,7 @@
 	},
 	{
 		"abr": "removetrait",
-		"price": 5500,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -307,7 +307,7 @@
 	},
 	{
 		"abr": "prisoner",
-		"price": 800,
+		"price": 900,
 		"karmatype": "Good"
 	},
 	{

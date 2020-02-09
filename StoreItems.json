@@ -2,7 +2,7 @@
 	"items" : [
 	{
 		"abr": "aberrantfleshbeast",
-		"price": 17,
+		"price": 117,
 		"category": "Animal",
 		"defname": "GR_AberrantFleshbeast"
 	},
@@ -146,7 +146,7 @@
 	},
 	{
 		"abr": "ambrosia",
-		"price": 25,
+		"price": 75,
 		"category": "Drugs",
 		"defname": "Ambrosia"
 	},
@@ -1166,7 +1166,7 @@
 	},
 	{
 		"abr": "chicken",
-		"price": 83,
+		"price": 133,
 		"category": "Animal",
 		"defname": "Chicken"
 	},
@@ -1394,7 +1394,7 @@
 	},
 	{
 		"abr": "chickenrabbit",
-		"price": 75,
+		"price": 125,
 		"category": "Animal",
 		"defname": "GR_Chickenrabbit"
 	},
@@ -1946,7 +1946,7 @@
 	},
 	{
 		"abr": "flake",
-		"price": 23,
+		"price": 73,
 		"category": "Drugs",
 		"defname": "Flake"
 	},
@@ -2126,7 +2126,7 @@
 	},
 	{
 		"abr": "hare",
-		"price": 83,
+		"price": 133,
 		"category": "Animal",
 		"defname": "Hare"
 	},
@@ -2408,7 +2408,7 @@
 	},
 	{
 		"abr": "humanmeat",
-		"price": 1,
+		"price": 10,
 		"category": "Meat",
 		"defname": "Meat_Human"
 	},
@@ -3956,7 +3956,7 @@
 	},
 	{
 		"abr": "psychitetea",
-		"price": 17,
+		"price": 67,
 		"category": "Drugs",
 		"defname": "PsychiteTea"
 	},
@@ -3998,7 +3998,7 @@
 	},
 	{
 		"abr": "rabbitchicken",
-		"price": 25,
+		"price": 125,
 		"category": "Animal",
 		"defname": "GR_Rabbitchicken"
 	},
@@ -4016,7 +4016,7 @@
 	},
 	{
 		"abr": "rat",
-		"price": 58,
+		"price": 125,
 		"category": "Animal",
 		"defname": "Rat"
 	},
@@ -4196,7 +4196,7 @@
 	},
 	{
 		"abr": "royaljelly",
-		"price": 25,
+		"price": 75,
 		"category": "Drugs",
 		"defname": "GR_RoyalJelly"
 	},
@@ -4364,7 +4364,7 @@
 	},
 	{
 		"abr": "snowhare",
-		"price": 83,
+		"price": 133,
 		"category": "Animal",
 		"defname": "Snowhare"
 	},
@@ -4454,7 +4454,7 @@
 	},
 	{
 		"abr": "squirrel",
-		"price": 58,
+		"price": 108,
 		"category": "Animal",
 		"defname": "Squirrel"
 	},
@@ -5360,7 +5360,7 @@
 	},
 	{
 		"abr": "yayo",
-		"price": 35,
+		"price": 85,
 		"category": "Drugs",
 		"defname": "Yayo"
 	},
