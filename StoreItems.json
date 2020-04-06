@@ -80,19 +80,19 @@
 	},
 	{
 		"abr": "archotecharm",
-		"price": -10,
+		"price": 8000,
 		"category": "Archotech",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotecheye",
-		"price": -10,
+		"price": 8000,
 		"category": "Archotech",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotechleg",
-		"price": -10,
+		"price": 8000,
 		"category": "Archotech",
 		"defname": "ArchotechLeg"
 	},
@@ -128,7 +128,7 @@
 	},
 	{
 		"abr": "assaultrifle",
-		"price": 7500,
+		"price": 5000,
 		"category": "Ranged weapons",
 		"defname": "Gun_AssaultRifle"
 	},
@@ -182,7 +182,7 @@
 	},
 	{
 		"abr": "beer",
-		"price": -10,
+		"price": 50,
 		"category": "Drugs",
 		"defname": "Beer"
 	},
@@ -200,43 +200,43 @@
 	},
 	{
 		"abr": "bionicarm",
-		"price": -10,
+		"price": 4000,
 		"category": "Bionic",
 		"defname": "BionicArm"
 	},
 	{
 		"abr": "bionicear",
-		"price": -10,
+		"price": 4000,
 		"category": "Bionic",
 		"defname": "BionicEar"
 	},
 	{
 		"abr": "bioniceye",
-		"price": -10,
+		"price": 4000,
 		"category": "Bionic",
 		"defname": "BionicEye"
 	},
 	{
 		"abr": "bionicheart",
-		"price": -10,
+		"price": 4000,
 		"category": "Bionic",
 		"defname": "BionicHeart"
 	},
 	{
 		"abr": "bionicleg",
-		"price": -10,
+		"price": 4000,
 		"category": "Bionic",
 		"defname": "BionicLeg"
 	},
 	{
 		"abr": "bionicspine",
-		"price": -10,
+		"price": 4000,
 		"category": "Bionic",
 		"defname": "BionicSpine"
 	},
 	{
 		"abr": "bionicstomach",
-		"price": -10,
+		"price": 4000,
 		"category": "Bionic",
 		"defname": "BionicStomach"
 	},
@@ -392,7 +392,7 @@
 	},
 	{
 		"abr": "cataphractarmor",
-		"price": -10,
+		"price": 15000,
 		"category": "Armor",
 		"defname": "Apparel_ArmorCataphract"
 	},
@@ -1148,7 +1148,7 @@
 	},
 	{
 		"abr": "herbalmedicine",
-		"price": -10,
+		"price": 60,
 		"category": "Medicine",
 		"defname": "MedicineHerbal"
 	},
@@ -1472,7 +1472,7 @@
 	},
 	{
 		"abr": "longsword",
-		"price": 5000,
+		"price": 4000,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_LongSword"
 	},
@@ -1532,13 +1532,13 @@
 	},
 	{
 		"abr": "marinearmor",
-		"price": 10000,
+		"price": 7500,
 		"category": "Armor",
 		"defname": "Apparel_PowerArmor"
 	},
 	{
 		"abr": "marinehelmet",
-		"price": 10000,
+		"price": 7500,
 		"category": "Headgear",
 		"defname": "Apparel_PowerArmorHelmet"
 	},
@@ -2402,7 +2402,7 @@
 	},
 	{
 		"abr": "smokeleafjoint",
-		"price": -10,
+		"price": 50,
 		"category": "Drugs",
 		"defname": "SmokeleafJoint"
 	},
@@ -2642,7 +2642,7 @@
 	},
 	{
 		"abr": "thrumbohorn",
-		"price": -10,
+		"price": 7500,
 		"category": "Items",
 		"defname": "ThrumboHorn"
 	},
@@ -2762,7 +2762,7 @@
 	},
 	{
 		"abr": "unstablepowercell",
-		"price": -10,
+		"price": 5000,
 		"category": "Special",
 		"defname": "UnstablePowerCell"
 	},
