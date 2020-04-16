@@ -1112,7 +1112,7 @@
 	},
 	{
 		"abr": "healermechserum",
-		"price": -10,
+		"price": 4500,
 		"category": "Items",
 		"defname": "MechSerumHealer"
 	},
@@ -1760,7 +1760,7 @@
 	},
 	{
 		"abr": "orbitalbombardmenttargeter",
-		"price": -10,
+		"price": 2000,
 		"category": "Ranged weapons",
 		"defname": "OrbitalTargeterBombardment"
 	},
@@ -1772,7 +1772,7 @@
 	},
 	{
 		"abr": "orbitalpowerbeamtargeter",
-		"price": -10,
+		"price": 2000,
 		"category": "Ranged weapons",
 		"defname": "OrbitalTargeterPowerBeam"
 	},
@@ -2966,7 +2966,7 @@
 	},
 	{
 		"abr": "zeushammer",
-		"price": -10,
+		"price": 4000,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zeushammer"
 	}
