@@ -1,11 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "reviveanypawn",
-		"price": 1200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "pawn",
 		"price": 1500,
 		"karmatype": "Good"
@@ -31,5 +26,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 6
+	"total": 5
 }
