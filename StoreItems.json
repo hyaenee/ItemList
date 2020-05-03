@@ -1328,7 +1328,7 @@
 	},
 	{
 		"abr": "infinitechemreactor",
-		"price": -10,
+		"price": 2500,
 		"category": "Special",
 		"defname": "InfiniteChemreactor"
 	},
@@ -2546,49 +2546,49 @@
 	},
 	{
 		"abr": "techprint(artificialmetabolism)",
-		"price": -10,
+		"price": 3333,
 		"category": "Techprints",
 		"defname": "Techprint_ArtificialMetabolism"
 	},
 	{
 		"abr": "techprint(brainwiring)",
-		"price": -10,
+		"price": 1667,
 		"category": "Techprints",
 		"defname": "Techprint_BrainWiring"
 	},
 	{
 		"abr": "techprint(cataphractarmor)",
-		"price": -10,
+		"price": 5000,
 		"category": "Techprints",
 		"defname": "Techprint_CataphractArmor"
 	},
 	{
 		"abr": "techprint(circadianinfluence)",
-		"price": -10,
+		"price": 3333,
 		"category": "Techprints",
 		"defname": "Techprint_CircadianInfluence"
 	},
 	{
 		"abr": "techprint(compactweaponry)",
-		"price": -10,
+		"price": 1667,
 		"category": "Techprints",
 		"defname": "Techprint_CompactWeaponry"
 	},
 	{
 		"abr": "techprint(fleshshaping)",
-		"price": -10,
+		"price": 3333,
 		"category": "Techprints",
 		"defname": "Techprint_FleshShaping"
 	},
 	{
 		"abr": "techprint(healingfactors)",
-		"price": -10,
+		"price": 3333,
 		"category": "Techprints",
 		"defname": "Techprint_HealingFactors"
 	},
 	{
 		"abr": "techprint(molecularanalysis)",
-		"price": -10,
+		"price": 3333,
 		"category": "Techprints",
 		"defname": "Techprint_MolecularAnalysis"
 	},
@@ -2600,25 +2600,25 @@
 	},
 	{
 		"abr": "techprint(poisonsynthesis)",
-		"price": -10,
+		"price": 1667,
 		"category": "Techprints",
 		"defname": "Techprint_VenomSynthesis"
 	},
 	{
 		"abr": "techprint(skinhardening)",
-		"price": -10,
+		"price": 3333,
 		"category": "Techprints",
 		"defname": "Techprint_SkinHardening"
 	},
 	{
 		"abr": "techprint(specializedlimbs)",
-		"price": -10,
+		"price": 1667,
 		"category": "Techprints",
 		"defname": "Techprint_SpecializedLimbs"
 	},
 	{
 		"abr": "techprofsubpersonacore",
-		"price": -10,
+		"price": 1667,
 		"category": "Items",
 		"defname": "TechprofSubpersonaCore"
 	},
