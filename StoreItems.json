@@ -812,7 +812,7 @@
 	},
 	{
 		"abr": "empshell",
-		"price": -10,
+		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_EMP"
 	},
@@ -1664,79 +1664,79 @@
 	},
 	{
 		"abr": "neurocalculator",
-		"price": -10,
+		"price": 1717,
 		"category": "Bionic",
 		"defname": "Neurocalculator"
 	},
 	{
 		"abr": "neurotrainer(animals)",
-		"price": -10,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Animals"
 	},
 	{
 		"abr": "neurotrainer(artistic)",
-		"price": -10,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Artistic"
 	},
 	{
 		"abr": "neurotrainer(construction)",
-		"price": -10,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Construction"
 	},
 	{
 		"abr": "neurotrainer(cooking)",
-		"price": -10,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Cooking"
 	},
 	{
 		"abr": "neurotrainer(crafting)",
-		"price": -10,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Crafting"
 	},
 	{
 		"abr": "neurotrainer(intellectual)",
-		"price": -10,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Intellectual"
 	},
 	{
 		"abr": "neurotrainer(medical)",
-		"price": -10,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Medicine"
 	},
 	{
 		"abr": "neurotrainer(melee)",
-		"price": -10,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Melee"
 	},
 	{
 		"abr": "neurotrainer(mining)",
-		"price": -10,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Mining"
 	},
 	{
 		"abr": "neurotrainer(plants)",
-		"price": -10,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Plants"
 	},
 	{
 		"abr": "neurotrainer(shooting)",
-		"price": -10,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Shooting"
 	},
 	{
 		"abr": "neurotrainer(social)",
-		"price": -10,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Social"
 	},
@@ -2594,7 +2594,7 @@
 	},
 	{
 		"abr": "techprint(neuralcomputation)",
-		"price": -10,
+		"price": 3333,
 		"category": "Techprints",
 		"defname": "Techprint_NeuralComputation"
 	},
