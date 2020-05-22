@@ -2,7 +2,7 @@
 	"items" : [
 	{
 		"abr": "advancedcomponent",
-		"price": -10,
+		"price": 333,
 		"category": "Manufactured",
 		"defname": "ComponentSpacer"
 	},
@@ -74,25 +74,25 @@
 	},
 	{
 		"abr": "antigrainwarhead",
-		"price": -10,
+		"price": 1000,
 		"category": "Mortar shells",
 		"defname": "Shell_AntigrainWarhead"
 	},
 	{
 		"abr": "archotecharm",
-		"price": 12500,
+		"price": 11500,
 		"category": "Archotech",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotecheye",
-		"price": 12500,
+		"price": 11500,
 		"category": "Archotech",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotechleg",
-		"price": 12500,
+		"price": 11500,
 		"category": "Archotech",
 		"defname": "ArchotechLeg"
 	},
@@ -146,7 +146,7 @@
 	},
 	{
 		"abr": "battery",
-		"price": -10,
+		"price": 333,
 		"category": "Power",
 		"defname": "Battery"
 	},
@@ -182,7 +182,7 @@
 	},
 	{
 		"abr": "beer",
-		"price": -10,
+		"price": 20,
 		"category": "Drugs",
 		"defname": "Beer"
 	},
@@ -410,13 +410,13 @@
 	},
 	{
 		"abr": "chargelance",
-		"price": -10,
+		"price": 3000,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeLance"
 	},
 	{
 		"abr": "chargerifle",
-		"price": -10,
+		"price": 3000,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeRifle"
 	},
@@ -536,7 +536,7 @@
 	},
 	{
 		"abr": "component",
-		"price": -10,
+		"price": 53,
 		"category": "Manufactured",
 		"defname": "ComponentIndustrial"
 	},
@@ -800,13 +800,13 @@
 	},
 	{
 		"abr": "empgrenades",
-		"price": -10,
+		"price": 525,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeEMP"
 	},
 	{
 		"abr": "emplauncher",
-		"price": -10,
+		"price": 842,
 		"category": "Ranged weapons",
 		"defname": "Gun_EmpLauncher"
 	},
@@ -968,7 +968,7 @@
 	},
 	{
 		"abr": "glitterworldmedicine",
-		"price": -10,
+		"price": 100,
 		"category": "Medicine",
 		"defname": "MedicineUltratech"
 	},
@@ -998,7 +998,7 @@
 	},
 	{
 		"abr": "gold",
-		"price": -10,
+		"price": 17,
 		"category": "Raw resources",
 		"defname": "Gold"
 	},
@@ -1034,7 +1034,7 @@
 	},
 	{
 		"abr": "graniteblocks",
-		"price": -10,
+		"price": 2,
 		"category": "Stone blocks",
 		"defname": "BlocksGranite"
 	},
@@ -1148,13 +1148,13 @@
 	},
 	{
 		"abr": "herbalmedicine",
-		"price": 75,
+		"price": 50,
 		"category": "Medicine",
 		"defname": "MedicineHerbal"
 	},
 	{
 		"abr": "high-explosiveshell",
-		"price": -10,
+		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_HighExplosive"
 	},
@@ -1316,7 +1316,7 @@
 	},
 	{
 		"abr": "infernocannon",
-		"price": 5000,
+		"price": 3000,
 		"category": "Ranged weapons",
 		"defname": "Gun_InfernoCannon"
 	},
@@ -1352,7 +1352,7 @@
 	},
 	{
 		"abr": "jade",
-		"price": -10,
+		"price": 8,
 		"category": "Raw resources",
 		"defname": "Jade"
 	},
@@ -1484,7 +1484,7 @@
 	},
 	{
 		"abr": "luciferium",
-		"price": -10,
+		"price": 117,
 		"category": "Drugs",
 		"defname": "Luciferium"
 	},
@@ -1526,7 +1526,7 @@
 	},
 	{
 		"abr": "marbleblocks",
-		"price": -10,
+		"price": 2,
 		"category": "Stone blocks",
 		"defname": "BlocksMarble"
 	},
@@ -1544,7 +1544,7 @@
 	},
 	{
 		"abr": "medicine",
-		"price": -10,
+		"price": 75,
 		"category": "Medicine",
 		"defname": "MedicineIndustrial"
 	},
@@ -1628,7 +1628,7 @@
 	},
 	{
 		"abr": "monosword",
-		"price": -10,
+		"price": 3333,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_MonoSword"
 	},
@@ -1760,19 +1760,19 @@
 	},
 	{
 		"abr": "orbitalbombardmenttargeter",
-		"price": -10,
+		"price": 2000,
 		"category": "Ranged weapons",
 		"defname": "OrbitalTargeterBombardment"
 	},
 	{
 		"abr": "orbitalmechclustertargeter",
-		"price": -10,
+		"price": 2000,
 		"category": "Ranged weapons",
 		"defname": "OrbitalTargeterMechCluster"
 	},
 	{
 		"abr": "orbitalpowerbeamtargeter",
-		"price": -10,
+		"price": 2000,
 		"category": "Ranged weapons",
 		"defname": "OrbitalTargeterPowerBeam"
 	},
@@ -1796,7 +1796,7 @@
 	},
 	{
 		"abr": "packagedsurvivalmeal",
-		"price": -10,
+		"price": 40,
 		"category": "Meals",
 		"defname": "MealSurvivalPack"
 	},
@@ -1856,7 +1856,7 @@
 	},
 	{
 		"abr": "personacore",
-		"price": -10,
+		"price": 6667,
 		"category": "Items",
 		"defname": "AIPersonaCore"
 	},
@@ -1898,13 +1898,13 @@
 	},
 	{
 		"abr": "plasmasword",
-		"price": -10,
+		"price": 3333,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_PlasmaSword"
 	},
 	{
 		"abr": "plasteel",
-		"price": -10,
+		"price": 15,
 		"category": "Raw resources",
 		"defname": "Plasteel"
 	},
@@ -2222,7 +2222,7 @@
 	},
 	{
 		"abr": "reconhelmet",
-		"price": 7500,
+		"price": 6500,
 		"category": "Headgear",
 		"defname": "Apparel_ArmorHelmetRecon"
 	},
@@ -2354,7 +2354,7 @@
 	},
 	{
 		"abr": "silver",
-		"price": -10,
+		"price": 2,
 		"category": "Raw resources",
 		"defname": "Silver"
 	},
@@ -2402,7 +2402,7 @@
 	},
 	{
 		"abr": "smokeleafjoint",
-		"price": -10,
+		"price": 18,
 		"category": "Drugs",
 		"defname": "SmokeleafJoint"
 	},
@@ -2444,7 +2444,7 @@
 	},
 	{
 		"abr": "spiketrap",
-		"price": -10,
+		"price": 169,
 		"category": "Security",
 		"defname": "TrapSpike"
 	},
@@ -2486,7 +2486,7 @@
 	},
 	{
 		"abr": "steel",
-		"price": -10,
+		"price": 3,
 		"category": "Raw resources",
 		"defname": "Steel"
 	},
@@ -2678,7 +2678,7 @@
 	},
 	{
 		"abr": "tornadogenerator",
-		"price": -10,
+		"price": 1333,
 		"category": "Ranged weapons",
 		"defname": "TornadoGenerator"
 	},
@@ -2762,13 +2762,13 @@
 	},
 	{
 		"abr": "unstablepowercell",
-		"price": -10,
+		"price": 667,
 		"category": "Special",
 		"defname": "UnstablePowerCell"
 	},
 	{
 		"abr": "uranium",
-		"price": -10,
+		"price": 10,
 		"category": "Raw resources",
 		"defname": "Uranium"
 	},
@@ -2924,7 +2924,7 @@
 	},
 	{
 		"abr": "wood",
-		"price": -10,
+		"price": 2,
 		"category": "Raw resources",
 		"defname": "WoodLog"
 	},
