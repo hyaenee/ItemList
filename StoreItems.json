@@ -74,25 +74,25 @@
 	},
 	{
 		"abr": "antigrainwarhead",
-		"price": 1000,
+		"price": -10,
 		"category": "Mortar shells",
 		"defname": "Shell_AntigrainWarhead"
 	},
 	{
 		"abr": "archotecharm",
-		"price": 11500,
+		"price": 10000,
 		"category": "Archotech",
 		"defname": "ArchotechArm"
 	},
 	{
 		"abr": "archotecheye",
-		"price": 11500,
+		"price": 10000,
 		"category": "Archotech",
 		"defname": "ArchotechEye"
 	},
 	{
 		"abr": "archotechleg",
-		"price": 11500,
+		"price": 10000,
 		"category": "Archotech",
 		"defname": "ArchotechLeg"
 	},
@@ -128,7 +128,7 @@
 	},
 	{
 		"abr": "assaultrifle",
-		"price": 3500,
+		"price": 800,
 		"category": "Ranged weapons",
 		"defname": "Gun_AssaultRifle"
 	},
@@ -200,43 +200,43 @@
 	},
 	{
 		"abr": "bionicarm",
-		"price": 7500,
+		"price": 5000,
 		"category": "Bionic",
 		"defname": "BionicArm"
 	},
 	{
 		"abr": "bionicear",
-		"price": 7500,
+		"price": 5000,
 		"category": "Bionic",
 		"defname": "BionicEar"
 	},
 	{
 		"abr": "bioniceye",
-		"price": 7500,
+		"price": 5000,
 		"category": "Bionic",
 		"defname": "BionicEye"
 	},
 	{
 		"abr": "bionicheart",
-		"price": 7500,
+		"price": 5000,
 		"category": "Bionic",
 		"defname": "BionicHeart"
 	},
 	{
 		"abr": "bionicleg",
-		"price": 7500,
+		"price": 5000,
 		"category": "Bionic",
 		"defname": "BionicLeg"
 	},
 	{
 		"abr": "bionicspine",
-		"price": 7500,
+		"price": 5000,
 		"category": "Bionic",
 		"defname": "BionicSpine"
 	},
 	{
 		"abr": "bionicstomach",
-		"price": 7500,
+		"price": 5000,
 		"category": "Bionic",
 		"defname": "BionicStomach"
 	},
@@ -392,13 +392,13 @@
 	},
 	{
 		"abr": "cataphractarmor",
-		"price": 12000,
+		"price": 10000,
 		"category": "Armor",
 		"defname": "Apparel_ArmorCataphract"
 	},
 	{
 		"abr": "cataphracthelmet",
-		"price": 12000,
+		"price": 10000,
 		"category": "Headgear",
 		"defname": "Apparel_ArmorHelmetCataphract"
 	},
@@ -410,19 +410,19 @@
 	},
 	{
 		"abr": "chargelance",
-		"price": 3000,
+		"price": 4000,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeLance"
 	},
 	{
 		"abr": "chargerifle",
-		"price": 3000,
+		"price": 4000,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeRifle"
 	},
 	{
 		"abr": "chemfuel",
-		"price": -10,
+		"price": 4,
 		"category": "Manufactured",
 		"defname": "Chemfuel"
 	},
@@ -476,7 +476,7 @@
 	},
 	{
 		"abr": "chocolate",
-		"price": -10,
+		"price": 5,
 		"category": "Foods",
 		"defname": "Chocolate"
 	},
@@ -596,7 +596,7 @@
 	},
 	{
 		"abr": "deepdrill",
-		"price": -10,
+		"price": 483,
 		"category": "Production",
 		"defname": "DeepDrill"
 	},
@@ -614,7 +614,7 @@
 	},
 	{
 		"abr": "devilstrand",
-		"price": -10,
+		"price": 9,
 		"category": "Textiles",
 		"defname": "DevilstrandCloth"
 	},
@@ -632,7 +632,7 @@
 	},
 	{
 		"abr": "donkey",
-		"price": -10,
+		"price": 1000,
 		"category": "Animal",
 		"defname": "Donkey"
 	},
@@ -854,7 +854,7 @@
 	},
 	{
 		"abr": "finemeal",
-		"price": -10,
+		"price": 33,
 		"category": "Meals",
 		"defname": "MealFine"
 	},
@@ -866,31 +866,31 @@
 	},
 	{
 		"abr": "firefoamshell",
-		"price": -10,
+		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_Firefoam"
 	},
 	{
 		"abr": "flakhelmet",
-		"price": -10,
+		"price": 442,
 		"category": "Headgear",
 		"defname": "Apparel_AdvancedHelmet"
 	},
 	{
 		"abr": "flakjacket",
-		"price": -10,
+		"price": 483,
 		"category": "Armor",
 		"defname": "Apparel_FlakJacket"
 	},
 	{
 		"abr": "flakpants",
-		"price": -10,
+		"price": 375,
 		"category": "Armor",
 		"defname": "Apparel_FlakPants"
 	},
 	{
 		"abr": "flakvest",
-		"price": -10,
+		"price": 375,
 		"category": "Armor",
 		"defname": "Apparel_FlakVest"
 	},
@@ -920,7 +920,7 @@
 	},
 	{
 		"abr": "fraggrenades",
-		"price": -10,
+		"price": 442,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeFrag"
 	},
@@ -968,7 +968,7 @@
 	},
 	{
 		"abr": "glitterworldmedicine",
-		"price": 100,
+		"price": -10,
 		"category": "Medicine",
 		"defname": "MedicineUltratech"
 	},
@@ -1094,7 +1094,7 @@
 	},
 	{
 		"abr": "harp",
-		"price": -10,
+		"price": 408,
 		"category": "Recreation",
 		"defname": "Harp"
 	},
@@ -1112,7 +1112,7 @@
 	},
 	{
 		"abr": "healermechserum",
-		"price": 5000,
+		"price": 3000,
 		"category": "Items",
 		"defname": "MechSerumHealer"
 	},
@@ -1124,7 +1124,7 @@
 	},
 	{
 		"abr": "heart",
-		"price": -10,
+		"price": 833,
 		"category": "Natural",
 		"defname": "Heart"
 	},
@@ -1148,7 +1148,7 @@
 	},
 	{
 		"abr": "herbalmedicine",
-		"price": 50,
+		"price": 17,
 		"category": "Medicine",
 		"defname": "MedicineHerbal"
 	},
@@ -1226,7 +1226,7 @@
 	},
 	{
 		"abr": "hyperweave",
-		"price": -10,
+		"price": 15,
 		"category": "Textiles",
 		"defname": "Hyperweave"
 	},
@@ -1310,13 +1310,13 @@
 	},
 	{
 		"abr": "incendiaryshell",
-		"price": -10,
+		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_Incendiary"
 	},
 	{
 		"abr": "infernocannon",
-		"price": 3000,
+		"price": 2333,
 		"category": "Ranged weapons",
 		"defname": "Gun_InfernoCannon"
 	},
@@ -1328,7 +1328,7 @@
 	},
 	{
 		"abr": "infinitechemreactor",
-		"price": 2500,
+		"price": -10,
 		"category": "Special",
 		"defname": "InfiniteChemreactor"
 	},
@@ -1364,7 +1364,7 @@
 	},
 	{
 		"abr": "kibble",
-		"price": -10,
+		"price": 2,
 		"category": "Foods",
 		"defname": "Kibble"
 	},
@@ -1412,7 +1412,7 @@
 	},
 	{
 		"abr": "lavishmeal",
-		"price": 100,
+		"price": 67,
 		"category": "Meals",
 		"defname": "MealLavish"
 	},
@@ -1437,24 +1437,24 @@
 	{
 		"abr": "linkmonosword",
 		"price": -10,
-		"category": "Bladelink weapons",
+		"category": "Persona weapons",
 		"defname": "MeleeWeapon_MonoSwordBladelink"
 	},
 	{
 		"abr": "linkplasmasword",
 		"price": -10,
-		"category": "Bladelink weapons",
+		"category": "Persona weapons",
 		"defname": "MeleeWeapon_PlasmaSwordBladelink"
 	},
 	{
 		"abr": "linkzeushammer",
-		"price": 5000,
-		"category": "Bladelink weapons",
+		"price": -10,
+		"category": "Persona weapons",
 		"defname": "MeleeWeapon_ZeusHammerBladelink"
 	},
 	{
 		"abr": "liver",
-		"price": 1000,
+		"price": 833,
 		"category": "Natural",
 		"defname": "Liver"
 	},
@@ -1490,7 +1490,7 @@
 	},
 	{
 		"abr": "lung",
-		"price": 1000,
+		"price": 667,
 		"category": "Natural",
 		"defname": "Lung"
 	},
@@ -1526,25 +1526,25 @@
 	},
 	{
 		"abr": "marbleblocks",
-		"price": 2,
+		"price": -10,
 		"category": "Stone blocks",
 		"defname": "BlocksMarble"
 	},
 	{
 		"abr": "marinearmor",
-		"price": 10000,
+		"price": 4000,
 		"category": "Armor",
 		"defname": "Apparel_PowerArmor"
 	},
 	{
 		"abr": "marinehelmet",
-		"price": 10000,
+		"price": 3000,
 		"category": "Headgear",
 		"defname": "Apparel_PowerArmorHelmet"
 	},
 	{
 		"abr": "medicine",
-		"price": 75,
+		"price": 30,
 		"category": "Medicine",
 		"defname": "MedicineIndustrial"
 	},
@@ -1604,7 +1604,7 @@
 	},
 	{
 		"abr": "mini-turret",
-		"price": 3000,
+		"price": 492,
 		"category": "Security",
 		"defname": "Turret_MiniTurret"
 	},
@@ -1664,7 +1664,7 @@
 	},
 	{
 		"abr": "neurocalculator",
-		"price": 1717,
+		"price": -10,
 		"category": "Bionic",
 		"defname": "Neurocalculator"
 	},
@@ -1742,7 +1742,7 @@
 	},
 	{
 		"abr": "neutroamine",
-		"price": -10,
+		"price": 10,
 		"category": "Manufactured",
 		"defname": "Neutroamine"
 	},
@@ -1766,13 +1766,13 @@
 	},
 	{
 		"abr": "orbitalmechclustertargeter",
-		"price": 2000,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "OrbitalTargeterMechCluster"
 	},
 	{
 		"abr": "orbitalpowerbeamtargeter",
-		"price": 2000,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "OrbitalTargeterPowerBeam"
 	},
@@ -1910,7 +1910,7 @@
 	},
 	{
 		"abr": "platearmor",
-		"price": 12500,
+		"price": -10,
 		"category": "Armor",
 		"defname": "Apparel_PlateArmor"
 	},
@@ -2017,12 +2017,6 @@
 		"defname": "PsychicShockLance"
 	},
 	{
-		"abr": "psychicsilencer",
-		"price": -10,
-		"category": "Archotech",
-		"defname": "PsychicSilencer"
-	},
-	{
 		"abr": "psychicsoothepulser",
 		"price": -10,
 		"category": "Artifacts",
@@ -2105,12 +2099,6 @@
 		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_ChaosSkip"
-	},
-	{
-		"abr": "psytrainer(entropylink)",
-		"price": -10,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_EntropyLink"
 	},
 	{
 		"abr": "psytrainer(focus)",
@@ -2216,13 +2204,13 @@
 	},
 	{
 		"abr": "reconarmor",
-		"price": 7500,
+		"price": 2567,
 		"category": "Armor",
 		"defname": "Apparel_ArmorRecon"
 	},
 	{
 		"abr": "reconhelmet",
-		"price": 6500,
+		"price": 875,
 		"category": "Headgear",
 		"defname": "Apparel_ArmorHelmetRecon"
 	},
@@ -2246,7 +2234,7 @@
 	},
 	{
 		"abr": "resurrectormechserum",
-		"price": 5000,
+		"price": 3500,
 		"category": "Items",
 		"defname": "MechSerumResurrector"
 	},
@@ -2354,7 +2342,7 @@
 	},
 	{
 		"abr": "silver",
-		"price": 2,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "Silver"
 	},
@@ -2366,7 +2354,7 @@
 	},
 	{
 		"abr": "simplemeal",
-		"price": -10,
+		"price": 25,
 		"category": "Meals",
 		"defname": "MealSimple"
 	},
@@ -2636,7 +2624,7 @@
 	},
 	{
 		"abr": "thrumbo",
-		"price": -10,
+		"price": 6667,
 		"category": "Animal",
 		"defname": "Thrumbo"
 	},
@@ -2678,7 +2666,7 @@
 	},
 	{
 		"abr": "tornadogenerator",
-		"price": 1333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "TornadoGenerator"
 	},
@@ -2762,7 +2750,7 @@
 	},
 	{
 		"abr": "unstablepowercell",
-		"price": 667,
+		"price": -10,
 		"category": "Special",
 		"defname": "UnstablePowerCell"
 	},
@@ -2900,7 +2888,7 @@
 	},
 	{
 		"abr": "warhammer",
-		"price": 2500,
+		"price": 608,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Warhammer"
 	},
@@ -2969,7 +2957,73 @@
 		"price": 3333,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zeushammer"
-	}
+	},
+	{
+		"abr": "animus-stein",
+		"price": 8333,
+		"category": "Misc",
+		"defname": "AnimusStone"
+	},
+	{
+		"abr": "improvisierterauchfalle",
+		"price": 192,
+		"category": "Security",
+		"defname": "TrapIED_Smoke"
+	},
+	{
+		"abr": "psytrainer(anti-projektil-schild)",
+		"price": 1667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_BulletShield"
+	},
+	{
+		"abr": "psytrainer(blitzsturm)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Flashstorm"
+	},
+	{
+		"abr": "psytrainer(neuralhitzetransfer)",
+		"price": 667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_EntropyDump"
+	},
+	{
+		"abr": "psytrainer(wassersprung)",
+		"price": 667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Waterskip"
+	},
+	{
+		"abr": "rauchgranate",
+		"price": 92,
+		"category": "Mortar shells",
+		"defname": "Shell_Smoke"
+	},
+	{
+		"abr": "vornehmekataphraktrüstung",
+		"price": 6550,
+		"category": "Armor",
+		"defname": "Apparel_ArmorCataphractPrestige"
+	},
+	{
+		"abr": "vornehmemarine-rüstung",
+		"price": 4217,
+		"category": "Armor",
+		"defname": "Apparel_ArmorMarinePrestige"
+	},
+	{
+		"abr": "vornehmerecon-rüstung",
+		"price": 3292,
+		"category": "Armor",
+		"defname": "Apparel_ArmorReconPrestige"
+	},
+	{
+		"abr": "vornehmerkataphrakthelm",
+		"price": 1925,
+		"category": "Headgear",
+		"defname": "Apparel_ArmorHelmetCataphractPrestige"
+	},
 	],
-	"total": 495
+	"total": 506
 }
