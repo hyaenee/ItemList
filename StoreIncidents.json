@@ -1,14 +1,64 @@
 {
 	"incitems" : [
 	{
+		"abr": "clearweather",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "vomitrain",
+		"price": 650,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "foggyrain",
+		"price": 300,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rainythunderstorm",
+		"price": 250,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "fog",
+		"price": 300,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "heatwave",
+		"price": 750,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "coldsnap",
+		"price": 800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "farmanimals",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "visitorgroup",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "party",
 		"price": 400,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "pawn",
-		"price": 1500,
+		"abr": "militaryaid",
+		"price": 700,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "dropraid",
+		"price": 6500,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "levelskill",
@@ -22,14 +72,19 @@
 	},
 	{
 		"abr": "removetrait",
-		"price": 5500,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 6
+	"total": 17
 }

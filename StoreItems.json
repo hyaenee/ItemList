@@ -134,7 +134,7 @@
 	},
 	{
 		"abr": "autopistole",
-		"price": -10,
+		"price": 232,
 		"category": "Fernkampfwaffen",
 		"defname": "Gun_Autopistol"
 	},
@@ -170,7 +170,7 @@
 	},
 	{
 		"abr": "bauteil",
-		"price": -10,
+		"price": 53,
 		"category": "Hergestellt",
 		"defname": "ComponentIndustrial"
 	},
@@ -200,7 +200,7 @@
 	},
 	{
 		"abr": "bett",
-		"price": -10,
+		"price": 155,
 		"category": "Möbel",
 		"defname": "Bed"
 	},
@@ -434,7 +434,7 @@
 	},
 	{
 		"abr": "doppelbett",
-		"price": -10,
+		"price": 292,
 		"category": "Möbel",
 		"defname": "DoubleBed"
 	},
@@ -1118,7 +1118,7 @@
 	},
 	{
 		"abr": "intensivbett",
-		"price": -10,
+		"price": 667,
 		"category": "Möbel",
 		"defname": "HospitalBed"
 	},
@@ -1244,7 +1244,7 @@
 	},
 	{
 		"abr": "königlichesbett",
-		"price": -10,
+		"price": 1467,
 		"category": "Möbel",
 		"defname": "RoyalBed"
 	},
@@ -1322,7 +1322,7 @@
 	},
 	{
 		"abr": "kurzbogen",
-		"price": -10,
+		"price": 74,
 		"category": "Fernkampfwaffen",
 		"defname": "Bow_Short"
 	},
@@ -1346,7 +1346,7 @@
 	},
 	{
 		"abr": "langbogen",
-		"price": -10,
+		"price": 174,
 		"category": "Fernkampfwaffen",
 		"defname": "Bow_Great"
 	},
@@ -1466,7 +1466,7 @@
 	},
 	{
 		"abr": "maschinenpistole",
-		"price": -10,
+		"price": 367,
 		"category": "Fernkampfwaffen",
 		"defname": "Gun_MachinePistol"
 	},
@@ -2132,7 +2132,7 @@
 	},
 	{
 		"abr": "recurvebogen",
-		"price": -10,
+		"price": 110,
 		"category": "Fernkampfwaffen",
 		"defname": "Bow_Recurve"
 	},
@@ -2522,13 +2522,13 @@
 	},
 	{
 		"abr": "stuhl",
-		"price": -10,
+		"price": 198,
 		"category": "Möbel",
 		"defname": "DiningChair"
 	},
 	{
 		"abr": "sturmgewehr",
-		"price": -10,
+		"price": 800,
 		"category": "Fernkampfwaffen",
 		"defname": "Gun_AssaultRifle"
 	},
@@ -2666,7 +2666,7 @@
 	},
 	{
 		"abr": "tierbett",
-		"price": -10,
+		"price": 136,
 		"category": "Möbel",
 		"defname": "AnimalBed"
 	},
