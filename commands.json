@@ -1,0 +1,338 @@
+[
+  {
+    "description": "Updates the current list of active viewers.",
+    "name": "Refresh viewers",
+    "shortcut": false,
+    "usage": "!refreshviewers",
+    "userLevel": "Moderator"
+  },
+  {
+    "description": "Awards all active viewers coins.",
+    "name": "Karma round",
+    "shortcut": false,
+    "usage": "!karmaround",
+    "userLevel": "Moderator"
+  },
+  {
+    "description": "Gives everyone coins.",
+    "name": "Give all coins",
+    "shortcut": false,
+    "usage": "!giveallcoins <coins>",
+    "userLevel": "Moderator"
+  },
+  {
+    "description": "Gives a viewer coins.",
+    "name": "Give coins",
+    "shortcut": false,
+    "usage": "!givecoins <viewer> <coins>",
+    "userLevel": "Moderator"
+  },
+  {
+    "description": "Shows the balance of a given user.",
+    "name": "Check user",
+    "shortcut": false,
+    "usage": "!checkuser <viewer>",
+    "userLevel": "Moderator"
+  },
+  {
+    "description": "Sets the current karma for a given user.",
+    "name": "Set karma",
+    "shortcut": false,
+    "usage": "!setkarma <viewer> <karma>",
+    "userLevel": "Moderator"
+  },
+  {
+    "description": "Toggles coin generation.",
+    "name": "Toggle coins",
+    "shortcut": false,
+    "usage": "!togglecoins",
+    "userLevel": "Moderator"
+  },
+  {
+    "description": "Shows your current balance, karma, and, optionally, the amount of coins earned per cycle.",
+    "name": "Check balance",
+    "shortcut": false,
+    "usage": "!bal",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Gives an overview of what karma is in relation to Twitch Toolkit.",
+    "name": "Karma explanation",
+    "shortcut": false,
+    "usage": "!whatiskarma",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Directs you here!",
+    "name": "Purchase list",
+    "shortcut": false,
+    "usage": "!liste",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Adds you to the name queue.",
+    "name": "Join queue",
+    "shortcut": false,
+    "usage": "!joinqueue",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Shows you information about Twitch Toolkit.",
+    "name": "Mod info",
+    "shortcut": false,
+    "usage": "!modinfo",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Lets you buy things from the store.",
+    "name": "Buy",
+    "shortcut": false,
+    "usage": "!buy",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Lets you wager coins to level up a skill of your choosing.",
+    "name": "Level skill",
+    "shortcut": true,
+    "usage": "!levelskill <skill> <coins>",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Shows you important settings for Twitch Toolkit, like the karma cap.",
+    "name": "Mod settings",
+    "shortcut": false,
+    "usage": "!modsettings",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Gives you a brief set of instructions on how to use Twitch Toolkit.",
+    "name": "Instructions",
+    "shortcut": false,
+    "usage": "!instructions",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Shows you the current list of commands, which may or may not be this list.",
+    "name": "All commands",
+    "shortcut": false,
+    "usage": "!allcommands",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Shows you the complete list of installed mods.",
+    "name": "Installed mods",
+    "shortcut": false,
+    "usage": "!installedmods",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "A colony wide resurrector mech serum.",
+    "name": "Revive all",
+    "shortcut": true,
+    "usage": "!reviveall",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "A personal resurrector mech serum.",
+    "name": "Revive me",
+    "shortcut": true,
+    "usage": "!reviveme",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "A personal healer mech serum/",
+    "name": "Heal me",
+    "shortcut": true,
+    "usage": "!healme",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "A colony wide healer mech serum.",
+    "name": "Healall",
+    "shortcut": true,
+    "usage": "!healall",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Shuffles your passions. If a skill is specified, you'll be guaranteed a minor passion in it.",
+    "name": "Passion shuffle",
+    "shortcut": true,
+    "usage": "!passionshuffle [skill]",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Purchases the part specified and queues it for surgery on your pawn.",
+    "name": "Surgery",
+    "shortcut": true,
+    "usage": "!surgery <part>",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Adds a trait for your pawn.",
+    "name": "Add trait",
+    "shortcut": true,
+    "usage": "!trait",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Removes a trait from our pawn.",
+    "name": "Remove trait",
+    "shortcut": true,
+    "usage": "!removetrait",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "A resurrector mech serum for a random dead colonist.",
+    "name": "Revive any pawn",
+    "shortcut": true,
+    "usage": "!reviveanypawn",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "A healer mech serum for a random colonist.",
+    "name": "Heal any pawn",
+    "shortcut": true,
+    "usage": "!healanypawn",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Replaces a trait with a different trait.",
+    "name": "Replace trait",
+    "shortcut": true,
+    "usage": "!replacetrait <old> <new>",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Shows your current kill count.",
+    "name": "Viewer kill count",
+    "shortcut": false,
+    "usage": "!mypawnkills",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Shows your current stats within a given category.",
+    "name": "Viewer stats",
+    "shortcut": false,
+    "usage": "!mypawnstats [category]",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Shows an overview of your pawn's health. If a capacity is specified, it'll show what's affecting it.",
+    "name": "Viewer health",
+    "shortcut": false,
+    "usage": "!mypawnhealth [capacity]",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Shows an overview of your pawn's needs.",
+    "name": "Viewer needs",
+    "shortcut": false,
+    "usage": "!mypawnneeds",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Shows an overview of your pawn's gear.",
+    "name": "Viewer gear",
+    "shortcut": false,
+    "usage": "!mypawngear",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Shows an overview of your pawn's body.",
+    "name": "Viewer body",
+    "shortcut": false,
+    "usage": "!mypawnbody",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Shows your pawn's work priorities.",
+    "name": "Viewer work",
+    "shortcut": false,
+    "usage": "!mypawnwork",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Shows your pawn's bio.",
+    "name": "Viewer story",
+    "shortcut": false,
+    "usage": "!mypawnstory",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Shows your pawn's current skills and their passions.",
+    "name": "Viewer skills",
+    "shortcut": false,
+    "usage": "!mypawnskills",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Attempts to relink your pawn to you. (Doesn't work for Puppeteer)",
+    "name": "Fix viewer pawn",
+    "shortcut": false,
+    "usage": "!fixmypawn",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Attempts to relink all pawns to their respective viewers. (Doesn't work for Puppeteer)",
+    "name": "Fix all pawns",
+    "shortcut": false,
+    "usage": "!fixallpawns",
+    "userLevel": "Moderator"
+  },
+  {
+    "description": "Makes your pawn leave the colony.",
+    "name": "Abandon pawn",
+    "shortcut": false,
+    "usage": "!leave",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Shows an overview of the colony's current faction relations.",
+    "name": "Factions",
+    "shortcut": false,
+    "usage": "!factions",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Shows the current research progress. If a project is specified, it'll show the progress of that instead.",
+    "name": "Research",
+    "shortcut": false,
+    "usage": "!research [project/item]",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Shows the first few results for the query in the given category. Valid categories are: 'races', 'traits', 'items', 'events', 'diseases', 'animals', 'skills', and 'stats'.",
+    "name": "Lookup",
+    "shortcut": false,
+    "usage": "!lookup <category/item> [query]",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Similar to the lookup command, except it'll show the price for the first valid match.",
+    "name": "Price check",
+    "shortcut": false,
+    "usage": "!price <category/item> [query]",
+    "userLevel": "UserLevel"
+  },
+  {
+    "description": "Removes viewers that were stuck in the \"game paused\" limbo.",
+    "name": "Unstick",
+    "shortcut": false,
+    "usage": "!unstick",
+    "userLevel": "Moderator"
+  },
+  {
+    "description": "Toggles whether or not viewers can actively purchase things from the store.",
+    "name": "Toggle store",
+    "shortcut": false,
+    "usage": "!togglestore",
+    "userLevel": "Moderator"
+  },
+  {
+    "description": "Makes your pawn insult a random viewer. If a viewer is specified, you'll insult them instead.",
+    "name": "Insult",
+    "shortcut": false,
+    "usage": "!insult [target]",
+    "userLevel": "UserLevel"
+  }
+]

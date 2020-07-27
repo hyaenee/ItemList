@@ -16,11 +16,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "rainythunderstorm",
-		"price": 250,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "fog",
 		"price": 300,
 		"karmatype": "Neutral"
@@ -34,6 +29,11 @@
 		"abr": "coldsnap",
 		"price": 800,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "meteor",
+		"price": 150,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "farmanimals",
@@ -61,18 +61,23 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "pawn",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 2500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -84,7 +89,47 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "reviveall",
+		"price": 22664,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "reviveme",
+		"price": 2833,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healall",
+		"price": 17336,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healanypawn",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healme",
+		"price": 2167,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "surgery",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "passionshuffle",
+		"price": 2000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "replacetrait",
+		"price": 1,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 17
+	"total": 26
 }
