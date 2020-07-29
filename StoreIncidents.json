@@ -16,6 +16,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "rainythunderstorm",
+		"price": 250,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "fog",
 		"price": 300,
 		"karmatype": "Neutral"
@@ -131,5 +136,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 26
+	"total": 27
 }

@@ -44,7 +44,7 @@
 	},
 	{
 		"abr": "alpaka",
-		"price": 583,
+		"price": 1250,
 		"category": "Animal",
 		"defname": "Alpaca"
 	},
@@ -74,7 +74,7 @@
 	},
 	{
 		"abr": "animus-stein",
-		"price": -10,
+		"price": 8333,
 		"category": "Diverses",
 		"defname": "AnimusStone"
 	},
@@ -146,7 +146,7 @@
 	},
 	{
 		"abr": "axt",
-		"price": -10,
+		"price": 209,
 		"category": "Nahkampfwaffen",
 		"defname": "MeleeWeapon_Axe"
 	},
@@ -404,7 +404,7 @@
 	},
 	{
 		"abr": "dermalpanzerungsdrüse",
-		"price": -10,
+		"price": 2458,
 		"category": "Bionisch",
 		"defname": "ArmorskinGland"
 	},
@@ -422,7 +422,7 @@
 	},
 	{
 		"abr": "dickhautdrüse",
-		"price": -10,
+		"price": 1717,
 		"category": "Bionisch",
 		"defname": "ToughskinGland"
 	},
@@ -572,31 +572,31 @@
 	},
 	{
 		"abr": "eltex-helm",
-		"price": -10,
+		"price": 833,
 		"category": "Kopfbedeckung",
 		"defname": "Apparel_PsyfocusHelmet"
 	},
 	{
 		"abr": "eltex-hemd",
-		"price": -10,
+		"price": 667,
 		"category": "Kleidung",
 		"defname": "Apparel_PsyfocusShirt"
 	},
 	{
 		"abr": "eltex-robe",
-		"price": -10,
+		"price": 1000,
 		"category": "Kleidung",
 		"defname": "Apparel_PsyfocusRobe"
 	},
 	{
 		"abr": "eltex-stab",
-		"price": -10,
+		"price": 3333,
 		"category": "Nahkampfwaffen",
 		"defname": "MeleeWeapon_PsyfocusStaff"
 	},
 	{
 		"abr": "eltex-weste",
-		"price": -10,
+		"price": 833,
 		"category": "Kleidung",
 		"defname": "Apparel_PsyfocusVest"
 	},
@@ -698,7 +698,7 @@
 	},
 	{
 		"abr": "fernseher(flachbild)",
-		"price": -10,
+		"price": 1533,
 		"category": "Entspannung",
 		"defname": "FlatscreenTelevision"
 	},
@@ -824,7 +824,7 @@
 	},
 	{
 		"abr": "glitzerweltmedizin",
-		"price": -10,
+		"price": 83,
 		"category": "Medizin",
 		"defname": "MedicineUltratech"
 	},
@@ -884,13 +884,13 @@
 	},
 	{
 		"abr": "harfe",
-		"price": -10,
+		"price": 408,
 		"category": "Entspannung",
 		"defname": "Harp"
 	},
 	{
 		"abr": "hase",
-		"price": 83,
+		"price": 1250,
 		"category": "Animal",
 		"defname": "Hare"
 	},
@@ -920,7 +920,7 @@
 	},
 	{
 		"abr": "heizung",
-		"price": -10,
+		"price": 218,
 		"category": "Temperatur",
 		"defname": "Heater"
 	},
@@ -1292,13 +1292,13 @@
 	},
 	{
 		"abr": "krone",
-		"price": -10,
+		"price": 322,
 		"category": "Kopfbedeckung",
 		"defname": "Apparel_Crown"
 	},
 	{
 		"abr": "kühlschrank",
-		"price": -10,
+		"price": 186,
 		"category": "Möbel",
 		"defname": "RimFridge_Refrigerator"
 	},
@@ -1352,7 +1352,7 @@
 	},
 	{
 		"abr": "langschwert",
-		"price": -10,
+		"price": 442,
 		"category": "Nahkampfwaffen",
 		"defname": "MeleeWeapon_LongSword"
 	},
@@ -1544,7 +1544,7 @@
 	},
 	{
 		"abr": "minigun",
-		"price": -10,
+		"price": 3933,
 		"category": "Fernkampfwaffen",
 		"defname": "Gun_Minigun"
 	},
@@ -1784,7 +1784,7 @@
 	},
 	{
 		"abr": "pemmikan",
-		"price": -10,
+		"price": 2,
 		"category": "Nahrung",
 		"defname": "Pemmican"
 	},
@@ -1880,13 +1880,13 @@
 	},
 	{
 		"abr": "power-kralle",
-		"price": -10,
+		"price": 642,
 		"category": "Prothetisch",
 		"defname": "PowerClaw"
 	},
 	{
 		"abr": "präzisionsgewehr",
-		"price": -10,
+		"price": 883,
 		"category": "Fernkampfwaffen",
 		"defname": "Gun_SniperRifle"
 	},
@@ -2162,13 +2162,13 @@
 	},
 	{
 		"abr": "repetiergewehr",
-		"price": -10,
+		"price": 425,
 		"category": "Fernkampfwaffen",
 		"defname": "Gun_BoltActionRifle"
 	},
 	{
 		"abr": "revolver",
-		"price": -10,
+		"price": 226,
 		"category": "Fernkampfwaffen",
 		"defname": "Gun_Revolver"
 	},
@@ -2324,13 +2324,13 @@
 	},
 	{
 		"abr": "schokolade",
-		"price": -10,
+		"price": 5,
 		"category": "Nahrung",
 		"defname": "Chocolate"
 	},
 	{
 		"abr": "schrotflinte",
-		"price": -10,
+		"price": 425,
 		"category": "Fernkampfwaffen",
 		"defname": "Gun_PumpShotgun"
 	},
@@ -2402,7 +2402,7 @@
 	},
 	{
 		"abr": "speer",
-		"price": -10,
+		"price": 322,
 		"category": "Nahkampfwaffen",
 		"defname": "MeleeWeapon_Spear"
 	},
@@ -2414,7 +2414,7 @@
 	},
 	{
 		"abr": "splitterhandgranaten",
-		"price": -10,
+		"price": 442,
 		"category": "Granaten",
 		"defname": "Weapon_GrenadeFrag"
 	},
@@ -2498,7 +2498,7 @@
 	},
 	{
 		"abr": "stoff",
-		"price": -10,
+		"price": 2,
 		"category": "Textilien",
 		"defname": "Cloth"
 	},
@@ -3062,7 +3062,7 @@
 	},
 	{
 		"abr": "wurfsteinring",
-		"price": -10,
+		"price": 67,
 		"category": "Entspannung",
 		"defname": "HoopstoneRing"
 	},
