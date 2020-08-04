@@ -6,6 +6,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "rain",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "vomitrain",
 		"price": 650,
 		"karmatype": "Neutral"
@@ -19,6 +24,16 @@
 		"abr": "rainythunderstorm",
 		"price": 250,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "snowgentle",
+		"price": 350,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "snowhard",
+		"price": 950,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "fog",
@@ -36,6 +51,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "transportpodcrash",
+		"price": 600,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
@@ -46,13 +66,13 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "visitorgroup",
-		"price": 200,
+		"abr": "shipchunkdrop",
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "party",
-		"price": 400,
+		"abr": "visitorgroup",
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
@@ -91,6 +111,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "torytalkervote",
+		"price": 950,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
@@ -107,7 +132,7 @@
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
@@ -122,7 +147,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -136,5 +161,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 27
+	"total": 32
 }
