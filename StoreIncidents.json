@@ -76,6 +76,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "party",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "militaryaid",
 		"price": 700,
 		"karmatype": "Good"
@@ -109,6 +114,11 @@
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randominspire",
+		"price": 450,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "torytalkervote",
@@ -161,5 +171,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 32
+	"total": 34
 }

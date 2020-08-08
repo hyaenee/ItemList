@@ -2684,7 +2684,7 @@
 	},
 	{
 		"abr": "trockenfutter",
-		"price": -10,
+		"price": 2,
 		"category": "Nahrung",
 		"defname": "Kibble"
 	},
