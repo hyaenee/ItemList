@@ -632,7 +632,7 @@
 	},
 	{
 		"abr": "energieschildgürtel",
-		"price": -10,
+		"price": 650,
 		"category": "Rüstung",
 		"defname": "Apparel_ShieldBelt"
 	},
@@ -2174,7 +2174,7 @@
 	},
 	{
 		"abr": "riesenflachbildfernseher",
-		"price": -10,
+		"price": 2475,
 		"category": "Entspannung",
 		"defname": "MegascreenTelevision"
 	},
@@ -2618,7 +2618,7 @@
 	},
 	{
 		"abr": "teleskop",
-		"price": -10,
+		"price": 583,
 		"category": "Entspannung",
 		"defname": "Telescope"
 	},
@@ -2708,7 +2708,7 @@
 	},
 	{
 		"abr": "t-shirt",
-		"price": -10,
+		"price": 143,
 		"category": "Kleidung",
 		"defname": "Apparel_BasicShirt"
 	},
@@ -3143,7 +3143,205 @@
 		"price": -10,
 		"category": "Kopfbedeckung",
 		"defname": "Apparel_HatTop"
+	},
+	{
+		"abr": "badewanne",
+		"price": 124,
+		"category": "Hygiene",
+		"defname": "BathtubStuff"
+	},
+	{
+		"abr": "deckenventilator1x1",
+		"price": 184,
+		"category": "Hygiene",
+		"defname": "CeilingFanS"
+	},
+	{
+		"abr": "deckenventilator2x2",
+		"price": 184,
+		"category": "Hygiene",
+		"defname": "CeilingFan"
+	},
+	{
+		"abr": "dünger",
+		"price": -10,
+		"category": "Fäkalien",
+		"defname": "Biosolids"
+	},
+	{
+		"abr": "dusche",
+		"price": 90,
+		"category": "Hygiene",
+		"defname": "ShowerStuff"
+	},
+	{
+		"abr": "einfachedusche",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "ShowerSimple"
+	},
+	{
+		"abr": "elektrischedusche",
+		"price": 170,
+		"category": "Hygiene",
+		"defname": "ShowerAdvStuff"
+	},
+	{
+		"abr": "elektrischepumpe",
+		"price": 316,
+		"category": "Hygiene",
+		"defname": "ElectricPump"
+	},
+	{
+		"abr": "elektrischetherme",
+		"price": 425,
+		"category": "Hygiene",
+		"defname": "ElectricBoiler"
+	},
+	{
+		"abr": "elektrischesklo",
+		"price": 182,
+		"category": "Hygiene",
+		"defname": "ToiletAdvStuff"
+	},
+	{
+		"abr": "fäkalschlamm-kompostierer",
+		"price": 146,
+		"category": "Hygiene",
+		"defname": "BiosolidsComposter"
+	},
+	{
+		"abr": "feuersprinkler",
+		"price": 104,
+		"category": "Hygiene",
+		"defname": "FireSprinkler"
+	},
+	{
+		"abr": "großemsinnenheit",
+		"price": 153,
+		"category": "Hygiene",
+		"defname": "FreezerUnit"
+	},
+	{
+		"abr": "großerheizkörper",
+		"price": 252,
+		"category": "Hygiene",
+		"defname": "RadiatorLarge"
+	},
+	{
+		"abr": "heizkörper",
+		"price": 85,
+		"category": "Hygiene",
+		"defname": "RadiatorStuffed"
+	},
+	{
+		"abr": "holztherme",
+		"price": 642,
+		"category": "Hygiene",
+		"defname": "LogBoiler"
+	},
+	{
+		"abr": "klo",
+		"price": 72,
+		"category": "Hygiene",
+		"defname": "ToiletStuff"
+	},
+	{
+		"abr": "kraftstofftherme",
+		"price": 425,
+		"category": "Hygiene",
+		"defname": "GasBoiler"
+	},
+	{
+		"abr": "msaußeneinheit",
+		"price": 458,
+		"category": "Hygiene",
+		"defname": "AirConOutdoorUnit"
+	},
+	{
+		"abr": "msinneneinheit",
+		"price": 82,
+		"category": "Hygiene",
+		"defname": "AirconIndoorUnit"
+	},
+	{
+		"abr": "plumpsklo",
+		"price": 55,
+		"category": "Hygiene",
+		"defname": "PitLatrine"
+	},
+	{
+		"abr": "sprinkler",
+		"price": 102,
+		"category": "Hygiene",
+		"defname": "IrrigationSprinkler"
+	},
+	{
+		"abr": "spüle",
+		"price": 167,
+		"category": "Hygiene",
+		"defname": "KitchenSink"
+	},
+	{
+		"abr": "thermostat",
+		"price": 86,
+		"category": "Hygiene",
+		"defname": "Thermostat"
+	},
+	{
+		"abr": "tierklo",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "LitterBox"
+	},
+	{
+		"abr": "trinkfontäne",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "Fountain"
+	},
+	{
+		"abr": "ventil",
+		"price": 50,
+		"category": "Hygiene",
+		"defname": "plumbingValve"
+	},
+	{
+		"abr": "warmwasserspeicher",
+		"price": 245,
+		"category": "Hygiene",
+		"defname": "HotWaterTank"
+	},
+	{
+		"abr": "waschbecken",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "BasinStuff"
+	},
+	{
+		"abr": "waschmaschine",
+		"price": 433,
+		"category": "Hygiene",
+		"defname": "WashingMachine"
+	},
+	{
+		"abr": "wasserfass",
+		"price": 89,
+		"category": "Möbel",
+		"defname": "WaterButt"
+	},
+	{
+		"abr": "wasserschale",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "WashBucket"
+	},
+	{
+		"abr": "whirlpool",
+		"price": 800,
+		"category": "Hygiene",
+		"defname": "HotTub"
 	}
 	],
-	"total": 524
+	"total": 557
 }
