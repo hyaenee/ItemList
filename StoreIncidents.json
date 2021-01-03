@@ -51,6 +51,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "volcanicwinter",
+		"price": 5200,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "transportpodcrash",
 		"price": 600,
 		"karmatype": "Good"
@@ -71,6 +76,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "travelergroup",
+		"price": 381,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "visitorgroup",
 		"price": 200,
 		"karmatype": "Good"
@@ -87,7 +97,7 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 6500,
+		"price": 18000,
 		"karmatype": "Bad"
 	},
 	{
@@ -122,7 +132,7 @@
 	},
 	{
 		"abr": "torytalkervote",
-		"price": 950,
+		"price": 2500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -196,5 +206,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 39
+	"total": 41
 }
