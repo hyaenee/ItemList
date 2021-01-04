@@ -96,11 +96,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "dropraid",
-		"price": 18000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "pawn",
 		"price": 1,
 		"karmatype": "Good"
@@ -206,5 +201,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 41
+	"total": 40
 }

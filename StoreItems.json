@@ -10,7 +10,7 @@
       "abr": "bierwürze",
       "category": "Hergestellt",
       "defname": "Wort",
-      "price": -10
+      "price": 24
     },
     {
       "abr": "ambrosia",
@@ -28,31 +28,31 @@
       "abr": "luziferium",
       "category": "Drogen",
       "defname": "Luciferium",
-      "price": 1117
+      "price": 617
     },
     {
       "abr": "penoxyzylin",
       "category": "Drogen",
       "defname": "Penoxycyline",
-      "price": -10
+      "price": 130
     },
     {
       "abr": "flake",
       "category": "Drogen",
       "defname": "Flake",
-      "price": 923
+      "price": 623
     },
     {
       "abr": "psychit-tee",
       "category": "Drogen",
       "defname": "PsychiteTea",
-      "price": 17
+      "price": 37
     },
     {
       "abr": "yayo",
       "category": "Drogen",
       "defname": "Yayo",
-      "price": 935
+      "price": 735
     },
     {
       "abr": "rauchblatt-joint",
@@ -64,7 +64,7 @@
       "abr": "muntermacher",
       "category": "Drogen",
       "defname": "WakeUp",
-      "price": -10
+      "price": 358
     },
     {
       "abr": "archotech-auge",
@@ -202,7 +202,7 @@
       "abr": "urne",
       "category": "Möbel",
       "defname": "Urn",
-      "price": 70
+      "price": 170
     },
     {
       "abr": "kleineskulptur",
@@ -262,25 +262,25 @@
       "abr": "tierkiste",
       "category": "Möbel",
       "defname": "AnimalSleepingBox",
-      "price": 84
+      "price": 104
     },
     {
       "abr": "tierbett",
       "category": "Möbel",
       "defname": "AnimalBed",
-      "price": 136
+      "price": 146
     },
     {
       "abr": "hocker",
       "category": "Möbel",
       "defname": "Stool",
-      "price": -10
+      "price": 186
     },
     {
       "abr": "stuhl",
       "category": "Möbel",
       "defname": "DiningChair",
-      "price": 1098
+      "price": 598
     },
     {
       "abr": "sessel",
@@ -298,25 +298,25 @@
       "abr": "1x2-tisch",
       "category": "Möbel",
       "defname": "Table1x2c",
-      "price": -10
+      "price": 198
     },
     {
       "abr": "2x2-tisch",
       "category": "Möbel",
       "defname": "Table2x2c",
-      "price": -10
+      "price": 276
     },
     {
       "abr": "2x4-tisch",
       "category": "Möbel",
       "defname": "Table2x4c",
-      "price": -10
+      "price": 433
     },
     {
       "abr": "3x3-tisch",
       "category": "Möbel",
       "defname": "Table3x3c",
-      "price": -10
+      "price": 450
     },
     {
       "abr": "blumentopf",
@@ -328,25 +328,25 @@
       "abr": "stehlampe",
       "category": "Möbel",
       "defname": "StandingLamp",
-      "price": 65
+      "price": 165
     },
     {
       "abr": "stehlampe(rot)",
       "category": "Möbel",
       "defname": "StandingLamp_Red",
-      "price": 65
+      "price": 165
     },
     {
       "abr": "stehlampe(grün)",
       "category": "Möbel",
       "defname": "StandingLamp_Green",
-      "price": 65
+      "price": 165
     },
     {
       "abr": "stehlampe(blau)",
       "category": "Möbel",
       "defname": "StandingLamp_Blue",
-      "price": 65
+      "price": 165
     },
     {
       "abr": "sonnenlampe",
@@ -688,7 +688,7 @@
       "abr": "menschenfleisch",
       "category": "Fleisch",
       "defname": "Meat_Human",
-      "price": 501
+      "price": 301
     },
     {
       "abr": "fuchsfleisch",
@@ -820,7 +820,7 @@
       "abr": "yorkiefleisch",
       "category": "Fleisch",
       "defname": "Meat_YorkshireTerrier",
-      "price": 3
+      "price": 13
     },
     {
       "abr": "insektenfleisch",
@@ -838,7 +838,7 @@
       "abr": "thrumbofleisch",
       "category": "Fleisch",
       "defname": "Meat_Thrumbo",
-      "price": 3
+      "price": 13
     },
     {
       "abr": "faultierfleisch",
@@ -922,7 +922,7 @@
       "abr": "schweinefleisch",
       "category": "Fleisch",
       "defname": "Meat_Pig",
-      "price": 3
+      "price": 13
     },
     {
       "abr": "hühnerfleisch",
@@ -994,7 +994,7 @@
       "abr": "violin",
       "category": "Musical instruments",
       "defname": "Violin",
-      "price": -10
+      "price": 350
     },
     {
       "abr": "guitar",
@@ -1060,85 +1060,85 @@
       "abr": "walllight(orange)",
       "category": "Möbel",
       "defname": "Lighting_MURWallLightOrange",
-      "price": 16
+      "price": 116
     },
     {
       "abr": "walllight(chartreuse)",
       "category": "Möbel",
       "defname": "Lighting_MURWallLightChartreuse",
-      "price": 16
+      "price": 116
     },
     {
       "abr": "walllight(springgreen)",
       "category": "Möbel",
       "defname": "Lighting_MURWallLightSpringGreen",
-      "price": 16
+      "price": 116
     },
     {
       "abr": "walllight(azure)",
       "category": "Möbel",
       "defname": "Lighting_MURWallLightAzure",
-      "price": 16
+      "price": 116
     },
     {
       "abr": "walllight(violet)",
       "category": "Möbel",
       "defname": "Lighting_MURWallLightViolet",
-      "price": 16
+      "price": 116
     },
     {
       "abr": "walllight(rose)",
       "category": "Möbel",
       "defname": "Lighting_MURWallLightRose",
-      "price": 16
+      "price": 116
     },
     {
       "abr": "walllight(cyan)",
       "category": "Möbel",
       "defname": "Lighting_MURWallLightCyan",
-      "price": 16
+      "price": 116
     },
     {
       "abr": "walllight(magenta)",
       "category": "Möbel",
       "defname": "Lighting_MURWallLightMagenta",
-      "price": 16
+      "price": 116
     },
     {
       "abr": "walllight(yellow)",
       "category": "Möbel",
       "defname": "Lighting_MURWallLightYellow",
-      "price": 16
+      "price": 116
     },
     {
       "abr": "wandlampe(blau)",
       "category": "Möbel",
       "defname": "Lighting_MURWallLightBlue",
-      "price": 16
+      "price": 116
     },
     {
       "abr": "wandlampe(grün)",
       "category": "Möbel",
       "defname": "Lighting_MURWallLightGreen",
-      "price": 16
+      "price": 116
     },
     {
       "abr": "wandlampe(rot)",
       "category": "Möbel",
       "defname": "Lighting_MURWallLightRed",
-      "price": 16
+      "price": 116
     },
     {
       "abr": "wallsunlight",
       "category": "Möbel",
       "defname": "Lighting_MURWallSunLight",
-      "price": 32
+      "price": 132
     },
     {
       "abr": "wandlampe",
       "category": "Möbel",
       "defname": "Lighting_MURWallLight",
-      "price": 16
+      "price": 116
     },
     {
       "abr": "eltex-stab",
@@ -1174,7 +1174,7 @@
       "abr": "kriegshammer",
       "category": "Nahkampfwaffen",
       "defname": "MeleeWeapon_Warhammer",
-      "price": -10
+      "price": 608
     },
     {
       "abr": "axt",
@@ -1276,7 +1276,7 @@
       "abr": "barett",
       "category": "Kopfbedeckung",
       "defname": "Apparel_Beret",
-      "price": -10
+      "price": 141
     },
     {
       "abr": "umhang",
@@ -1294,7 +1294,7 @@
       "abr": "krone",
       "category": "Kopfbedeckung",
       "defname": "Apparel_Crown",
-      "price": -10
+      "price": 322
     },
     {
       "abr": "diadem",
@@ -1306,7 +1306,7 @@
       "abr": "kapuze",
       "category": "Kopfbedeckung",
       "defname": "Apparel_HatHood",
-      "price": -10
+      "price": 174
     },
     {
       "abr": "zylinder",
@@ -1318,7 +1318,7 @@
       "abr": "damenhut",
       "category": "Kopfbedeckung",
       "defname": "Apparel_HatLadies",
-      "price": -10
+      "price": 203
     },
     {
       "abr": "vornehmerobe",
@@ -1330,19 +1330,19 @@
       "abr": "formelleweste",
       "category": "Edle Kleidung",
       "defname": "Apparel_VestRoyal",
-      "price": -10
+      "price": 222
     },
     {
       "abr": "korsett",
       "category": "Edle Kleidung",
       "defname": "Apparel_Corset",
-      "price": -10
+      "price": 222
     },
     {
       "abr": "formelleshemd",
       "category": "Edle Kleidung",
       "defname": "Apparel_ShirtRuffle",
-      "price": -10
+      "price": 253
     },
     {
       "abr": "eltex-robe",
@@ -1450,7 +1450,7 @@
       "abr": "instabileenergiezelle",
       "category": "Spezial",
       "defname": "UnstablePowerCell",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "prunkvollermeditationsthron",
@@ -1516,7 +1516,7 @@
       "abr": "feldhand",
       "category": "Prothetisch",
       "defname": "FieldHand",
-      "price": -10
+      "price": 708
     },
     {
       "abr": "bohrarm",
@@ -1564,7 +1564,7 @@
       "abr": "kommode",
       "category": "Möbel",
       "defname": "Dresser",
-      "price": -10
+      "price": 279
     },
     {
       "abr": "sexverstärker",
@@ -1582,7 +1582,7 @@
       "abr": "hufeisenstab",
       "category": "Entspannung",
       "defname": "HorseshoesPin",
-      "price": -10
+      "price": 134
     },
     {
       "abr": "ästhetischerformgeber",
@@ -1594,7 +1594,7 @@
       "abr": "wurfsteinring",
       "category": "Entspannung",
       "defname": "HoopstoneRing",
-      "price": 67
+      "price": 167
     },
     {
       "abr": "steinhautdrüse",
@@ -1738,7 +1738,7 @@
       "abr": "billardtisch",
       "category": "Möbel",
       "defname": "BilliardsTable",
-      "price": -10
+      "price": 700
     },
     {
       "abr": "röhrenfernseher",
@@ -1756,13 +1756,13 @@
       "abr": "schildkröte",
       "category": "Animal",
       "defname": "Tortoise",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "wildschwein",
       "category": "Animal",
       "defname": "WildBoar",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "rentier",
@@ -1876,19 +1876,19 @@
       "abr": "husky",
       "category": "Animal",
       "defname": "Husky",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "yorkshireterrier",
       "category": "Animal",
       "defname": "YorkshireTerrier",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "riesenspinne",
       "category": "Animal",
       "defname": "Megaspider",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "höhlenkäfer",
@@ -1900,7 +1900,7 @@
       "abr": "riesenskarabäus",
       "category": "Animal",
       "defname": "Megascarab",
-      "price": -10
+      "price": 467
     },
     {
       "abr": "schneehase",
@@ -1930,7 +1930,7 @@
       "abr": "elefant",
       "category": "Animal",
       "defname": "Elephant",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "multi-analysator",
@@ -1942,7 +1942,7 @@
       "abr": "nashorn",
       "category": "Animal",
       "defname": "Rhinoceros",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "esel",
@@ -1996,7 +1996,7 @@
       "abr": "bison",
       "category": "Animal",
       "defname": "Bison",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "werkzeugschrank",
@@ -2014,13 +2014,13 @@
       "abr": "leuchtkapsel",
       "category": "Spezial",
       "defname": "GlowPod",
-      "price": -10
+      "price": 183
     },
     {
       "abr": "alpaka",
       "category": "Animal",
       "defname": "Alpaca",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "batterie",
@@ -2032,19 +2032,19 @@
       "abr": "künstlerwerkbank",
       "category": "Produktion",
       "defname": "TableSculpting",
-      "price": -10
+      "price": 425
     },
     {
       "abr": "rind",
       "category": "Animal",
       "defname": "Cow",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "schwein",
       "category": "Animal",
       "defname": "Pig",
-      "price": -10
+      "price": 433
     },
     {
       "abr": "huhn",
@@ -2092,7 +2092,7 @@
       "abr": "panther",
       "category": "Animal",
       "defname": "Panther",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "puma",
@@ -2104,37 +2104,37 @@
       "abr": "eisbär",
       "category": "Animal",
       "defname": "Bear_Polar",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "einfachernähtisch",
       "category": "Produktion",
       "defname": "HandTailoringBench",
-      "price": -10
+      "price": 262
     },
     {
       "abr": "elektrischernähtisch",
       "category": "Produktion",
       "defname": "ElectricTailoringBench",
-      "price": -10
+      "price": 533
     },
     {
       "abr": "befeuerbareschmiede",
       "category": "Produktion",
       "defname": "FueledSmithy",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "elektrischeschmiede",
       "category": "Produktion",
       "defname": "ElectricSmithy",
-      "price": -10
+      "price": 492
     },
     {
       "abr": "mechanikerwerkbank",
       "category": "Produktion",
       "defname": "TableMachining",
-      "price": -10
+      "price": 758
     },
     {
       "abr": "fähigkeitstrainer(sozial)",
@@ -2146,19 +2146,19 @@
       "abr": "dromedar",
       "category": "Animal",
       "defname": "Dromedary",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "elektrischerherd",
       "category": "Produktion",
       "defname": "ElectricStove",
-      "price": -10
+      "price": 375
     },
     {
       "abr": "befeuerbarerherd",
       "category": "Produktion",
       "defname": "FueledStove",
-      "price": -10
+      "price": 265
     },
     {
       "abr": "steinmetzwerkbank",
@@ -2182,7 +2182,7 @@
       "abr": "muffalo",
       "category": "Animal",
       "defname": "Muffalo",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "zielgerät:tornadogenerator",
@@ -2218,7 +2218,7 @@
       "abr": "langbogen",
       "category": "Fernkampfwaffen",
       "defname": "Bow_Great",
-      "price": -10
+      "price": 274
     },
     {
       "abr": "recurvebogen",
@@ -2236,7 +2236,7 @@
       "abr": "kurzbogen",
       "category": "Fernkampfwaffen",
       "defname": "Bow_Short",
-      "price": -10
+      "price": 174
     },
     {
       "abr": "infernokanone",
@@ -2254,31 +2254,31 @@
       "abr": "brauerei",
       "category": "Produktion",
       "defname": "Brewery",
-      "price": -10
+      "price": 350
     },
     {
       "abr": "drogenlabor",
       "category": "Produktion",
       "defname": "DrugLab",
-      "price": -10
+      "price": 742
     },
     {
       "abr": "elektrischerschmelzofen",
       "category": "Produktion",
       "defname": "ElectricSmelter",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "einfacherlabortisch",
       "category": "Produktion",
       "defname": "SimpleResearchBench",
-      "price": -10
+      "price": 350
     },
     {
       "abr": "gärbottich",
       "category": "Produktion",
       "defname": "FermentingBarrel",
-      "price": -10
+      "price": 195
     },
     {
       "abr": "molotowcocktails",
@@ -2428,31 +2428,31 @@
       "abr": "ikwa",
       "category": "Nahkampfwaffen",
       "defname": "MeleeWeapon_Ikwa",
-      "price": -10
+      "price": 197
     },
     {
       "abr": "messer",
       "category": "Nahkampfwaffen",
       "defname": "MeleeWeapon_Knife",
-      "price": -10
+      "price": 111
     },
     {
       "abr": "knüppel",
       "category": "Nahkampfwaffen",
       "defname": "MeleeWeapon_Club",
-      "price": -10
+      "price": 141
     },
     {
       "abr": "langschwert",
       "category": "Nahkampfwaffen",
       "defname": "MeleeWeapon_LongSword",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "gladius",
       "category": "Nahkampfwaffen",
       "defname": "MeleeWeapon_Gladius",
-      "price": -10
+      "price": 239
     },
     {
       "abr": "streitkolben",
@@ -2530,7 +2530,7 @@
       "abr": "jacke",
       "category": "Kleidung",
       "defname": "Apparel_Jacket",
-      "price": -10
+      "price": 275
     },
     {
       "abr": "staubmantel",
@@ -2542,25 +2542,25 @@
       "abr": "hemd",
       "category": "Kleidung",
       "defname": "Apparel_CollarShirt",
-      "price": -10
+      "price": 166
     },
     {
       "abr": "t-shirt",
       "category": "Kleidung",
       "defname": "Apparel_BasicShirt",
-      "price": -10
+      "price": 143
     },
     {
       "abr": "hose",
       "category": "Kleidung",
       "defname": "Apparel_Pants",
-      "price": -10
+      "price": 143
     },
     {
       "abr": "parka",
       "category": "Kleidung",
       "defname": "Apparel_Parka",
-      "price": -10
+      "price": 315
     },
     {
       "abr": "stammeskleidung",
@@ -2614,25 +2614,25 @@
       "abr": "helm",
       "category": "Kopfbedeckung",
       "defname": "Apparel_SimpleHelmet",
-      "price": -10
+      "price": 153
     },
     {
       "abr": "kriegsschleier",
       "category": "Kopfbedeckung",
       "defname": "Apparel_WarVeil",
-      "price": -10
+      "price": 105
     },
     {
       "abr": "kriegsmaske",
       "category": "Kopfbedeckung",
       "defname": "Apparel_WarMask",
-      "price": -10
+      "price": 121
     },
     {
       "abr": "mütze",
       "category": "Kopfbedeckung",
       "defname": "Apparel_Tuque",
-      "price": -10
+      "price": 104
     },
     {
       "abr": "stammeskopftuch",
@@ -2644,13 +2644,13 @@
       "abr": "melone",
       "category": "Kopfbedeckung",
       "defname": "Apparel_BowlerHat",
-      "price": -10
+      "price": 107
     },
     {
       "abr": "cowboyhut",
       "category": "Kopfbedeckung",
       "defname": "Apparel_CowboyHat",
-      "price": -10
+      "price": 104
     },
     {
       "abr": "improvisierterauchfalle",
@@ -2680,7 +2680,7 @@
       "abr": "thrumbofell",
       "category": "Leder",
       "defname": "Leather_Thrumbo",
-      "price": 23
+      "price": 43
     },
     {
       "abr": "nashornleder",
@@ -2818,13 +2818,13 @@
       "abr": "wolfsfell",
       "category": "Leder",
       "defname": "Leather_Wolf",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "hundeleder",
       "category": "Leder",
       "defname": "Leather_Dog",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "glattesleder",
@@ -2932,7 +2932,7 @@
       "abr": "gold",
       "category": "Rohstoffe",
       "defname": "Gold",
-      "price": 417
+      "price": 217
     },
     {
       "abr": "silber",
@@ -3034,7 +3034,7 @@
       "abr": "mais",
       "category": "Vegetarisch",
       "defname": "RawCorn",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "agavenfrüchte",
@@ -3064,13 +3064,13 @@
       "abr": "kartoffeln",
       "category": "Vegetarisch",
       "defname": "RawPotatoes",
-      "price": 2
+      "price": 4
     },
     {
       "abr": "kraftstoff",
       "category": "Hergestellt",
       "defname": "Chemfuel",
-      "price": -10
+      "price": 34
     },
     {
       "abr": "neutramin",
@@ -3094,7 +3094,7 @@
       "abr": "elefantenstoßzahn",
       "category": "Objekte",
       "defname": "ElephantTusk",
-      "price": -10
+      "price": 133
     },
     {
       "abr": "überlebensration",
@@ -3148,7 +3148,7 @@
       "abr": "entenei(unbefr.)",
       "category": "Ei (unbefr.)",
       "defname": "EggDuckUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "einfachemahlzeit",
@@ -3226,7 +3226,7 @@
       "abr": "insektengelee",
       "category": "Tierische Produkte",
       "defname": "InsectJelly",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "milch",
