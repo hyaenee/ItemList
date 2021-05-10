@@ -700,7 +700,7 @@
       "abr": "eselfleisch",
       "category": "Fleisch",
       "defname": "Meat_Donkey",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "fähigkeitstrainer(bergbau)",
@@ -1984,19 +1984,19 @@
       "abr": "psychischergedankenleser",
       "category": "Archotech",
       "defname": "PsychicReader",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psychischerharmonisierer",
       "category": "Archotech",
       "defname": "PsychicHarmonizer",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "psychischersensibilisator",
       "category": "Archotech",
       "defname": "PsychicSensitizer",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psychischerstrahler",
@@ -2020,7 +2020,7 @@
       "abr": "psylink-neuroformer",
       "category": "Archotech",
       "defname": "PsychicAmplifier",
-      "price": -10
+      "price": 4333
     },
     {
       "abr": "psytrainer(anlocken)",
@@ -2362,7 +2362,7 @@
       "abr": "ruhigmachenderpsychoimpulsgeber",
       "category": "Artefakte",
       "defname": "PsychicSoothePulser",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "sandsteinblöcke",
@@ -2446,7 +2446,7 @@
       "abr": "schlangenfleisch",
       "category": "Fleisch",
       "defname": "Meat_Cobra",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "schmerzstopper",
@@ -2830,7 +2830,7 @@
       "abr": "tierbeeinflussenderpsychoimpulsgeber",
       "category": "Artefakte",
       "defname": "PsychicAnimalPulser",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "tierbett",

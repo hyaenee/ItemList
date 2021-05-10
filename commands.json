@@ -1,338 +1,591 @@
 [
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Updates the current list of active viewers.",
     "name": "Refresh viewers",
-    "shortcut": false,
     "usage": "!refreshviewers",
-    "userLevel": "Moderator"
+    "userLevel": "Moderator",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Awards all active viewers coins.",
     "name": "Karma round",
-    "shortcut": false,
     "usage": "!karmaround",
-    "userLevel": "Moderator"
+    "userLevel": "Moderator",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Gives everyone coins.",
     "name": "Give all coins",
-    "shortcut": false,
     "usage": "!giveallcoins <coins>",
-    "userLevel": "Moderator"
+    "userLevel": "Moderator",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Gives a viewer coins.",
     "name": "Give coins",
-    "shortcut": false,
     "usage": "!givecoins <viewer> <coins>",
-    "userLevel": "Moderator"
+    "userLevel": "Moderator",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Shows the balance of a given user.",
     "name": "Check user",
-    "shortcut": false,
     "usage": "!checkuser <viewer>",
-    "userLevel": "Moderator"
+    "userLevel": "Moderator",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Sets the current karma for a given user.",
     "name": "Set karma",
-    "shortcut": false,
     "usage": "!setkarma <viewer> <karma>",
-    "userLevel": "Moderator"
+    "userLevel": "Moderator",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Toggles coin generation.",
     "name": "Toggle coins",
-    "shortcut": false,
     "usage": "!togglecoins",
-    "userLevel": "Moderator"
+    "userLevel": "Moderator",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Shows your current balance, karma, and, optionally, the amount of coins earned per cycle.",
     "name": "Check balance",
-    "shortcut": false,
     "usage": "!bal",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Gives an overview of what karma is in relation to Twitch Toolkit.",
     "name": "Karma explanation",
-    "shortcut": false,
     "usage": "!whatiskarma",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Directs you here!",
     "name": "Purchase list",
-    "shortcut": false,
     "usage": "!liste",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Adds you to the name queue.",
     "name": "Join queue",
-    "shortcut": false,
-    "usage": "!joinqueue",
-    "userLevel": "UserLevel"
+    "usage": "!join",
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Shows you information about Twitch Toolkit.",
     "name": "Mod info",
-    "shortcut": false,
     "usage": "!modinfo",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Lets you buy things from the store.",
     "name": "Buy",
-    "shortcut": false,
     "usage": "!buy",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": true
+    },
     "description": "Lets you wager coins to level up a skill of your choosing.",
     "name": "Level skill",
-    "shortcut": true,
     "usage": "!levelskill <skill> <coins>",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": true
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Shows you important settings for Twitch Toolkit, like the karma cap.",
     "name": "Mod settings",
-    "shortcut": false,
     "usage": "!modsettings",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Gives you a brief set of instructions on how to use Twitch Toolkit.",
     "name": "Instructions",
-    "shortcut": false,
     "usage": "!instructions",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Shows you the current list of commands, which may or may not be this list.",
     "name": "All commands",
-    "shortcut": false,
     "usage": "!allcommands",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Shows you the complete list of installed mods.",
     "name": "Installed mods",
-    "shortcut": false,
     "usage": "!installedmods",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": true
+    },
     "description": "A colony wide resurrector mech serum.",
     "name": "Revive all",
-    "shortcut": true,
     "usage": "!reviveall",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": true
   },
   {
+    "data": {
+      "isShortcut": true
+    },
     "description": "A personal resurrector mech serum.",
     "name": "Revive me",
-    "shortcut": true,
     "usage": "!reviveme",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": true
   },
   {
+    "data": {
+      "isShortcut": true
+    },
     "description": "A personal healer mech serum/",
     "name": "Heal me",
-    "shortcut": true,
     "usage": "!healme",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": true
   },
   {
+    "data": {
+      "isShortcut": true
+    },
     "description": "A colony wide healer mech serum.",
     "name": "Healall",
-    "shortcut": true,
     "usage": "!healall",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": true
   },
   {
+    "data": {
+      "isShortcut": true
+    },
     "description": "Shuffles your passions. If a skill is specified, you'll be guaranteed a minor passion in it.",
     "name": "Passion shuffle",
-    "shortcut": true,
     "usage": "!passionshuffle [skill]",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": true
   },
   {
+    "data": {
+      "isShortcut": true
+    },
     "description": "Purchases the part specified and queues it for surgery on your pawn.",
     "name": "Surgery",
-    "shortcut": true,
-    "usage": "!surgery <part>",
-    "userLevel": "UserLevel"
+    "usage": "!surgery <item> <quantity/bodypart>",
+    "userLevel": "Anyone",
+    "shortcut": true
   },
   {
+    "data": {
+      "isShortcut": true
+    },
     "description": "Adds a trait for your pawn.",
     "name": "Add trait",
-    "shortcut": true,
     "usage": "!trait",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": true
   },
   {
+    "data": {
+      "isShortcut": true
+    },
     "description": "Removes a trait from our pawn.",
     "name": "Remove trait",
-    "shortcut": true,
     "usage": "!removetrait",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": true
   },
   {
+    "data": {
+      "isShortcut": true
+    },
     "description": "A resurrector mech serum for a random dead colonist.",
     "name": "Revive any pawn",
-    "shortcut": true,
     "usage": "!reviveanypawn",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": true
   },
   {
+    "data": {
+      "isShortcut": true
+    },
     "description": "A healer mech serum for a random colonist.",
     "name": "Heal any pawn",
-    "shortcut": true,
     "usage": "!healanypawn",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": true
   },
   {
+    "data": {
+      "isShortcut": true
+    },
     "description": "Replaces a trait with a different trait.",
     "name": "Replace trait",
-    "shortcut": true,
     "usage": "!replacetrait <old> <new>",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": true
   },
   {
+    "data": {
+      "isShortcut": true
+    },
+    "description": "It's like buy item, but it gets added to your inventory if possible.",
+    "name": "Backpack",
+    "usage": "!backpack <item> [quantity]",
+    "userLevel": "Anyone",
+    "shortcut": true
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
+    "description": "Downgrades a skill's passion... sometimes.",
+    "name": "Remove passion",
+    "usage": "!removepassion <skill>",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
+    "description": "Upgrades a skill's passion... sometimes.",
+    "name": "Add passion",
+    "usage": "!passion <skill>",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
+    "description": "Heals all healable injuries your pawn currently has.",
+    "name": "Full heal",
+    "usage": "!fullheal",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
+    "description": "Creates a prisoner rescue quest for your most recent pawn.",
+    "name": "Rescue me",
+    "usage": "!rescueme",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Shows your current kill count.",
     "name": "Viewer kill count",
-    "shortcut": false,
     "usage": "!mypawnkills",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Shows your current stats within a given category.",
     "name": "Viewer stats",
-    "shortcut": false,
-    "usage": "!mypawnstats [category]",
-    "userLevel": "UserLevel"
+    "usage": "!mypawnstats [stat1] [stat2]",
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Shows an overview of your pawn's health. If a capacity is specified, it'll show what's affecting it.",
     "name": "Viewer health",
-    "shortcut": false,
     "usage": "!mypawnhealth [capacity]",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Shows an overview of your pawn's needs.",
     "name": "Viewer needs",
-    "shortcut": false,
     "usage": "!mypawnneeds",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Shows an overview of your pawn's gear.",
     "name": "Viewer gear",
-    "shortcut": false,
     "usage": "!mypawngear",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Shows an overview of your pawn's body.",
     "name": "Viewer body",
-    "shortcut": false,
     "usage": "!mypawnbody",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Shows your pawn's work priorities.",
     "name": "Viewer work",
-    "shortcut": false,
-    "usage": "!mypawnwork",
-    "userLevel": "UserLevel"
+    "usage": "!mypawnwork [worktype=priority] [...]",
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Shows your pawn's bio.",
     "name": "Viewer story",
-    "shortcut": false,
     "usage": "!mypawnstory",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Shows your pawn's current skills and their passions.",
     "name": "Viewer skills",
-    "shortcut": false,
     "usage": "!mypawnskills",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Attempts to relink your pawn to you. (Doesn't work for Puppeteer)",
     "name": "Fix viewer pawn",
-    "shortcut": false,
     "usage": "!fixmypawn",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Attempts to relink all pawns to their respective viewers. (Doesn't work for Puppeteer)",
     "name": "Fix all pawns",
-    "shortcut": false,
     "usage": "!fixallpawns",
-    "userLevel": "Moderator"
+    "userLevel": "Moderator",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Makes your pawn leave the colony.",
     "name": "Abandon pawn",
-    "shortcut": false,
     "usage": "!leave",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
+    "description": "Shows your pawn's relationships to other viewers.",
+    "name": "Viewer relations",
+    "usage": "!mypawnrelations [viewer]",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Shows an overview of the colony's current faction relations.",
     "name": "Factions",
-    "shortcut": false,
     "usage": "!factions",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Shows the current research progress. If a project is specified, it'll show the progress of that instead.",
     "name": "Research",
-    "shortcut": false,
     "usage": "!research [project/item]",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
-    "description": "Shows the first few results for the query in the given category. Valid categories are: 'races', 'traits', 'items', 'events', 'diseases', 'animals', 'skills', and 'stats'.",
+    "data": {
+      "isShortcut": false
+    },
+    "description": "Shows the first few results for the query in the given category. Valid categories are: 'races', 'traits', 'items', 'events', 'diseases', 'animals', and 'skills'.",
     "name": "Lookup",
-    "shortcut": false,
-    "usage": "!lookup <category/item> [query]",
-    "userLevel": "UserLevel"
+    "usage": "!lookup <item/category> [query]",
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Similar to the lookup command, except it'll show the price for the first valid match.",
     "name": "Price check",
-    "shortcut": false,
-    "usage": "!price <category/item> [query]",
-    "userLevel": "UserLevel"
+    "usage": "!price <item/category> [query]",
+    "userLevel": "Anyone",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Removes viewers that were stuck in the \"game paused\" limbo.",
     "name": "Unstick",
-    "shortcut": false,
     "usage": "!unstick",
-    "userLevel": "Moderator"
+    "userLevel": "Moderator",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Toggles whether or not viewers can actively purchase things from the store.",
     "name": "Toggle store",
-    "shortcut": false,
     "usage": "!togglestore",
-    "userLevel": "Moderator"
+    "userLevel": "Moderator",
+    "shortcut": false
   },
   {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Makes your pawn insult a random viewer. If a viewer is specified, you'll insult them instead.",
     "name": "Insult",
-    "shortcut": false,
     "usage": "!insult [target]",
-    "userLevel": "UserLevel"
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
+    "description": "Shows the colony's current wealth. This command uses the same value the storyteller will use.",
+    "name": "Colony wealth",
+    "usage": "!wealth",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
+    "description": "Shows the current number of colonists remaining in the colony.",
+    "name": "Colonist count",
+    "usage": "!colonists",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
+    "description": "Provides some information about supported things. Supported categories are: weapons",
+    "name": "Database",
+    "usage": "!rwdata <category/weaponname> [weaponname]",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
+    "description": "It's like unstick, but safe for viewers to use.",
+    "name": "Unstick me",
+    "usage": "!unstickme",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
+    "name": "hello",
+    "usage": "!hello",
+    "userLevel": "Moderator",
+    "shortcut": false
   }
 ]
