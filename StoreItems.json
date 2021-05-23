@@ -529,12 +529,6 @@
       "price": -10
     },
     {
-      "abr": "electronicorgan",
-      "category": "Musical instruments",
-      "defname": "ElectronicOrgan",
-      "price": -10
-    },
-    {
       "abr": "elefant",
       "category": "Animal",
       "defname": "Elephant",
@@ -835,12 +829,6 @@
       "price": 333
     },
     {
-      "abr": "framedrum",
-      "category": "Musical instruments",
-      "defname": "FrameDrum",
-      "price": -10
-    },
-    {
       "abr": "fuchsfleisch",
       "category": "Fleisch",
       "defname": "Meat_Fox_Fennec",
@@ -979,12 +967,6 @@
       "price": -10
     },
     {
-      "abr": "großerkühlschrank",
-      "category": "Möbel",
-      "defname": "RimFridge_QuadRefrigerator",
-      "price": -10
-    },
-    {
       "abr": "großernaturschrein",
       "category": "Diverses",
       "defname": "NatureShrine_Large",
@@ -994,12 +976,6 @@
       "abr": "großkatzenfell",
       "category": "Leder",
       "defname": "Leather_Panthera",
-      "price": -10
-    },
-    {
-      "abr": "guitar",
-      "category": "Musical instruments",
-      "defname": "Guitar",
       "price": -10
     },
     {
@@ -1429,12 +1405,6 @@
       "price": -10
     },
     {
-      "abr": "kühlschrank",
-      "category": "Möbel",
-      "defname": "RimFridge_Refrigerator",
-      "price": -10
-    },
-    {
       "abr": "künstlerwerkbank",
       "category": "Produktion",
       "defname": "TableSculpting",
@@ -1570,18 +1540,12 @@
       "abr": "luziferium",
       "category": "Drogen",
       "defname": "Luciferium",
-      "price": -10
+      "price": 469
     },
     {
       "abr": "mais",
       "category": "Vegetarisch",
       "defname": "RawCorn",
-      "price": -10
-    },
-    {
-      "abr": "marimba",
-      "category": "Musical instruments",
-      "defname": "Marimba",
       "price": -10
     },
     {
@@ -1684,12 +1648,6 @@
       "abr": "minigun",
       "category": "Fernkampfwaffen",
       "defname": "Gun_Minigun",
-      "price": -10
-    },
-    {
-      "abr": "mini-kühlschrank",
-      "category": "Möbel",
-      "defname": "RimFridge_SingleRefrigerator",
       "price": -10
     },
     {
@@ -1811,12 +1769,6 @@
       "category": "Bionisch",
       "defname": "NuclearStomach",
       "price": 1717
-    },
-    {
-      "abr": "ocarina",
-      "category": "Musical instruments",
-      "defname": "Ocarina",
-      "price": -10
     },
     {
       "abr": "orbitalehandelsbake",
@@ -2929,12 +2881,6 @@
       "price": -10
     },
     {
-      "abr": "violin",
-      "category": "Musical instruments",
-      "defname": "Violin",
-      "price": -10
-    },
-    {
       "abr": "vitalmonitor",
       "category": "Diverses",
       "defname": "VitalsMonitor",
@@ -2999,102 +2945,6 @@
       "category": "Kopfbedeckung",
       "defname": "Apparel_ArmorHelmetReconPrestige",
       "price": 1192
-    },
-    {
-      "abr": "walldualrefrigerator",
-      "category": "Möbel",
-      "defname": "RimFridge_WallRefrigerator",
-      "price": -10
-    },
-    {
-      "abr": "walllight(azure)",
-      "category": "Möbel",
-      "defname": "Lighting_MURWallLightAzure",
-      "price": -10
-    },
-    {
-      "abr": "walllight(chartreuse)",
-      "category": "Möbel",
-      "defname": "Lighting_MURWallLightChartreuse",
-      "price": -10
-    },
-    {
-      "abr": "walllight(cyan)",
-      "category": "Möbel",
-      "defname": "Lighting_MURWallLightCyan",
-      "price": -10
-    },
-    {
-      "abr": "walllight(magenta)",
-      "category": "Möbel",
-      "defname": "Lighting_MURWallLightMagenta",
-      "price": -10
-    },
-    {
-      "abr": "walllight(orange)",
-      "category": "Möbel",
-      "defname": "Lighting_MURWallLightOrange",
-      "price": -10
-    },
-    {
-      "abr": "walllight(rose)",
-      "category": "Möbel",
-      "defname": "Lighting_MURWallLightRose",
-      "price": -10
-    },
-    {
-      "abr": "walllight(springgreen)",
-      "category": "Möbel",
-      "defname": "Lighting_MURWallLightSpringGreen",
-      "price": -10
-    },
-    {
-      "abr": "walllight(violet)",
-      "category": "Möbel",
-      "defname": "Lighting_MURWallLightViolet",
-      "price": -10
-    },
-    {
-      "abr": "walllight(yellow)",
-      "category": "Möbel",
-      "defname": "Lighting_MURWallLightYellow",
-      "price": -10
-    },
-    {
-      "abr": "wallsinglerefrigerator",
-      "category": "Möbel",
-      "defname": "RimFridge_SingleWallRefrigerator",
-      "price": -10
-    },
-    {
-      "abr": "wallsunlight",
-      "category": "Möbel",
-      "defname": "Lighting_MURWallSunLight",
-      "price": -10
-    },
-    {
-      "abr": "wandlampe",
-      "category": "Möbel",
-      "defname": "Lighting_MURWallLight",
-      "price": -10
-    },
-    {
-      "abr": "wandlampe(blau)",
-      "category": "Möbel",
-      "defname": "Lighting_MURWallLightBlue",
-      "price": -10
-    },
-    {
-      "abr": "wandlampe(grün)",
-      "category": "Möbel",
-      "defname": "Lighting_MURWallLightGreen",
-      "price": -10
-    },
-    {
-      "abr": "wandlampe(rot)",
-      "category": "Möbel",
-      "defname": "Lighting_MURWallLightRed",
-      "price": -10
     },
     {
       "abr": "warg",
@@ -3220,7 +3070,7 @@
       "abr": "ziege",
       "category": "Animal",
       "defname": "Goat",
-      "price": -10
+      "price": 698
     },
     {
       "abr": "ziegenfleisch",
@@ -3251,6 +3101,156 @@
       "category": "Kopfbedeckung",
       "defname": "Apparel_HatTop",
       "price": -10
+    },
+    {
+      "abr": "electronicorgan",
+      "category": "Musical instruments",
+      "defname": "ElectronicOrgan",
+      "price": 750
+    },
+    {
+      "abr": "framedrum",
+      "category": "Musical instruments",
+      "defname": "FrameDrum",
+      "price": 184
+    },
+    {
+      "abr": "großerkühlschrank",
+      "category": "Möbel",
+      "defname": "RimFridge_QuadRefrigerator",
+      "price": 307
+    },
+    {
+      "abr": "guitar",
+      "category": "Musical instruments",
+      "defname": "Guitar",
+      "price": 425
+    },
+    {
+      "abr": "kühlschrank",
+      "category": "Möbel",
+      "defname": "RimFridge_Refrigerator",
+      "price": 186
+    },
+    {
+      "abr": "marimba",
+      "category": "Musical instruments",
+      "defname": "Marimba",
+      "price": 417
+    },
+    {
+      "abr": "mini-kühlschrank",
+      "category": "Möbel",
+      "defname": "RimFridge_SingleRefrigerator",
+      "price": 121
+    },
+    {
+      "abr": "ocarina",
+      "category": "Musical instruments",
+      "defname": "Ocarina",
+      "price": 107
+    },
+    {
+      "abr": "violin",
+      "category": "Musical instruments",
+      "defname": "Violin",
+      "price": 350
+    },
+    {
+      "abr": "walldualrefrigerator",
+      "category": "Möbel",
+      "defname": "RimFridge_WallRefrigerator",
+      "price": 186
+    },
+    {
+      "abr": "walllight(azure)",
+      "category": "Möbel",
+      "defname": "Lighting_MURWallLightAzure",
+      "price": 16
+    },
+    {
+      "abr": "walllight(chartreuse)",
+      "category": "Möbel",
+      "defname": "Lighting_MURWallLightChartreuse",
+      "price": 16
+    },
+    {
+      "abr": "walllight(cyan)",
+      "category": "Möbel",
+      "defname": "Lighting_MURWallLightCyan",
+      "price": 16
+    },
+    {
+      "abr": "walllight(magenta)",
+      "category": "Möbel",
+      "defname": "Lighting_MURWallLightMagenta",
+      "price": 16
+    },
+    {
+      "abr": "walllight(orange)",
+      "category": "Möbel",
+      "defname": "Lighting_MURWallLightOrange",
+      "price": 16
+    },
+    {
+      "abr": "walllight(rose)",
+      "category": "Möbel",
+      "defname": "Lighting_MURWallLightRose",
+      "price": 16
+    },
+    {
+      "abr": "walllight(springgreen)",
+      "category": "Möbel",
+      "defname": "Lighting_MURWallLightSpringGreen",
+      "price": 16
+    },
+    {
+      "abr": "walllight(violet)",
+      "category": "Möbel",
+      "defname": "Lighting_MURWallLightViolet",
+      "price": 16
+    },
+    {
+      "abr": "walllight(yellow)",
+      "category": "Möbel",
+      "defname": "Lighting_MURWallLightYellow",
+      "price": 16
+    },
+    {
+      "abr": "wallsinglerefrigerator",
+      "category": "Möbel",
+      "defname": "RimFridge_SingleWallRefrigerator",
+      "price": 121
+    },
+    {
+      "abr": "wallsunlight",
+      "category": "Möbel",
+      "defname": "Lighting_MURWallSunLight",
+      "price": 16
+    },
+    {
+      "abr": "wandlampe",
+      "category": "Möbel",
+      "defname": "Lighting_MURWallLight",
+      "price": 16
+    },
+    {
+      "abr": "wandlampe(blau)",
+      "category": "Möbel",
+      "defname": "Lighting_MURWallLightBlue",
+      "price": 16
+    },
+    {
+      "abr": "wandlampe(grün)",
+      "category": "Möbel",
+      "defname": "Lighting_MURWallLightGreen",
+      "price": 16
+    },
+    {
+      "abr": "wandlampe(rot)",
+      "category": "Möbel",
+      "defname": "Lighting_MURWallLightRed",
+      "price": 16
     }
   ],
   "total": 542
