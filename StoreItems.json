@@ -34,7 +34,7 @@
       "abr": "affenfleisch",
       "category": "Fleisch",
       "defname": "Meat_Monkey",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "agavenfrüchte",
@@ -346,7 +346,7 @@
       "abr": "cembalo",
       "category": "Entspannung",
       "defname": "Harpsichord",
-      "price": -10
+      "price": 692
     },
     {
       "abr": "chinchilla",
@@ -772,7 +772,7 @@
       "abr": "faultierfleisch",
       "category": "Fleisch",
       "defname": "Meat_Megasloth",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "faultierwolle",
@@ -796,7 +796,7 @@
       "abr": "flachbildfernseher",
       "category": "Entspannung",
       "defname": "FlatscreenTelevision",
-      "price": -10
+      "price": 1533
     },
     {
       "abr": "flake",
@@ -988,7 +988,7 @@
       "abr": "harfe",
       "category": "Entspannung",
       "defname": "Harp",
-      "price": -10
+      "price": 408
     },
     {
       "abr": "hase",
@@ -1070,7 +1070,7 @@
     },
     {
       "abr": "hopfen",
-      "category": "Pflanzenmasse",
+      "category": "Pflanzlich",
       "defname": "RawHops",
       "price": -10
     },
@@ -1204,7 +1204,7 @@
       "abr": "insektenfleisch",
       "category": "Fleisch",
       "defname": "Meat_Megaspider",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "insektengelee",
@@ -1222,7 +1222,7 @@
       "abr": "intensivbett",
       "category": "Möbel",
       "defname": "HospitalBed",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "jacke",
@@ -1306,7 +1306,7 @@
       "abr": "klavier",
       "category": "Entspannung",
       "defname": "Piano",
-      "price": -10
+      "price": 1117
     },
     {
       "abr": "kleineskulptur",
@@ -1672,7 +1672,7 @@
       "abr": "muffalo",
       "category": "Animal",
       "defname": "Muffalo",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "muffalofleisch",
@@ -1894,7 +1894,7 @@
       "abr": "pokertisch",
       "category": "Möbel",
       "defname": "PokerTable",
-      "price": -10
+      "price": 400
     },
     {
       "abr": "polarfuchs",
@@ -1964,7 +1964,7 @@
     },
     {
       "abr": "psychoid-blätter",
-      "category": "Pflanzenmasse",
+      "category": "Pflanzlich",
       "defname": "PsychoidLeaves",
       "price": -10
     },
@@ -2174,7 +2174,7 @@
     },
     {
       "abr": "rauchblatt-blätter",
-      "category": "Pflanzenmasse",
+      "category": "Pflanzlich",
       "defname": "SmokeleafLeaves",
       "price": -10
     },
@@ -2266,7 +2266,7 @@
       "abr": "riesenflachbildfernseher",
       "category": "Entspannung",
       "defname": "MegascreenTelevision",
-      "price": -10
+      "price": 2475
     },
     {
       "abr": "riesenskarabäus",
@@ -2752,7 +2752,7 @@
       "abr": "thrumbo",
       "category": "Animal",
       "defname": "Thrumbo",
-      "price": -10
+      "price": 6667
     },
     {
       "abr": "thrumbofell",
@@ -2884,7 +2884,7 @@
       "abr": "vitalmonitor",
       "category": "Diverses",
       "defname": "VitalsMonitor",
-      "price": -10
+      "price": 358
     },
     {
       "abr": "vogelfleisch",
@@ -2986,7 +2986,7 @@
       "abr": "werkzeugschrank",
       "category": "Diverses",
       "defname": "ToolCabinet",
-      "price": -10
+      "price": 642
     },
     {
       "abr": "wiederaufbereitungsmagen",
@@ -3022,7 +3022,7 @@
       "abr": "wurfsteinring",
       "category": "Entspannung",
       "defname": "HoopstoneRing",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "wüstenfuchs",
