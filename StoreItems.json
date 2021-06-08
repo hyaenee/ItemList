@@ -940,7 +940,7 @@
       "abr": "gold",
       "category": "Rohstoffe",
       "defname": "Gold",
-      "price": 17
+      "price": 37
     },
     {
       "abr": "granitblöcke",
@@ -1288,7 +1288,7 @@
       "abr": "kataphraktrüstung",
       "category": "Rüstung",
       "defname": "Apparel_ArmorCataphract",
-      "price": 5200
+      "price": 4200
     },
     {
       "abr": "katze",
@@ -3022,7 +3022,7 @@
       "abr": "wurfsteinring",
       "category": "Entspannung",
       "defname": "HoopstoneRing",
-      "price": 67
+      "price": 267
     },
     {
       "abr": "wüstenfuchs",
@@ -3251,7 +3251,517 @@
       "category": "Möbel",
       "defname": "Lighting_MURWallLightRed",
       "price": 16
+    },
+    {
+      "abr": "advancedbondagebed",
+      "category": "Möbel",
+      "defname": "SR_Building_AdvancedBondageBed",
+      "price": 383
+    },
+    {
+      "abr": "beheadingblock",
+      "category": "Möbel",
+      "defname": "SR_Building_BeheadingBlock",
+      "price": 155
+    },
+    {
+      "abr": "bondagebed",
+      "category": "Möbel",
+      "defname": "SR_Building_BondageBed",
+      "price": -10
+    },
+    {
+      "abr": "chains",
+      "category": "Objekte",
+      "defname": "SR_Item_Chains",
+      "price": 333
+    },
+    {
+      "abr": "cryptosleepsuspender",
+      "category": "Möbel",
+      "defname": "Bed_CryptoBed",
+      "price": 733
+    },
+    {
+      "abr": "darkwhip",
+      "category": "Objekte",
+      "defname": "SR_Item_DarkWhip",
+      "price": 333
+    },
+    {
+      "abr": "doublenicebed",
+      "category": "Möbel",
+      "defname": "SR_DoubleNiceBed",
+      "price": 583
+    },
+    {
+      "abr": "electricchair",
+      "category": "Möbel",
+      "defname": "SR_Building_ElectricChair",
+      "price": 408
+    },
+    {
+      "abr": "electromagneticbearhand",
+      "category": "Objekte",
+      "defname": "SR_Item_electromagneticBearHand",
+      "price": 333
+    },
+    {
+      "abr": "hangingcageleft",
+      "category": "Möbel",
+      "defname": "SR_Building_HangingCageL",
+      "price": 313
+    },
+    {
+      "abr": "hangingcageright",
+      "category": "Möbel",
+      "defname": "SR_Building_HangingCageR",
+      "price": 313
+    },
+    {
+      "abr": "intravenousdripstand",
+      "category": "Diverses",
+      "defname": "Facility_IVDrip",
+      "price": 296
+    },
+    {
+      "abr": "nicebed",
+      "category": "Möbel",
+      "defname": "SR_NiceBed",
+      "price": 275
+    },
+    {
+      "abr": "operatingbondagetable",
+      "category": "Möbel",
+      "defname": "SR_Building_OperatingBondageTable",
+      "price": 508
+    },
+    {
+      "abr": "operatingtable",
+      "category": "Möbel",
+      "defname": "Bed_OperatingTable",
+      "price": 508
+    },
+    {
+      "abr": "pillory",
+      "category": "Möbel",
+      "defname": "SR_Building_Pillory",
+      "price": 313
+    },
+    {
+      "abr": "poormattress",
+      "category": "Möbel",
+      "defname": "SR_Building_Mattress",
+      "price": 34
+    },
+    {
+      "abr": "prisonerpole",
+      "category": "Möbel",
+      "defname": "SR_Building_PrisonerPole",
+      "price": 155
+    },
+    {
+      "abr": "shuihuhuangmensword",
+      "category": "Nahkampfwaffen",
+      "defname": "SR_MeleeWeapon_ShuihuHuangmenSword",
+      "price": 3333
+    },
+    {
+      "abr": "simplebed",
+      "category": "Möbel",
+      "defname": "SR_SimpleBed",
+      "price": 103
+    },
+    {
+      "abr": "tokenofzeus",
+      "category": "Objekte",
+      "defname": "SR_Item_TokenOfZEUS",
+      "price": 333
+    },
+    {
+      "abr": "torturecross",
+      "category": "Möbel",
+      "defname": "SR_Building_TortureCross",
+      "price": 155
+    },
+    {
+      "abr": "truecross",
+      "category": "Möbel",
+      "defname": "SR_Building_TrueCross",
+      "price": 155
+    },
+    {
+      "abr": "vitalscentre",
+      "category": "Diverses",
+      "defname": "Facility_VitalsCentre",
+      "price": 1125
+    },
+    {
+      "abr": "badewanne",
+      "category": "Hygiene",
+      "defname": "BathtubStuff",
+      "price": 124
+    },
+    {
+      "abr": "bionicbladder",
+      "category": "Bionisch",
+      "defname": "BionicBladder",
+      "price": 1308
+    },
+    {
+      "abr": "cryptocollar",
+      "category": "Kleidung",
+      "defname": "Apparel_SlaveCollar_Crypto",
+      "price": 1083
+    },
+    {
+      "abr": "deckenventilator1x1",
+      "category": "Hygiene",
+      "defname": "CeilingFanS",
+      "price": -10
+    },
+    {
+      "abr": "deckenventilator2x2",
+      "category": "Hygiene",
+      "defname": "CeilingFan",
+      "price": -10
+    },
+    {
+      "abr": "dünger",
+      "category": "Ausscheidungen",
+      "defname": "Biosolids",
+      "price": -10
+    },
+    {
+      "abr": "dusche",
+      "category": "Hygiene",
+      "defname": "ShowerStuff",
+      "price": 90
+    },
+    {
+      "abr": "einfachedusche",
+      "category": "Hygiene",
+      "defname": "ShowerSimple",
+      "price": 52
+    },
+    {
+      "abr": "electriccollar",
+      "category": "Kleidung",
+      "defname": "Apparel_SlaveCollar_Electric",
+      "price": 533
+    },
+    {
+      "abr": "elektrischetherme",
+      "category": "Hygiene",
+      "defname": "ElectricBoiler",
+      "price": 425
+    },
+    {
+      "abr": "elektronischedusche",
+      "category": "Hygiene",
+      "defname": "ShowerAdvStuff",
+      "price": 170
+    },
+    {
+      "abr": "elektronischepumpe",
+      "category": "Hygiene",
+      "defname": "ElectricPump",
+      "price": 316
+    },
+    {
+      "abr": "elektronischesklo",
+      "category": "Hygiene",
+      "defname": "ToiletAdvStuff",
+      "price": 182
+    },
+    {
+      "abr": "explosivecollar",
+      "category": "Kleidung",
+      "defname": "Apparel_SlaveCollar_Explosive",
+      "price": 442
+    },
+    {
+      "abr": "großemsinnenheit",
+      "category": "Hygiene",
+      "defname": "FreezerUnit",
+      "price": 153
+    },
+    {
+      "abr": "großerheizkörper",
+      "category": "Hygiene",
+      "defname": "RadiatorLarge",
+      "price": 252
+    },
+    {
+      "abr": "heizkörper",
+      "category": "Hygiene",
+      "defname": "RadiatorStuffed",
+      "price": 85
+    },
+    {
+      "abr": "holztherme",
+      "category": "Hygiene",
+      "defname": "LogBoiler",
+      "price": 642
+    },
+    {
+      "abr": "hygieneenhancer",
+      "category": "Bionisch",
+      "defname": "HygieneEnhancer",
+      "price": 1308
+    },
+    {
+      "abr": "klo",
+      "category": "Hygiene",
+      "defname": "ToiletStuff",
+      "price": 72
+    },
+    {
+      "abr": "komposter",
+      "category": "Hygiene",
+      "defname": "BiosolidsComposter",
+      "price": 146
+    },
+    {
+      "abr": "kraftstofftherme",
+      "category": "Hygiene",
+      "defname": "GasBoiler",
+      "price": 425
+    },
+    {
+      "abr": "löschsprinkler",
+      "category": "Hygiene",
+      "defname": "FireSprinkler",
+      "price": 104
+    },
+    {
+      "abr": "msaußeneinheit",
+      "category": "Hygiene",
+      "defname": "AirConOutdoorUnit",
+      "price": 458
+    },
+    {
+      "abr": "msinneneinheit",
+      "category": "Hygiene",
+      "defname": "AirconIndoorUnit",
+      "price": 82
+    },
+    {
+      "abr": "plumpsklo",
+      "category": "Hygiene",
+      "defname": "PitLatrine",
+      "price": 55
+    },
+    {
+      "abr": "slavecollar",
+      "category": "Kleidung",
+      "defname": "Apparel_SlaveCollar",
+      "price": 113
+    },
+    {
+      "abr": "sprinkler",
+      "category": "Hygiene",
+      "defname": "IrrigationSprinkler",
+      "price": 102
+    },
+    {
+      "abr": "spüle",
+      "category": "Hygiene",
+      "defname": "KitchenSink",
+      "price": 167
+    },
+    {
+      "abr": "thermostat",
+      "category": "Hygiene",
+      "defname": "Thermostat",
+      "price": 86
+    },
+    {
+      "abr": "tierklo",
+      "category": "Hygiene",
+      "defname": "LitterBox",
+      "price": 52
+    },
+    {
+      "abr": "tribalslavecollar",
+      "category": "Kleidung",
+      "defname": "Apparel_SlaveCollar_Tribal",
+      "price": 101
+    },
+    {
+      "abr": "trinkfontäne",
+      "category": "Hygiene",
+      "defname": "Fountain",
+      "price": 52
+    },
+    {
+      "abr": "ventil",
+      "category": "Hygiene",
+      "defname": "plumbingValve",
+      "price": 50
+    },
+    {
+      "abr": "warmwasserspeicher",
+      "category": "Hygiene",
+      "defname": "HotWaterTank",
+      "price": 245
+    },
+    {
+      "abr": "waschbecken",
+      "category": "Hygiene",
+      "defname": "BasinStuff",
+      "price": 52
+    },
+    {
+      "abr": "waschmaschine",
+      "category": "Hygiene",
+      "defname": "WashingMachine",
+      "price": 433
+    },
+    {
+      "abr": "wasserfass",
+      "category": "Möbel",
+      "defname": "WaterButt",
+      "price": 89
+    },
+    {
+      "abr": "wasserschale",
+      "category": "Hygiene",
+      "defname": "WashBucket",
+      "price": 52
+    },
+    {
+      "abr": "whirlpool",
+      "category": "Hygiene",
+      "defname": "HotTub",
+      "price": 800
+    },
+    {
+      "abr": "addictol",
+      "category": "Drogen",
+      "defname": "MP_Addictol",
+      "price": 75
+    },
+    {
+      "abr": "aniracetam",
+      "category": "Drogen",
+      "defname": "Aniracetam",
+      "price": 85
+    },
+    {
+      "abr": "antitox",
+      "category": "Drogen",
+      "defname": "AntiTox",
+      "price": 83
+    },
+    {
+      "abr": "clozapine",
+      "category": "Drogen",
+      "defname": "Clozapine",
+      "price": 87
+    },
+    {
+      "abr": "crimsonbulb",
+      "category": "Pflanzlich",
+      "defname": "CrimsonBulb",
+      "price": 33
+    },
+    {
+      "abr": "cyanide",
+      "category": "Drogen",
+      "defname": "Cyanide",
+      "price": 17
+    },
+    {
+      "abr": "heroin",
+      "category": "Drogen",
+      "defname": "Heroin",
+      "price": 310
+    },
+    {
+      "abr": "hydra",
+      "category": "Drogen",
+      "defname": "Hydra",
+      "price": 107
+    },
+    {
+      "abr": "hypnotol",
+      "category": "Drogen",
+      "defname": "AddictiveHypnotol",
+      "price": 167
+    },
+    {
+      "abr": "joy",
+      "category": "Drogen",
+      "defname": "Joy",
+      "price": 78
+    },
+    {
+      "abr": "morphine",
+      "category": "Drogen",
+      "defname": "Morphine",
+      "price": 82
+    },
+    {
+      "abr": "opium",
+      "category": "Drogen",
+      "defname": "PoppyLatex",
+      "price": 10
+    },
+    {
+      "abr": "penicillin",
+      "category": "Drogen",
+      "defname": "Penicillin",
+      "price": 48
+    },
+    {
+      "abr": "peyote",
+      "category": "Drogen",
+      "defname": "Peyote",
+      "price": 10
+    },
+    {
+      "abr": "rosepetal",
+      "category": "Pflanzlich",
+      "defname": "RosePetal",
+      "price": 3
+    },
+    {
+      "abr": "rosetea",
+      "category": "Drogen",
+      "defname": "RoseTea",
+      "price": 10
+    },
+    {
+      "abr": "smellingsalts",
+      "category": "Drogen",
+      "defname": "SSalts",
+      "price": 27
+    },
+    {
+      "abr": "thornweedneedle",
+      "category": "Drogen",
+      "defname": "ThornWeedNeedle",
+      "price": 8
+    },
+    {
+      "abr": "thornweedserum",
+      "category": "Drogen",
+      "defname": "ThornWeedExtract",
+      "price": 83
+    },
+    {
+      "abr": "tyrox",
+      "category": "Drogen",
+      "defname": "Tyrox",
+      "price": 175
+    },
+    {
+      "abr": "upper",
+      "category": "Drogen",
+      "defname": "Upper",
+      "price": 117
     }
   ],
-  "total": 542
+  "total": 627
 }
