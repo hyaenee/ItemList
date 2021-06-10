@@ -6,11 +6,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "tornados",
-		"price": 10000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -176,11 +171,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "shipchunkdrop",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "travelergroup",
 		"price": 80,
 		"karmatype": "Good"
@@ -211,11 +201,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "shippartpsychic",
-		"price": 2400,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "militaryaid",
 		"price": 700,
 		"karmatype": "Neutral"
@@ -228,11 +213,6 @@
 	{
 		"abr": "dropraid",
 		"price": 5000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidraid",
-		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -381,5 +361,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 76
+	"total": 72
 }
