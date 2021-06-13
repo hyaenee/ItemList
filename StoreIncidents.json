@@ -63,7 +63,7 @@
 	{
 		"abr": "coldsnap",
 		"price": 2800,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "solarflare",
@@ -192,8 +192,8 @@
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 600,
-		"karmatype": "Bad"
+		"price": 1600,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "shippartpoison",
@@ -217,8 +217,8 @@
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
-		"karmatype": "Bad"
+		"price": 3500,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "manhunterpack",

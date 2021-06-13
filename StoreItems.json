@@ -1012,7 +1012,7 @@
       "abr": "heiler-mech-serum",
       "category": "Objekte",
       "defname": "MechSerumHealer",
-      "price": 2167
+      "price": 1767
     },
     {
       "abr": "heilungsverstärker",
@@ -1726,7 +1726,7 @@
       "abr": "nashorn",
       "category": "Animal",
       "defname": "Rhinoceros",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "nashornfleisch",
@@ -2164,7 +2164,7 @@
       "abr": "ratte",
       "category": "Animal",
       "defname": "Rat",
-      "price": -10
+      "price": 258
     },
     {
       "abr": "rattenfleisch",
